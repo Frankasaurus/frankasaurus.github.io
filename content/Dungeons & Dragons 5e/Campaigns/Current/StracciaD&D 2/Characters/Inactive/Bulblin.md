@@ -82,7 +82,6 @@ Story of after meeting the gang.
 # Relationships
 ## Persoon
 Is dit nodig?
-TEEEEEST!
 # Character information
 ## Quests
 Short listing of quests this character is after as an adventurer.
