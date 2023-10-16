@@ -64,7 +64,7 @@ languages: [Common, Infernal, Draconic]
 Elisabeth de Dragoness is a [[Tiefling]] Draconic Bloodline [[Sorcerer]]. She is played by Kim.
 # Description
 ## Appearance
-Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness family]], parts of her skin are covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head and dark-colored hair.
+Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness Family]], parts of her skin are covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head and dark-colored hair.
 
 Elisabeth is often dressed in modest noble clothing, including a large cloak designed to somewhat obscure both her heritage and wealth, though the cloak is also addorned with a silver emblem om the [[Dragoness Family]]. 
 ## Personality
@@ -80,7 +80,7 @@ When Elisabeth was 23, her life was turned on its head, when in a sudden fit of 
 > TODO
 # Character information
 ## Quests
-Elisabeth's long-term goal is to recover the secret that has escaped her family. Its risk, though mostly unknown beforehand, is vital to the survival of the [[Dragoness family|Dragoness]]' name.
+Elisabeth's long-term goal is to recover the secret that has escaped her family. Its risk, though mostly unknown beforehand, is vital to the survival of the [[Dragoness Family|Dragoness]]' name.
 ## Notable items
 - A cloak & broche with the [[Dragoness Family]] emblem.
 - A royal charter.
