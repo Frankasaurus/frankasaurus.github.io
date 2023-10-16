@@ -38,7 +38,7 @@ languages:
 > | **Location** | `=this.location` |
 > | **Age** | `=this.age` |
 > | **Languages** | `=this.languages` |  
-> | **Connections** | - [[Xavion]] (patron) |
+> | **Connections** | - [[Xavion de Dragoness]] (patron) |
 > | **Status** | `=this.status` |
 
 `=this.name_full` is a `=this.creature_subrace` `=this.creature_race` `=this.subclass` `=this.class`. As an NPC, `=choice(this.gender = "Male", "he", "she")` is played by [[Alex]]. 

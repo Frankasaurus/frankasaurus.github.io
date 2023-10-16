@@ -38,7 +38,7 @@ languages:
 > | **Location** | `=this.location` |
 > | **Age** | `=this.age` |
 > | **Languages** | `=this.languages` |  
-> | **Family** | - [[Dragoness Family]] (co-elder)<br>- [[Xavion]] (wife)<br>- [[Elisabeth de Dragoness]] (mother) |
+> | **Family** | - [[Dragoness Family]] (co-elder)<br>- [[Xavion de Dragoness]] (wife)<br>- [[Elisabeth de Dragoness]] (mother) |
 > | **Connections** | - [[Cirdorim]] (gift-bearer) |
 > | **Status** | `=this.status` |
 

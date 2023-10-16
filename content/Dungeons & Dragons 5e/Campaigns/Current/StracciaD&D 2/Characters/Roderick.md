@@ -75,30 +75,29 @@ Roderick is the most chipper and talkative member of the party, with him usually
 ## Before the campaign
 When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of [[The Wovens]]. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 
 
-That changed when a main chained to a tree happened to appear during his foraging run, who looked old and dishevelled. Roderick saw this as a man in distress, hopelessly bound in the woods by thieves or scum. The man, who claimed to be a wizard, spoke to Roderick, telling him that if he was too weak to break the chains tying him in place, the Wizard could lend him temporary powers that would help him free the man, to which Roderick obliged. The man only needed a single drop of blood, and a short cut across the finger later, Roderick found the strength to loosen the man's chain. The wizard thanked him for his help, and spoke to him at length about his time in the woods, never once speaking of his own past, and always diverting back to Roderick. 
+That changed when a man chained to a tree happened to appear during his foraging run, who looked old and dishevelled. Roderick saw this as a man in distress, hopelessly bound in the woods by thieves or scum. The man, who claimed to be a wizard, spoke to Roderick, telling him that if he was too weak to break the chains tying him in place, the Wizard could lend him temporary powers that would help him free the man, to which Roderick obliged. The man only needed a single drop of blood, and a short cut across the finger later, Roderick found the strength to loosen the man's chain. The wizard thanked him for his help, and spoke to him at length about his time in the woods, never once speaking of his own past, and always diverting back to Roderick. 
 
 Several visits later, the man came to Roderick with an odd request, namely to carve a message into a tree, after which Roderick was handed a letter with unknown symbols. This Roderick did. Several other requests followed; hide an object somewhere in the woods, listen in on some folks who were passing through nearby, or stay up at night to watch the sky for unknown flying demons. Roderick obliged nearly always, helping the man out as much as he could, the wizard always remaining as friendly as ever. 
 
-One request ended up sticking out; the pushing of a man off of a ledge. The wizard asked Roderick to help him in a life-or-death situation, where he was to confront an evil man camping nearby, who might try to take his life. Roderick was asked to push him once he found the man to become a danger to the Wizard. Sure enough, that evening, the wizard struck up a conversation with a man camping nearby, and threatened to take the wizards life, repeatedly shouting at the groveling wizard to "release him"! As instructed, Roderick acted, and after a long scream, followed by a short silence, the man was no more. This would be too much for Roderick, who felt disgusted, dirty, but also violent. A feeling flared in him that had not existed yet. Though he did not enjoy taking a life, he noticed himself revelling in using the power the wizard had given him all those weeks ago. But the wizard was replaced with a completely different man.
+One request ended up sticking out; the pushing of a man off of a ledge. The wizard asked Roderick to help him in a life-or-death situation, where he was to confront an evil man camping nearby, who might try to take his life. Roderick was asked to push him once he found the man to become a danger to the Wizard. Sure enough, that evening, the wizard struck up a conversation with a man camping nearby, and threatened to take the wizards life, repeatedly shouting at the groveling wizard to "release him"! As instructed, Roderick acted, and after a long scream, followed by a short silence, the man was no more. This would be too much for Roderick, who felt disgusted, dirty, but also violent. A feeling flared in him that had not existed yet. Though he did not enjoy taking a life, he noticed himself revelling in using the power the wizard had given him all those weeks ago. But the wizard was replaced with a [[Sargenet|completely different man]].
 
 The old visage now stood proudly, hovering slightly, no longer the frail and friendly face. A fiend had replaced this person, and a dark shadow of a face now took hold over his appearance. Not a request, but a command spoke, to do as he told him, for Roderick was now in this man's clutches. Not a moment after, Roderick panicked and fled.
 
 Roderick travelled for days on end, eventually reaching the port city of [[Kenoa]], and boarding a ship to [[Telack]] chasing a story of [[Lady Vethrines|someone]] on the archipelago who might be able to help a man like Roderick get rid of his inner demons.
 ## Adventures
+> TODO
+
 He found a [[Wand of the War Mage +1|Wand]] when exploring the Towers of Stendor.
 # Relationships
-## Persoon
-Is dit nodig?
+> TODO
+### Eliene
+[[Eliene]] is a haunting of Roderick's dreams, whose purpose, state of being, and motive is yet unknown.
 # Character information
 ## Quests
-Short listing of quests this character is after as an adventurer.
+Roderick is bound to get rid of his relationship with [[Sargenet]], or to at least be unbound to this fiend. 
 ## Notable items
-- List of items
+- A spell Grimoire, called the "Book of Shadows"
 ## Magic items
-```dataview
-LIST
-FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"
-WHERE owner = this.name_first
-```
+- [[Wand of the War Mage +1]]
 # Trivia
 - List of trivia

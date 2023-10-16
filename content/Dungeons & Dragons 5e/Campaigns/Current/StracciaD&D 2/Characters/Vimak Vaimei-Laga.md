@@ -89,17 +89,14 @@ In his clan, there was only one punishment for killing a family member: death. H
 
 In his exile, Vimak saught to travel the world, and restore his own pride and legacy, turning to his brother's patron [[Hevenar]] for guidance. The God is said to preach the two deaths; the first when you breathe your last breath, the second when your name is spoken for the last time. This suited Vimak's goals of restoring the glory of Aukan, and in his name he ventured forth, until finally reaching [[Telack]], where he met a group op new friends.
 ## Adventures
-Story of after meeting the gang.
+> TODO
 # Relationships
-## Persoon
-Is dit nodig?
+> TODO
 # Character information
 ## Quests
 Vimak is trying to find his place in the world, partially achieved by traveling around to see what is out there beyond the Alps he grew up in. More importantly, is to find inner peace and redemption for what happened with Aukan, which is the main reason why he became a [[Paladin]].
 
-> [!warning]- Spoilers
-> *See [[Vimak - Gathakeaku in danger]] for the full quest rundown*
-> Something came up along the way. His tribe is in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants, which puts the [[Gathakeaku Clan]] at risk. 
+His tribe - the [[Gathakeaku Clan]] - is also in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants. This puts the clan at risk, which has put forth the need for their finest warriors. With [[Aukan]] gone, Vimak is called in for help, which he has accepted.
 
 ## Notable items
 - List of items
@@ -110,4 +107,5 @@ FROM "Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/Magic Items"
 WHERE owner = this.name_first
 ```
 # Trivia
-- List of trivia
+- He spent nearly a year's wage on a very fancy captain's hat.
+- Vimak has shown romantic interest in Arcanist [[Aileen des Venohsi]], a crew member of the supreme vessel "[[The Giant of Jaxos]]", even spending the night with her.

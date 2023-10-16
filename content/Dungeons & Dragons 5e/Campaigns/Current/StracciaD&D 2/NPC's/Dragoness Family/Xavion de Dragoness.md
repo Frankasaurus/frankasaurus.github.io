@@ -38,7 +38,7 @@ languages:
 > | **Location** | `=this.location` |
 > | **Age** | `=this.age` |
 > | **Languages** | `=this.languages` |  
-> | **Family** | - [[Dragoness Family]] (elder)<br>- [[Willemijn]] (husband)<br>- [[Elisabeth de Dragoness]] (father) |
+> | **Family** | - [[Dragoness Family]] (elder)<br>- [[Willemijn de Dragoness]] (husband)<br>- [[Elisabeth de Dragoness]] (father) |
 > | **Connections** | - [[Kruziik'ahraan]] (relation)<br>- [[Name]] (relation |
 > | **Status** | `=this.status` |
 

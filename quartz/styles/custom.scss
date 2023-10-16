@@ -46,8 +46,10 @@ th:empty {
   --h6-border-line-height: 0;
   border: 0;
   box-shadow: none;
-  width: auto;
-  max-width: 350px;
+  width: 25%;
+  min-width: 250px;
+  max-width: 500px;
+  margin-left: 20px;
   float: right;
   border-radius: var(--radius-s);
 }
