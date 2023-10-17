@@ -61,7 +61,7 @@ languages: [Common, Elvish, "Thieves' Cant"]
 > | **Dex** | 18 | **Wis** | 16 |
 > | **Con** | 15 | **Cha** | 9 |
  
-Phillipa Vurrinir is a Wood [[Elf]] Thief [[Rogue]]. She is played by [[Hanne]].
+**Phillipa Vurrinir** is a Wood [[Elf]] Thief [[Rogue]]. She is played by [[Hanne]].
 # Description
 ## Appearance
 Phillipa is a slender Wood Elven woman, in her early 200's. She has straight light-brown hair, light green eyes, and a sleek face with narrow eyes. She is of relatively slender build, and naturally moves quitelly.

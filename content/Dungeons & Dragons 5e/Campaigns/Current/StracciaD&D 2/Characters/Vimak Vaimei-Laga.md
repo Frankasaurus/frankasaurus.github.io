@@ -66,7 +66,7 @@ languages:
 > | **Dex** | 11 | **Wis** | 11 |
 > | **Con** | 14 | **Cha** | 12 |
 
-Vimak Vaimei-Laga is a [[Goliath]] Oath of Devotion [[Paladin]]. He is played by [[Roy]].
+**Vimak Vaimei-Laga** is a [[Goliath]] Oath of Devotion [[Paladin]]. He is played by [[Roy]].
 # Description
 ## Appearance
 Vimak a large and muscular [[Goliath]] with blueish grey skin, tattoo's that cover his body, and a deep vertical scar over his eye. He is slightly bearded and otherwise bald, though Goliath Kin aren't known to have extensive facial hair. 

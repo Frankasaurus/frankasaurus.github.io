@@ -60,7 +60,7 @@ languages: [Common, Orcish]
 > | **Dex** | 16 | **Wis** | 13 |
 > | **Con** | 14 | **Cha** | 14 |
 
-Robyn is a [[Half-Orc]] [[Monk]] of the Way of the Astral Self. She is played by [[Lise]].
+**Robyn** is a [[Half-Orc]] [[Monk]] of the Way of the Astral Self. She is played by [[Lise]].
 # Description
 ## Appearance
 Robin is a muscular, relatively slender half-orc woman. Due to her heritage, her lower canines protrude from her mouth, and her skin is greenish grey in tone. She has black braids and dreadlocks for hair, with colored accents wrapped around some of the dreads. Thanks to becoming infused with [[Baghtru's Gloves]], her fingers and hands have stonestring woven through them; hair-thin flexible wires that solidify when used with aggressive force. 

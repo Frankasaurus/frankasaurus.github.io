@@ -1,33 +1,38 @@
 ---
-type: "Player Character"
-player: "Kim"
-campaign: "StracciaD&D 2"
-member: "All sessions"
-member_status: "Current"
-name_first: "Elisabeth"
-name_last: "de Dragoness"
-name_full: "Elisabeth de Dragoness"
-name_aka: ["His free lady Elisabeth (Official title)"]
+type: Player Character
+player: Kim
+campaign: StracciaD&D 2
+member: All sessions
+member_status: Current
+name_first: Elisabeth
+name_last: de Dragoness
+name_full: Elisabeth de Dragoness
+name_aka:
+  - His free lady Elisabeth (Official title)
 creature_type: Humanoid
-creature_race: "Tiefling"
+creature_race: Tiefling
 creature_subrace: ""
 gender: Female
 age: 23
-place_of_birth: "Dragoness Barony"
-class: "Sorcerer"
-subclass: "Draconic Bloodline"
+place_of_birth: Dragoness Barony
+class: Sorcerer
+subclass: Draconic Bloodline
 background: Noble
 level: 6
 status: Alive
 hit_points: ??
 armor_class: 15
 stat_str: 8
-stat_dex: 14
+stat_dex: 10
 stat_con: 12
 stat_int: 10
 stat_wis: 12
 stat_cha: 19
-languages: [Common, Infernal, Draconic]
+languages:
+  - Common
+  - Infernal
+  - Draconic
+publish: true
 ---
 > [!infobox]  
 > # Elisabeth de Dragoness
@@ -61,7 +66,7 @@ languages: [Common, Infernal, Draconic]
 > | **Dex** | 14 | **Wis** | 12 |
 > | **Con** | 12 | **Cha** | 19 |
 
-Elisabeth de Dragoness is a [[Tiefling]] Draconic Bloodline [[Sorcerer]]. She is played by Kim.
+**Elisabeth de Dragoness** is a [[Tiefling]] Draconic Bloodline [[Sorcerer]]. She is played by Kim.
 # Description
 ## Appearance
 Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness Family]], parts of her skin are covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head and dark-colored hair.

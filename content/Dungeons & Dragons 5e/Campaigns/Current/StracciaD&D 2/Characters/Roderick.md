@@ -63,7 +63,7 @@ languages:
 > | **Dex** | 10 | **Wis** | 14 |
 > | **Con** | 14 | **Cha** | 18 |
 
-Roderick is a [[Half-Elf]] of Wood-Elf herritage, and a Pact of the Fiend [[Warlock]]. He is played by [[Melle]].
+**Roderick** is a [[Half-Elf]] of Wood-Elf herritage, and a Pact of the Fiend [[Warlock]]. He is played by [[Melle]].
 # Description
 ## Appearance
 Roderick is a [[Half-Elf]] of shorter stature, with pointy ears and a very slightly darkened skin due to his Wood elven heritage. His hair is a prominent fiery red.

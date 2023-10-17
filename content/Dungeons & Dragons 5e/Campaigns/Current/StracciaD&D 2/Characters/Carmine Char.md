@@ -1,21 +1,22 @@
 ---
-type: "Player Character"
+type: Player Character
 player: Kacper
-campaign: "StracciaD&D 2"
-member: "All sessions"
-member_status: "Current"
+campaign: StracciaD&D 2
+member: All sessions
+member_status: Current
 name_first: Carmine
 name_last: Charr
-name_full: "Jules Carmine Charr Jr."
-name_aka: ["The 20th Chosen of Olvex (Title bestowed by Olvex)"]
+name_full: Jules Carmine Charr Jr.
+name_aka:
+  - The 20th Chosen of Olvex (Title bestowed by Olvex)
 creature_type: Humanoid
-creature_race: "Genasi"
-creature_subrace: "Fire"
+creature_race: Genasi
+creature_subrace: Fire
 gender: Male
 age: 28
-place_of_birth: "Dragoness Barony"
-class: "Cleric"
-subclass: "Light Domain"
+place_of_birth: Dragoness Barony
+class: Cleric
+subclass: Light Domain
 background: Acolyte
 level: 6
 status: Alive
@@ -27,7 +28,10 @@ stat_con: 16
 stat_int: 10
 stat_wis: 17
 stat_cha: 10
-languages: [Common, Primordial]
+languages:
+  - Common
+  - Primordial
+publish: true
 ---
 > [!infobox]  
 > # Carmine Charr
@@ -61,7 +65,7 @@ languages: [Common, Primordial]
 > | **Dex** | 14 | **Wis** | 17 |
 > | **Con** | 16 | **Cha** | 10 |
 
-Carmine Charr is a Fire [[Genasi]] Light Domain [[Cleric]] of [[Olvex]]. He is played by [[Kacper]].
+**Carmine Charr** is a Fire [[Genasi]] Light Domain [[Cleric]] of [[Olvex]]. He is played by [[Kacper]].
 # Description
 ## Appearance
 Carmine is a red-skinned, orange-haired humanoid, like most fire [[Genasi]]. His hair is kept short at the sides, but swept back up top. His eyes are typically fire-y red, nearly glowing when looked at in the dark. He is of average height and build.
