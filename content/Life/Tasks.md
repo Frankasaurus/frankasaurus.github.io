@@ -1,5 +1,0 @@
-- [ ] Get 3D printer (Prusa MK4) -> talk to dad / marktplaats
-- [ ] Get bordspellenbeurs tickets
-- [ ] Hoekbureau (tweemaal 170x70cm? / **160cmx80cm**)
-	- [ ] https://www.bureaublad-op-maat.nl/product/wenge-bureaublad-op-maat/ 240 voor 1 blad
-	- [ ] https://www.albeka.nl/tafelblad-180-x-80-cm-rechthoekig-antraciet-eiken/ 120 per blad
