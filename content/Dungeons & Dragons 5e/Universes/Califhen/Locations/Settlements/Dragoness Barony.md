@@ -72,17 +72,17 @@ Besides residence for the Dragoness', a guest house is available on the premises
 | The Smauldering Emporium    | General store | Four General stores distributed throughout the Bronze Reach  | Trademaster Henza (Adult elven M, spectacled, sympathetic but egotistical)            | These state-owned shops were established to both make government-owned use of the labor force, as well as tax the rich.                               |
 | Drake Yard                  | Stable        | Outside the perimiter walls, between Palace and Bronze reach | Drakewarden Tar'hyris (Senior blue half-dragon F, loyal and realistic)                | Dragoness Barony does not use horses, but drakes.                                                                                                     | 
 # Society
-A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
+> TODO: A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
 ## Leadership
-A short description about the place's leader or leaders. What system is used, why, to what effect.
+> TODO: A short description about the place's leader or leaders. What system is used, why, to what effect.
 ## Notable people
-A short list of folks who call this settlement their home. 
+> TODO: A short list of folks who call this settlement their home. 
 ## Defense
-An overview of their forces that protect and attack.
+> TODO: An overview of their forces that protect and attack.
 ### Order Guard
 Led by [[Fumyss|General Fumyss]].
 ### Palace Guard.
 Led by [[Charles de Dragoness]].
 # History
-A rundown of the location and its founding up to its current state.
+> TODO: A rundown of the location and its founding up to its current state.
 
