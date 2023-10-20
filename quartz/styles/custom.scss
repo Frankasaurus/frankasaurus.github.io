@@ -1,61 +1,32 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-// Snippet: Banner fix
-.obsidian-banner-wrapper {
-  margin-top: 0px;
-  padding-top: 0px;
-}
-
-.mod-header:has(+ .obsidian-banner-wrapper) {
-  margin-top: var(--banner-height);
-}
-
-// Snippet: Empty Header
-th:empty {
-  display: none;
-}
-
-// Snippet: Popover width
-.popover.hover-popover {
-  width: 50%
-}
-
 // Snippet: S- Callouts
 /*Infobox*/
-:is(.is-mobile:not(.is-tablet),
-.is-mobile:not(.is-tablet) .is-live-preview,
-.is-live-preview) .callout[data-callout~=infobox]:not([data-callout-metadata~=mobile]) {
-  float: unset !important;
-  max-width: 100%;
-  margin: 0 !important;
-  width: auto;
-}
-
 .callout[data-callout~=note] {
-  --callout-color: var(--note, var(--background-primary));
-  --callout-padding: 0;
-  --callout-content-padding: 0;
-  --callout-margin: 0 0 0 5px;
   background: var(--note, var(--background-primary));
-  --h1-border-line-height: 0;
-  --h2-border-line-height: 0;
-  --h3-border-line-height: 0;
-  --h4-border-line-height: 0;
-  --h5-border-line-height: 0;
-  --h6-border-line-height: 0;
   border: 0;
-  box-shadow: none;
-  width: 25%;
-  min-width: 250px;
-  max-width: 500px;
-  margin-left: 20px;
-  float: right;
   border-radius: var(--radius-s);
 }
+
+@media only screen and (min-width: 756px) {
+  .callout[data-callout~=note] {
+    float: right;
+    width: 30%;
+    min-width: 250px;
+    max-width: 700px;
+    margin-left: 20px;
+  }
+}
+
+.callout table {
+  margin: 0;
+  width: 100%;
+}
+
+.callout table td {
+  padding: 0 0 0 5px;
+}
+
 .callout[data-callout~=note] > .callout-title {
-  justify-content: center;
-  align-items: center;
-  align-self: center;
   display: none;
 }
