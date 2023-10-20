@@ -22,3 +22,7 @@ Party list:
 > Some links might result in a 404 page. This means that the page isn't created yet. 
 > If you encounter any other issues, please notify me.
 
+# Worldbuild with me!
+Wherever you see the following, feel free to give your own input, especially if it's an NPC or area you yourself feel like creating!
+> TODO: Something to do
+

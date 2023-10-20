@@ -18,6 +18,7 @@ languages:
   - Common
   - Draconic
   - Infernal
+publish:
 ---
 > [!infobox]  
 > # Kruziik'ahraan "The Scar"

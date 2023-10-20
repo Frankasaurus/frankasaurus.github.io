@@ -1,5 +1,6 @@
 ---
-tags: []
+tags: 
+publish: true
 ---
 > [!infobox]  
 > # Greyskil Refugee Resistance
@@ -25,4 +26,4 @@ They have been established a little under a decade ago due to the rising conflic
 - [[Qin Lam]]
 - [[Bloeming Isles]] (Sponsors the militia out of mutual interests)
 ## Previous members
-- [[Dragoness Barony]] (Officially still supports the cause, but the GRR has refused any aid due to the moral disposition of the Barony's regency)
+- [[Dragoness Barony]] (Officially still supports the cause, but the GRR has refused any aid due to the recent moral disposition of the Barony's regency)

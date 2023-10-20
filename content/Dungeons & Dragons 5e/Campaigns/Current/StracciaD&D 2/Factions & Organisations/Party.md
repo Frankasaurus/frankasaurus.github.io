@@ -1,6 +1,7 @@
 ---
 tags:
   - Update
+publish: true
 ---
 > [!infobox]  
 > # Party
@@ -16,17 +17,17 @@ tags:
 **The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. 
 # Members
 ## Current members
-- [[Carmine Char]]
-- [[Elisabeth de Dragoness]]
-- [[Phillipa Vurrinir]]
-- [[Robyn]]
-- [[Roderick]]
-- [[Vimak Vaimei-Laga]]
+- [[Carmine Char]], a Fire Genasi Cleric of Olvex
+- [[Elisabeth de Dragoness]], a noble Tiefling Sorceress
+- [[Phillipa Vurrinir]], a runaway Elven Rogue
+- [[Robyn]], a Monk Half-Orc, and ex-circus act
+- [[Roderick]], a cursed Half-Elf Warlock
+- [[Vimak Vaimei-Laga]], a traveling Goliath Paladin to [[Hevenar]]
 ## Previous members
-- [[Bulblin]]
-- [[Kénos]]
+- [[Bulblin]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
+- [[Kénos]], a Warforged holy Psi-Fighter
 # Journey
 ## Chapter 1
-[[Keylin Ostver]] & exploring [[Bloeming Isles]]
+>TODO: [[Keylin Ostver]] & exploring [[Bloeming Isles]]
 ## Chapter 2
-Finding [[Bejamin de Dragoness]] & return to [[Dragoness Barony]].
+>TODO: Finding [[Benjamin de Dragoness]] & return to [[Dragoness Barony]] & [[Greyskil]].

@@ -33,6 +33,7 @@ languages:
   - Common
   - Elvish
   - Giant
+publish: true
 ---
 > [!infobox]  
 > # Vimak Vaimei-Laga

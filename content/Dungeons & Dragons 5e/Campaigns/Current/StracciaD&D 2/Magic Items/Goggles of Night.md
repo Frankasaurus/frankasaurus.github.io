@@ -14,6 +14,7 @@ owner: Undetermined
 owner_previous:
   - ""
 value_gp: "2000"
+publish:
 ---
 > [!infobox]  
 > # Goggles of Night
@@ -33,10 +34,7 @@ value_gp: "2000"
 > | **Previous** | Unknown |
 
 The **Goggles of Night** are spectacles that allow for night-vision.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.

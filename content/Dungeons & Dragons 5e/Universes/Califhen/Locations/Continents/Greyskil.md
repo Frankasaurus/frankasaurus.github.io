@@ -1,3 +1,6 @@
+---
+publish: true
+---
 > [!infobox]
 > # Greyskil
 > ![[Image.jpg|cover hsmall]]  

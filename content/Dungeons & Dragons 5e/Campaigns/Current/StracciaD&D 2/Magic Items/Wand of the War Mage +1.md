@@ -25,13 +25,10 @@ owner_previous: ["Unnamed Towers of Stendor professor"]
 > | | |
 > |---|---|
 > | **Current** | [[Roderick]] |
-> | **Previous** | [[Towers of Stendor]] |
+> | **Previous** | A professor of the [[Towers of Stendor]] |
 
 The **Wand of the War Mage +1** is an old wand that enhances spells cast using it.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While holding this wand, you gain a bonus to spell attack rolls determined by the wand’s rarity. In addition, you ignore half cover when making a spell attack. Requires attunement by a Spellcaster.

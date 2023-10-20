@@ -9,8 +9,9 @@ attunement: No
 slot: Cloak
 cursed: 0
 owner: Oynur
-owner_previous: []
+owner_previous: 
 value_gp: 7000
+publish:
 ---
 > [!infobox]  
 > # Cape of the Mountebank

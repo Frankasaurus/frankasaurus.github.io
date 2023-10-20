@@ -1,33 +1,37 @@
 ---
-type: "Player Character"
-player: "Lise"
-campaign: "StracciaD&D 2"
-member: "From session 9 onwards"
-member_status: "Current"
-name_first: "Robyn"
+type: Player Character
+player: Lise
+campaign: StracciaD&D 2
+member: From session 9 onwards
+member_status: Current
+name_first: Robyn
 name_last: ""
-name_full: "Robyn"
-name_aka: [""]
+name_full: Robyn
+name_aka:
+  - ""
 creature_type: Humanoid
-creature_race: "Half-Orc"
+creature_race: Half-Orc
 creature_subrace: ""
 gender: Female
 age: 24
-place_of_birth: "Torpe"
-class: "Monk"
-subclass: "Way of the Astral Self"
+place_of_birth: Torpe
+class: Monk
+subclass: Way of the Astral Self
 background: Entertainer
 level: 7
 status: Alive
 hit_points: 45
-armor_class: 14 
+armor_class: 14
 stat_str: 13
 stat_dex: 16
 stat_con: 14
 stat_int: 11
 stat_wis: 13
 stat_cha: 14
-languages: [Common, Orcish]
+languages:
+  - Common
+  - Orcish
+publish: true
 ---
 > [!infobox]  
 > # Robyn

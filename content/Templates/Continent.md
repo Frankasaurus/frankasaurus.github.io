@@ -14,6 +14,8 @@
 > | **Points of interest** | -Terrain type<br>- Terrain type |
 
 **(NAME)** is the common Califhenic name for the region (DETAILS). It is home to (IMPORTANT CIVILIZATIONS).
+
+![[ContinentMap.png|750]]
 # Society
 ## (SOCIETY 1)
 > TODO: short description of nation or group

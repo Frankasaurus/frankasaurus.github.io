@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 > [!infobox]  
 > # The Bonehead
 > ![[Image.jpg|cover hsmall]]  
@@ -20,5 +24,7 @@
 	- Crewmembers Robyn and Phillipa (joined later)
 ## Previous members
 - [[Wilmide Ostver]], owner and user
+# Layout
+>TODO: Add maps & pictures
 # Trivia
 - Known by [[Lise]] as 'The Bonerhead'.

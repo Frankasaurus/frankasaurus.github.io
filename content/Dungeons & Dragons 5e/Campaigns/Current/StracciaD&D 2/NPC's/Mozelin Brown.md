@@ -1,6 +1,7 @@
 ---
 tags:
   - TODO
+publish: true
 ---
 > [!infobox]  
 > # Mozelin Brown 
@@ -28,14 +29,13 @@ tags:
 Madame **Mozelin Brown** is a [[Dwarf|Dwarven]] Circus proprietor traveling through the [[Bloeming Isles]] with her circus, [[Mozelin Brown's Bazaar]]. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
-Description of appearance.
+> TODO: Description of appearance.
 ## Personality
-Description of personality.
+> TODO: Description of personality.
 # Biography
-What happened to them relevant to the story.
+> TODO: What happened to them relevant to the story.
 # Relationships
-## Party
-> TODO
+> TODO: 
 # Character information
 ## Notable items
 - List of items

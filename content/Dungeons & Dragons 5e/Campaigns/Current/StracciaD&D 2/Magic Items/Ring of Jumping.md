@@ -12,6 +12,7 @@ owner: Undetermined
 owner_previous:
   - ""
 value_gp: "3000"
+publish:
 ---
 > [!infobox]  
 > # Ring of Jumping
@@ -31,10 +32,7 @@ value_gp: "3000"
 > | **Previous** | Unknown |
 
 The **Ring of Jumping** is a piece of jewelry that allow the casting of the Jump spell.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so.

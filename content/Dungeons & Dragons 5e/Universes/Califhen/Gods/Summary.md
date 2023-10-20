@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ## Greater Deities
 
 The first among time and space were sparks coagulating into ideas, which in turn formed thoughts. To further these thoughts, time was invented, and to give these thoughts a form of expression, space was crafted. It was all these instances combined that sparked the creation of all possible forms of thought to span across the entire domain of capable thinking, and gave way to the Greater Deities. Together, they form the Califhenic Pantheon, known as the RisenDawn Pantheon.

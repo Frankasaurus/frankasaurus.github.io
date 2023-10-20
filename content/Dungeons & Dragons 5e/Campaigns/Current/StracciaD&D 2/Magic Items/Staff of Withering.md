@@ -1,14 +1,18 @@
 ---
-name: "Staff of Withering"
-name_short: "Staff of Withering"
-type: "Quarterstaff"
-rarity: "Rare"
-materials: ["Wood", "Precious Metal"]
-attunement: "Yes, by a Cleric, Druid, or Warlock"
-slot: "Weapon"
+name: Staff of Withering
+name_short: Staff of Withering
+type: Quarterstaff
+rarity: Rare
+materials:
+  - Wood
+  - Precious Metal
+attunement: Yes, by a Cleric, Druid, or Warlock
+slot: Weapon
 cursed: 0
-owner: "Sargenet"
-owner_previous: ["None"]
+owner: Sargenet
+owner_previous:
+  - None
+publish:
 ---
 > [!infobox]  
 > # Staff of Withering
@@ -28,11 +32,8 @@ owner_previous: ["None"]
 > | **Previous** | Unknown |
 
 The **Staff of Withering** is a large staff that can weaken the creature it hurts further.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 This staff has 3 charges and regains 1d3 expended charges daily at dawn.  
   

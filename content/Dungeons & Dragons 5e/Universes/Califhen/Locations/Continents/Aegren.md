@@ -3,6 +3,7 @@ banner: "![[AegrenBg.jpeg]]"
 banner_y: 0.79734
 tags:
   - TODO
+publish: true
 ---
 > [!infobox]
 > # Aegren 
@@ -21,7 +22,7 @@ tags:
 
 **Aegren** is the common Califhenic name for the Southern polar region. It is home only to creatures that can withstand extreme cold weather conditions, or those in established colonies like its capital, Palacina.
 
-![[AegrenMap.png|1000]]
+![[AegrenMap.png|750]]
 
 # Society
 ## (SOCIETY 1)

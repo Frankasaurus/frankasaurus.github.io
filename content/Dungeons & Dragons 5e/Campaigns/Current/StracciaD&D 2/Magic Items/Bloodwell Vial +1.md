@@ -13,6 +13,7 @@ owner: Burried on Tezeder
 owner_previous:
   - Unknown pirate
 value_gp: 5000
+publish:
 ---
 > [!infobox]  
 > # Bloodwell Vial +1

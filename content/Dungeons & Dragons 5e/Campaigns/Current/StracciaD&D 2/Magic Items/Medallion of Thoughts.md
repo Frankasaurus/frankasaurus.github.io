@@ -15,7 +15,7 @@ value_gp: 600
 ---
 > [!infobox]  
 > # Medallion of Thoughts
-> ![[GogglesOfNight.png|cover hsmall]]
+> ![[MedallionOfThoughts.jpeg|cover hsmall]]
 > ###### Base Info
 > | | |
 > |---|---|
@@ -31,10 +31,7 @@ value_gp: 600
 > | **Previous** | Unknown |
 
 The **Medallion of Thoughts** is a magical jewel that allows the casting of Detect Thoughts.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 The medallion has 3 charges. While wearing it, you can use an action and expend 1 charge to cast the detect thoughts spell (save DC 13) from it. The medallion regains 1d3 expended charges daily at dawn.

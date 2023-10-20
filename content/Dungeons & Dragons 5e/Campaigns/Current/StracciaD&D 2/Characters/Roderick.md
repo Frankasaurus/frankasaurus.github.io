@@ -31,6 +31,7 @@ stat_cha: 18
 languages:
   - Common
   - Elvish
+publish: true
 ---
 > [!infobox]  
 > # Roderick

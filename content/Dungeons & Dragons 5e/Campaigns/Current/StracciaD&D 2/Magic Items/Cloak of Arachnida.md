@@ -1,14 +1,18 @@
 ---
-name: "Cloak of Arachnida"
-name_short: "Cloak of Arachnida"
-type: "Wondrous Item"
-rarity: "Very Rare"
-materials: ["Cloth", "Silk"]
-attunement: "Yes"
-slot: "Cloak"
+name: Cloak of Arachnida
+name_short: Cloak of Arachnida
+type: Wondrous Item
+rarity: Very Rare
+materials:
+  - Cloth
+  - Silk
+attunement: Yes
+slot: Cloak
 cursed: 0
-owner: "Phillipa"
-owner_previous: ["Unknown"]
+owner: Phillipa
+owner_previous:
+  - Unknown
+publish: true
 ---
 > [!infobox]  
 > # Cloak of Arachnida
@@ -28,11 +32,8 @@ owner_previous: ["Unknown"]
 > | **Previous** | Unknown |
 
 The **Cloak of Arachnida** is a magical cloak that allows the wearer to use certain spider-like abilities.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:  
 • You have resistance to poison damage.  

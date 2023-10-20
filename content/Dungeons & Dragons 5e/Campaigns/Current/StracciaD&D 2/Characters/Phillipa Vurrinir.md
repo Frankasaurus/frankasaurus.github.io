@@ -1,21 +1,22 @@
 ---
-type: "Player Character"
-player: "Hanne"
-campaign: "StracciaD&D 2"
-member: "From session 29 onwards"
-member_status: "Current"
-name_first: "Phillipa"
-name_last: "Vurrinir"
-name_full: "Phillipa Vurrinir"
-name_aka: ["Misthold"]
+type: Player Character
+player: Hanne
+campaign: StracciaD&D 2
+member: From session 29 onwards
+member_status: Current
+name_first: Phillipa
+name_last: Vurrinir
+name_full: Phillipa Vurrinir
+name_aka:
+  - Misthold
 creature_type: Humanoid
-creature_race: "Elf"
-creature_subrace: "Wood"
+creature_race: Elf
+creature_subrace: Wood
 gender: Female
 age: 236
-place_of_birth: "Unknown"
-class: "Rogue"
-subclass: "Thief"
+place_of_birth: Unknown
+class: Rogue
+subclass: Thief
 background: Criminal
 level: 7
 status: Alive
@@ -27,7 +28,11 @@ stat_con: 15
 stat_int: 11
 stat_wis: 16
 stat_cha: 9
-languages: [Common, Elvish, "Thieves' Cant"]
+languages:
+  - Common
+  - Elvish
+  - Thieves' Cant
+publish: true
 ---
 > [!infobox]  
 > # Phillipa Vurrinir

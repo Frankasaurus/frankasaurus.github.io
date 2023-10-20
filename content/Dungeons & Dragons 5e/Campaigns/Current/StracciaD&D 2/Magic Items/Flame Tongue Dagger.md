@@ -12,6 +12,7 @@ cursed: 0
 owner: Phillipa
 owner_previous:
   - Unknown
+publish: true
 ---
 > [!infobox]  
 > # Flame Tongue Dagger
@@ -31,11 +32,8 @@ owner_previous:
 > | **Previous** | [[Towers of Stendor]] |
 
 The **Flame Tongue Dagger** is a flaming magical dagger that deals massive damage.
-## Features
-- Feature 1
-- Feature 2
 ## Appearance
-Looks description
+>TODO: Looks description
 # Description
 You can use a bonus action to speak this magic sword's command word, causing flames to erupt from the blade. These flames shed bright light in a 40-foot radius and dim light for an additional 40 feet. While the sword is ablaze, it deals an extra 2d6 fire damage to any target it hits. The flames last until you use a bonus action to speak the command word again or until you drop or sheathe the sword.  
   
