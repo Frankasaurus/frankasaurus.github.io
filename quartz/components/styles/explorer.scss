@@ -41,11 +41,14 @@ button#explorer {
 }
 
 #explorer-content {
+  background-color: var(--lightgray);
+  border-radius: 15px;
   list-style: none;
-  overflow: hidden;
-  max-height: none;
+  overflow: scroll;
+  max-height: 650px;
   transition: max-height 0.35s ease;
   margin-top: 0.5rem;
+  padding: 0.5rem;
 
   &.collapsed > .overflow::after {
     opacity: 0;
