@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Organisation/Old/ArcDoc StracciaD&amp;D 2.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Organisation/Old/Charinfo.md" beforeDir="false" />
@@ -51,6 +52,179 @@
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Story/Roderick - Removing the Curse.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Story/Vimak - Gathakeaku in danger.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/One-Shots/Legende van Experius/Sessie - De Experium-vloek.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Campaign-Overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Inactive/Bulblin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Inactive/Kénos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Inactive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Phillipa-Vurrinir.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Robyn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Roderick.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Vimak-Vaimei-Laga.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Factions-&amp;-Organisations/Greyskil-Refugee-Resistance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Factions-&amp;-Organisations/Party.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Factions-&amp;-Organisations/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Aukan's-Axe-of-the-Giant-Slayer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Baghtru's-Gloves.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Best-Booty.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Bloodwell-Vial-+1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Cape-of-the-Mountebank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Cloak-of-Arachnida.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Cloak-of-Protection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Flame-Tongue-Dagger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Goggles-of-Night.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Medallion-of-Thoughts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Medallion-of-Tijani's-Hurt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Olvex'-Eye.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Potion-of-Duo-neuro-perso-schism.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Ring-of-Jumping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Staff-of-Withering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/Wand-of-the-War-Mage-+1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/_Overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Magic-Items/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Amenadiel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Benjamin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Charles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Diederick.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Dragoness-Family.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Willemijn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/Xavion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Dragoness-Family/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Kruziik'ahraan.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/Oynur's-Imp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/NPC's/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Organisation/Old/ArcDoc-StracciaD&amp;D-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Organisation/Old/Charinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Organisation/Old/IntroDoc-Campaign.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Organisation/Old/IntroDoc-Hanne.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Organisation/Old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-006.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-008.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-009.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-010.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-011.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-012.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-013.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-014.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-015.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-016.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-017.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-018.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-020.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-021.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-022.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-023.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-024.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-025.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-026.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-027.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-028.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-029.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-030.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-031.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-032.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/Session-033.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/_Session-overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Sessions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Carmine---Becoming-the-20th.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Elisabeth---A-Secret-Dethroned.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Phillipa---No-clue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Robyn---Tijani's-Dark-Past.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Roderick---Removing-the-Curse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/Vimak---Gathakeaku-in-danger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Story/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/One-Shots/Legende-van-Experius/Sessie---De-Experium-vloek.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/One-Shots/Legende-van-Experius/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Source-Material/Races/Genasi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Source-Material/Races/_Overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Source-Material/Races/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/Deshuun.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/Eknovaris.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/Hadar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/Ruin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/Tareok.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Banished/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Immortals/Aria.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Immortals/Korhenevar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Immortals/Olvex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Immortals/Teokharis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Immortals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Keepers/Aliana.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Keepers/Chandria.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Keepers/Hevenar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Keepers/Syfos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Keepers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/Enezor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/Gestain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/Liliën.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/Midian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/Saaber.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Protectors/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Revered/Beas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Revered/Izo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Revered/Olmari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Revered/Udenor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Revered/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Unproven/Kentar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Unproven/Meneloth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Unproven/Ysbor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/Greater-Deities/Order-of-the-Unproven/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/_Summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Gods/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Califhen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Aegren.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Bloeming-Isles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Drav-Modesta.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Far-Kachmer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Greyskil.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Hyda.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Ilan-Lands.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Kinoa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Moundaria.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Nizakun.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Ordenis.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Orphelica.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Sutoden.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Ty'heris.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Uurogh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Xaterai.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/Zila.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/_Summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Continents/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Planes/A-Modern-Guide-to-Planes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Planes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Points-of-Interest/Cirdorim's-Lair.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Points-of-Interest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Settlements/Dragoness-Barony.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Settlements/_Summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/Settlements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Locations/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Lore/The-Origin-of-Califhen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Universes/Califhen/Lore/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/contentIndex.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/contentIndex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/todo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/update.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/quartz.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +235,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/content" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,20 +249,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/experius/Documents/Obsidian/frankasaurus.github.io/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/experius/Documents/Obsidian/frankasaurus.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/experius/Documents/Obsidian/frankasaurus.github.io/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,6 +277,7 @@
       <workItem from="1697486996777" duration="2229000" />
       <workItem from="1697573563399" duration="99000" />
       <workItem from="1697707574458" duration="10000" />
+      <workItem from="1697801842204" duration="297000" />
     </task>
     <servers />
   </component>
