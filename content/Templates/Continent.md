@@ -25,6 +25,8 @@
 ## (REGION 1)
 > TODO: short description of nation or group
 - (LINK TO PLACE IN REGION): Short description.
+## Points of Interest
+- (LINK TO PLACE): Short description
 # History
 >[!quote]
 >*“Lorem ipsum quote text”*  

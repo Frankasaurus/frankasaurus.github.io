@@ -18,6 +18,14 @@ Party list:
 - [[Roderick]]
 - [[Vimak Vaimei-Laga]]
 
+# Recently Updated
+The following pages have recently been updated, created, or made public:
+- [[Aegren]]
+- [[Bloeming Isles]]
+- Index (this page)
+- [[Olvex]]
+- [[TODO List StracciaD&D]]
+
 > [!info]
 > Some links might result in a 404 page. This means that the page isn't created yet. 
 > If you encounter any other issues, please notify me.

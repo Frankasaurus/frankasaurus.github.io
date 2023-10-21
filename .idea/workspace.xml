@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.obsidian/app.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/.obsidian/appearance.json" beforeDir="false" />
@@ -105,18 +104,8 @@
       <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/Templates/Continent.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Templates/Continent.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/Explorer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/Explorer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/components/styles/explorer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/components/styles/explorer.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +164,7 @@
       <workItem from="1697573563399" duration="99000" />
       <workItem from="1697707574458" duration="10000" />
       <workItem from="1697801842204" duration="1179000" />
-      <workItem from="1697803034268" duration="3265000" />
+      <workItem from="1697803034268" duration="3820000" />
     </task>
     <servers />
   </component>

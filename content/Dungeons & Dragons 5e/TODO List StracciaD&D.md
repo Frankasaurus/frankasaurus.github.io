@@ -8,18 +8,33 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 # To-Do list
 - [ ] Califhen;
 	- [ ] Existing settlements
+		- [ ] Meqen
+		- [ ] Telack
+		- [ ] Cape Rosa
+		- [ ] Dragoness Barony
+		- [ ] Tezeder?
+		- [ ] Amala Laguna?
+		- [ ] Add images?
 	- [ ] Continents
 		- [x] Create template
 			- [x] https://criticalrole.fandom.com/wiki/Tal%27Dorei
-		- [ ] Aegren
-		- [ ] Bloeming Isles
+		- [x] Aegren
+		- [x] Bloeming Isles
 		- [ ] Greyskil
 		- [ ] Drav-Modesta
 		- [ ] Orphelica
 		- [ ] The rest (rough lines)
-			- [ ] Find and transfer existing Ordenis data
-		- [ ] Add banner art? (check pages)
-	- [ ] Fill in deities
+			- [ ] Find and transfer existing Ordenis + Drav-Modesta data
+		- [ ] Add (banner) art? (check pages)
+		- [ ] Some continent Histories
+	- [ ] Fill in deities (https://docs.google.com/spreadsheets/d/1kL_GAsXFvyZWS0PCWh66iQcTWpwKP86oMGCB4YrhBdc/edit?usp=sharing)
+		- [x] Paste template everywhere
+		- [x] Olvex
+		- [ ] Hevenar
+		- [ ] Izo
+		- [ ] All the others
+		- [ ] Add descriptions to some
+		- [ ] Add images
 - [ ] Source Material
 	- [ ] Add folder system
 		- [ ] Revise To-do after this
@@ -27,21 +42,27 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] Create template
 		- [ ] Subraces
 		- [ ] Historical info for Califhen
+		- [ ] Add images
 	- [ ] Classes
 		- [ ] Create template
 		- [ ] Subclasses
+		- [ ] Add images
 	- [ ] Lineages
 	- [ ] Source material collection list
 - [ ] Characters
 	- [ ] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
+	- [ ] Add (more) images
+	- [ ] Write the entire story so-far
+		- [ ] **Let players do this?**
 - [ ] Site
 	- [x] Styling Wiki column
 	- [x] Phone view (remove infobox sideline mode at X width)
 	- [ ] Add banner functionality
 	- [x] Make the site not freak the fuck out when the exclusivity filter plugin is added
-	- [ ] Add publish: true to all visible documents
+	- [x] Add publish: true to all visible documents
 	- [ ] Fix popovers
+	- [ ] Add published / unpublished counter below explorer
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system
