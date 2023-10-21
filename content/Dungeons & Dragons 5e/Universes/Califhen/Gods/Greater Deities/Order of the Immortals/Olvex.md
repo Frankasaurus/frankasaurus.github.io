@@ -10,7 +10,6 @@ publish: true
 > |---|---|  
 > | **Type** | Greater Deity |
 > | **Title** | - Lifebringer<br>- The Inspiration |
-> | **Virtues** | Growth, Warmth, Construction, Art |
 > | **Order** | Immortals |
 > | **Common Symbol** | A floating orb with two hands above and below it |
 > | **Gender** | Masculine |
@@ -20,6 +19,7 @@ publish: true
 > | | |  
 > |---|---|  
 > | **Worshippers** | Commoners, Expecting parents, Healers, Artists, Inventors |
+> | **Virtues** | Growth, Warmth, Construction, Art |
 > | **Status** | Active |
 
 **Olvex** is The God of Creation. As an NPC, he/she is played by [[Alex]].

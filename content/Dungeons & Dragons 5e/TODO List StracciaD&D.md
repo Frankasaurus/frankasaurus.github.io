@@ -55,6 +55,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add (more) images
 	- [ ] Write the entire story so-far
 		- [ ] **Let players do this?**
+	- [ ] Update Party faction
 - [ ] Site
 	- [x] Styling Wiki column
 	- [x] Phone view (remove infobox sideline mode at X width)

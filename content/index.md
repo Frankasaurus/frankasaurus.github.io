@@ -20,6 +20,7 @@ Party list:
 
 # Recently Updated
 The following pages have recently been updated, created, or made public:
+- [[Bonehead]]
 - [[Aegren]]
 - [[Bloeming Isles]]
 - Index (this page)

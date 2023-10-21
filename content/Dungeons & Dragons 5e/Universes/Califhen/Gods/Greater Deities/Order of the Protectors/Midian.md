@@ -6,17 +6,17 @@
 > |---|---|  
 > | **Type** | (GREATER DEITY) |
 > | **Title** | - Title<br>- Title |
-> | **Virtues** | (NPC) |
 > | **Order** | (NPC) |
 > | **Common Symbol** | (DECRIPTION) |
 > | **Gender** | (MASCULINE) |
 > | **Allignment** | (LE) |
 > | **Home plane** | (HOME PLANE) |
-> | **Status** | (ACTIVE) |
 > ###### Worship
 > | | |  
 > |---|---|  
 > | **Worshippers** | (RACES / FOLK)|
+> | **Virtues** | (ACTS, EMOTIONS) |
+> | **Status** | (ACTIVE/DORMANT) |
 
 **(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
 # Description

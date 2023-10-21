@@ -1,20 +1,5 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: ""
-name_last: ""
-name_full: ""
-name_aka: []
-creature_type: Humanoid
-creature_race: ""
-creature_subrace: ""
-gender: Female
-age: 
-location: 
-occupation: 
-status: 
-languages:
-  - Common
+publish:
 ---
 > [!infobox]  
 > # (NAME) 
