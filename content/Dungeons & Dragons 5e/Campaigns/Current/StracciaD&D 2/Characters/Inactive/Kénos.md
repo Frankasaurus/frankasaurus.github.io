@@ -33,6 +33,7 @@ languages:
   - Celestial
   - Elvish
   - Orcish
+publish: true
 ---
 > [!infobox]  
 > # Kénos

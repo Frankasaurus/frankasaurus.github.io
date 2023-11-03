@@ -1,21 +1,22 @@
 ---
-type: "Player Character"
-player: "Chris"
-campaign: "StracciaD&D 2"
-member: "From sessions 1 to 12"
-member_status: "Previous"
-name_first: "Bulblin"
-name_last: "Wormbone"
-name_full: "Bulblin Wormbone"
-name_aka: [""]
+type: Player Character
+player: Chris
+campaign: StracciaD&D 2
+member: From sessions 1 to 12
+member_status: Previous
+name_first: Bulblin
+name_last: Wormbone
+name_full: Bulblin Wormbone
+name_aka:
+  - ""
 creature_type: Humanoid
-creature_race: "Goblin"
+creature_race: Goblin
 creature_subrace: ""
 gender: Male
 age: ??
-place_of_birth: "Jaxos Isle (Bloeming Isles)"
-class: "Ranger"
-subclass: "Beastmaster"
+place_of_birth: Jaxos Isle (Bloeming Isles)
+class: Ranger
+subclass: Beastmaster
 background: Criminal
 level: 3
 status: Alive
@@ -27,7 +28,12 @@ stat_con: 12
 stat_int: 7
 stat_wis: 14
 stat_cha: 12
-languages: [Common, Goblin, Elvish, Infernal]
+languages:
+  - Common
+  - Goblin
+  - Elvish
+  - Infernal
+publish: true
 ---
 > [!infobox]  
 > # Bulblin Wormbone

@@ -25,7 +25,7 @@ publish: true
 > | **Connections** | - [[Party]] (employer)<br>- [[Sultan Baaneel]] (Ex-captor) |
 > | **Status** | Alive |
 
-**Keylin Ostver** is a Dragonborn living in [[Telack]] as the daughter and heir of [[Wilmide Ostver]]. As an NPC, he is played by [[Alex]].
+**Keylin Ostver** is an orange [[Dragonborn]] living in [[Telack]] as the daughter and heir of [[Wilmide Ostver]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

@@ -26,7 +26,7 @@ publish: true
 > | **Connections** | - [[Party]] (employer)<br>- [[Joachim Scherp]] (friend & collegue)<br>- [[Xavion de Dragoness]] (friend & collegue) |
 > | **Status** | Alive |
 
-**Wilmide Ostver** is a Dragonborn and currently the Principale of [[Telack]]. As an NPC, he is played by [[Alex]].
+**Wilmide Ostver** is an orange [[Dragonborn]] and currently the Principale of [[Telack]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

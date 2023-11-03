@@ -63,7 +63,8 @@ Deze map zal bestaan uit een rechte
 Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.
 - Een klein tijdje (15 jaar) bezig om de stad op orde te houden, uit nieuwsgierigheid vooral. Nu nieuwe thuis; Door haar tijd hier, is haar [[Cirdorim's Lair|oude burcht]] overgenomen door 'vuile wezens' (**TODO bedenken wat voor enemies**).
 - Tegen Elisabeth; "Je draagt de gloed van je [[Willemijn de Dragoness|moeder]]. Het verhaal spreid dat je moeder sinds Ben's vertrek de draad kwijt is, maar ik ken je moeder... er speelt meer."
-	- Persuasion DC 16: "Je moeder is krachtiger dan je denkt, en jullie naam niet zo onheilig als [[Kruziik'ahraan]] laat schijnen.'"
+	- Ze zal willen weten dat jij er bent.
+	- **Misschien:** "Je moeder is krachtiger dan je denkt, en jullie naam niet zo onheilig als [[Kruziik'ahraan]] laat schijnen.'"
 - Kan niet alleen de ‘Bronzen’ Orde aan, vooral omdat de naam van Bronzen Draken dan besmeurd wordt. Schakel een tiran uit, en zijn plaatsvervanger zal zijn kwaad in tweevoud voortzetten. Er moet een garantie van succes zijn. ***Heb hulp nodig***
 - Mochten we een betere kans willen maken; Mijn [[Cirdorim's Lair|oude burcht]] is ten noorden aan de kust, in verstopte grottensysteem. Ik heb hier oude relieken verzameld door de eeurwen heen om eens en voor altijd hier een eind aan te maken. 
 - Kent [[Kruziik'ahraan]] als eeuwen. 
@@ -77,9 +78,6 @@ Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.
 - Alleen bij vragen moeder / [[Willemijn de Dragoness]]; *"Je moeder is door Ben's verdwijning in een tragische hysterie gevallen, het spijt mij..."*
 
 **Tegen einde gesprek:** *"Het spijt mij enorm, maar ik heb saaie Baron-zaken om naar te keren. Ik heb wel nog een verassing voor je, eentje die ik al maanden voorbereidt in aanloop tot je terugkeer. Een **Gala**. Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen! Ik zal mijn beste kledingmakers jullie wensen laten vastleggen. Wanneer denk jij dat deze plaats moet vinden? Jullie zullen immers misschien wat dagen rust willen voordat de nobele druk toeslaat..."*
-## 3.a Het Gala
-Om te vieren dat [[Elisabeth de Dragoness|Elisabeth]] terug is, organiseerd een vermomde [[Xavion de Dragoness]] ([[Kruziik'ahraan]]) een Gala. Zijn doel is om op het gala wat rivalen uit te schakelen, maar ook om Elisabeth aan zijn kant te krijgen, door haar uit te nodigen naast hem te staan, of zelf de executies uit te delen
-TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles de Dragoness]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het [[Dragoness Freedom Legion|Dragoness Vrijheids Legion]] (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
 # 4. Riool Ontsnapping
 Vooropzet is dat de spelers hier op de paleisgronden gevangen worden gehouden, maar dat een van de broertjes - Diederick -  jarenlang een uitweg heeft gezocht. Hij heeft de tocht nooit gewaagd uit angst voor zijn vader, maar Elisabeth zou hen allemaal kunnen helpen.
 # 5. Tournament
@@ -98,13 +96,4 @@ TODO: Dungeon bouwen
 Aan het einde zal Cirdorim in staat zijn haar ware zelf te laten zien, en het verhaal vertellen van hoe zij Willemijn stieken heeft gegund met daadwerkelijk Nobel bloed, opdat zij waar zou kunnen maken wat Xavion niet kon. Ook zou de Baronie haar burcht met rust laten. In ruil zou Willemijn haar ware kracht nooit laten zien, maar het door laten vloeien in een mogelijk dochter; Elisabeth. Het boek was maar een ploy om Elisabeth te gunnen wat zij verdiende, opdat Elisabeth anders was dan haar broers.
 
 # 7. Diederick's nachtelijke bezoek
-Diederick zal 's nachts proberen Elisabeth te zoeken, maar dringt hoe dan de verkeerde kamer binnen (1d3 welke ruimte)
-- Gekleed in een onherkenbaar maar luxe gewaard. 
-- Erg ongemakkelijk.
-- Wilt Elisabeth spreken over Ben (vader is onduidelijk).
-- Wilt helpen waar mogelijk; Jullie zijn avonturiers, jullie durven risico's te nemen. 
-- Vader doet sinds er nieuws kwam over de Bonehead bij Meqen erg raar, en anders. Meer vreedzaam, maar wel killer.
 - Willemijn: moeder werd in aanloop tot opsluiting erg opstandig, sliep in het gastverblijf, sindsdien in een binnenruimte paleis.
-- Charles: doet alsof er niks aan de hand is, en alleen zijn plicht bestaat. Zegt altijd "we horen naar vader te luisteren. Als we gewoon naar vader luisteren komt het goed...".
-- Ik werk samen met vader, maar niet hele verhaal. Kan ik jullie vertrouwen? (Group Persuasion DC 15).
-	- Ik heb een plannetje om weg te glippen naar de riolen en de stad te vluchten. Ik kan het niet langer. Ze houden met onder permanent toezicht, en jullie vanaf nu waarschijnlijk ook.

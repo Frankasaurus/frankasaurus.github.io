@@ -3,7 +3,7 @@ publish: true
 ---
 > [!infobox]
 > # Greyskil
-> ![[Image.jpg|cover hsmall]]  
+> ![[GreyskilBg.png|cover hsmall]]  
 > ###### General Information
 > | | |  
 > |---|---|  

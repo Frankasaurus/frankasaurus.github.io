@@ -20,12 +20,13 @@ districts:
   - Order Quadrant
 poi: 
 resources: 
-tags:
-  - TODO
+tags: 
+publish: false
+spoilers: true
 ---
 > [!infobox]  
 > # `=this.file.name`
-> ![[Image.jpg|cover hsmall]]  
+> ![[DragonessBaronyCity1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -72,17 +73,36 @@ Besides residence for the Dragoness', a guest house is available on the premises
 | The Smauldering Emporium    | General store | Four General stores distributed throughout the Bronze Reach  | Trademaster Henza (Adult elven M, spectacled, sympathetic but egotistical)            | These state-owned shops were established to both make government-owned use of the labor force, as well as tax the rich.                               |
 | Drake Yard                  | Stable        | Outside the perimiter walls, between Palace and Bronze reach | Drakewarden Tar'hyris (Senior blue half-dragon F, loyal and realistic)                | Dragoness Barony does not use horses, but drakes.                                                                                                     | 
 # Society
-> TODO: A general description of the (types of) people that live and work in this settlement. What culture, religion, and worldview do they adhere to in general.
+Due to the relative youth of Dragoness Barony, a decisively unique culture has not been established yet. More so, the poverty and oppression of the general public has diminished any remaining drive for feasts of the year. The only real destinctive trait of the people of the order quadrant, is that they are tought the dichotomy of luck at a very young age; that luck is not relative to the moment, but determined at ones birth, and can be offset with hard and honest labor. 
+
+On the other hand, the nobility of the city - while also not destinctly rich in unqiue culture - does enjoy regular feasts; about once every week some type of celebration will take place, often at large gatherings within the Bronze Reach, but certainly often at the Palace Grounds as well. These feasts, balls, gala's, ceremonies and other events form the day-to-day duties of most nobles, though others are more reserved. Individualism and investing are common traits the nobles will have, and nearly all the nobility does not originate from the Dragoness regions.
 ## Leadership
-> TODO: A short description about the place's leader or leaders. What system is used, why, to what effect.
+Free Baron [[Xavion de Dragoness]] is the Feudal Baron of Dragoness Barony. This includes the lands surrounding the walls and the farms dotted around these lands, as well as some of the small villages leading to and from other cities. He has absolute control, though he uses advisors for counceling. The Order Guard and Palace Guard carry out most, if not all commands. 
+
+For more information on how the current [[Dragoness Family]] hereditary system of titles work, see the following;
+> [!info]
+> ![[Dragoness Family#Titles]]
 ## Notable people
-> TODO: A short list of folks who call this settlement their home. 
+**Current:**
+- Most members of the [[Dragoness Family]] in the Palace Grounds
+- [[Cirdorim]], living close to the Higher Justice Cathedral
+- [[Ostrzał Charr]], living on the streets of the Order Quadrant
+
+**Previously:**
+- [[Jules Charr Sr.]] 
 ## Defense
-> TODO: An overview of their forces that protect and attack.
 ### Order Guard
-Led by [[Fumyss|General Fumyss]].
-### Palace Guard.
-Led by [[Charles de Dragoness]].
+Led by [[Fumyss|General Fumyss]], the order Guard is a recently established offshoot of the Palace Guard that has merged with the now disbanded city guard. Being the larger but less trained of the two, they handle day-to-day duties in the realm of Dragoness Barony. Protection outside of the city used to be commonplace, but is super-rare and only reserved for nobles who venture beyond the walls.
+
+Since the introduction of Fumyss, the ranks have been reinforced with outsiders and mercenaries. 
+### Palace Guard
+Led by [[Charles de Dragoness]], the Palace guard is the elite force that protects the Barony's top families, including Dragoness themselves. They are hand-picked from the Order Guard (previously the city guard), and are permanently committed to their duties. Thanks to the Order Guard enforcing almost all laws, and the Palace Guard being mostly relegated to the Bronze Reach and Palace Grounds, they do not see a lot of action, and nepotism is commonplace amongst the ranks for a few years now.
+
+The one exception to all of this is the Border Guard. This section of the Palace Guard is experienced and battle-worn, but also trained to be as unempathetic as can be, as to keep the cities population and labor force within the walls as best they can.
+### Dragoness Freedom Legion
+The Order Quadrant's militia is the Dragoness Freedom Legion, a decentralized conspiracy of denounced nobility, ex-criminals, and angry citizens in general. Thanks to the iron firs of the Order Guard, they are incapable of using force to counter the oppression of the Barony's nobility. Therefor, most of their actions are swift guerilla-tactics, infiltrations, thefts, and the spreading of propaganda. They are supported by the [[Greyskil Refugee Resistance]].
+
+Though joining the Freedom Legion would seem like a great idea given the climate of the Order Quadrant, their existance is known amongst the public, as well as the Order Guard, meaning anyone even slightly associated with the group is marked as a terrorist. 
 # History
-> TODO: A rundown of the location and its founding up to its current state.
+The history of Dragoness Barony as a city is extremely short compared to other cities; the lands have been in the hands of [[Dragoness Family]] for multiple generations, but the extreme growth the coastal city has went through (thanks to the unknown 'trade' [[Xavion de Dragoness]] made with [[Kruziik'ahraan]]) is unprecedented, being built from the ground up as a towering city. Its "legend" is that Xavion inherited wealth from an older relative long gone from Geryskil, and used this capital to buy the first stones for the walls of the city. Then, Xavion is said to have charmed both the locals into helping build the city using their own hands and for good pay, as well as [[Gabong]] and [[Yyh'ma]] to guarantee a safer land-route to trade with. Though the second is true, none of the workers that built the city ever saw compensation, being mostly exiled to their old farms, or farms far beyond the current city walls.
 

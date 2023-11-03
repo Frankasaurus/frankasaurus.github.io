@@ -4,109 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/content/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/appearance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/command-palette.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/community-plugins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/core-plugins-migration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/core-plugins.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/graph.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/hotkeys.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/page-preview.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/dataview/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/dataview/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/dataview/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/dataview/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-5e-statblocks/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-5e-statblocks/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-5e-statblocks/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-5e-statblocks/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-banners/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-banners/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-banners/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-banners/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-discordrpc/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-discordrpc/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-discordrpc/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-icon-folder/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-icon-folder/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-icon-folder/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-icon-folder/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-image-toolkit/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-image-toolkit/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-image-toolkit/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-kanban/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-kanban/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-kanban/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-leaflet-plugin/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-leaflet-plugin/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-leaflet-plugin/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-leaflet-plugin/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-plugin-toc/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-plugin-toc/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/obsidian-plugin-toc/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/table-editor-obsidian/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/table-editor-obsidian/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/table-editor-obsidian/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/table-editor-obsidian/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/templater-obsidian/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/templater-obsidian/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/templater-obsidian/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/plugins/templater-obsidian/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/snippets/Banner fix.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/snippets/Empty header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/snippets/S - Callouts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/templates.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/.obsidian/types.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Campaign Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Campaign Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Carmine Char.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Carmine Char.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Phillipa Vurrinir.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Phillipa Vurrinir.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Robyn.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Robyn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Roderick.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Roderick.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Vimak Vaimei-Laga.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Characters/Vimak Vaimei-Laga.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Dragoness Family.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Dragoness Family.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Greyskil Refugee Resistance.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Greyskil Refugee Resistance.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Mozelin Brown's Bazaar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Mozelin Brown's Bazaar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Party.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/Party.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/The Bonehead.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Factions &amp; Organisations/The Bonehead.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Aukan's Axe of the Giant Slayer.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Aukan's Axe of the Giant Slayer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Baghtru's Gloves.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Baghtru's Gloves.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Best Booty.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Best Booty.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Bloodwell Vial +1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Bloodwell Vial +1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cape of the Mountebank.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cape of the Mountebank.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cloak of Arachnida.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cloak of Arachnida.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cloak of Protection.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Cloak of Olvex.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Flame Tongue Dagger.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Flame Tongue Dagger.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Goggles of Night.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Goggles of Night.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Medallion of Thoughts.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Medallion of Thoughts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Medallion of Tijani's Hurt.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Medallion of Tijani's Hurt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Olvex' Eye.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Olvex' Eye.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Potion of Duo-neuro-perso-schism.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Potion of Duo-neuro-perso-schism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Ring of Jumping.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Ring of Jumping.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Staff of Withering.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Staff of Withering.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Wand of the War Mage +1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/Magic Items/Wand of the War Mage +1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Amenadiel de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Amenadiel de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Benjamin de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Benjamin de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Charles de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Charles de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Diederick de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Diederick de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Willemijn de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Willemijn de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Xavion de Dragoness.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Dragoness Family/Xavion de Dragoness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Kruziik'ahraan.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Kruziik'ahraan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Mozelin Brown.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Campaigns/Current/StracciaD&amp;D 2/NPC's/Mozelin Brown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Source Material/Races/_Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Source Material/Races/Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/TODO List StracciaD&amp;D.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/TODO List StracciaD&amp;D.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Gods/_Summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Gods/Summary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Aegren.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Bloeming Isles.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Drav-Modesta.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Drav-Modesta.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/Universes/Califhen/Locations/Continents/Greyskil.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/Templates/Continent.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Templates/Continent.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +33,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/experius/Documents/Obsidian/frankasaurus.github.io/content",
+    "last_opened_file_path": "/home/experius/domains/greensolutions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -165,6 +63,7 @@
       <workItem from="1697707574458" duration="10000" />
       <workItem from="1697801842204" duration="1179000" />
       <workItem from="1697803034268" duration="3820000" />
+      <workItem from="1698133693699" duration="37000" />
     </task>
     <servers />
   </component>

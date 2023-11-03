@@ -4,7 +4,7 @@ publish: true
 
 > [!infobox]  
 > # The Bonehead
-> ![[Image.jpg|cover hsmall]]  
+> ![[TheBoneheadShip1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

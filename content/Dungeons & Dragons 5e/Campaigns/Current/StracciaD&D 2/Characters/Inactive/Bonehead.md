@@ -3,7 +3,7 @@ publish: true
 ---
 > [!infobox]  
 > # Bonehead
-> ![[Image.jpg|cover hsmall]]  
+> ![[Bonehead1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

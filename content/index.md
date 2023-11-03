@@ -20,10 +20,9 @@ Party list:
 
 # Recently Updated
 The following pages have recently been updated, created, or made public:
+- [[Dragoness Barony]] (not published, spoiler-ridden)
 - [[Bonehead]]
 - [[Aegren]]
-- [[Bloeming Isles]]
-- Index (this page)
 - [[Olvex]]
 - [[TODO List StracciaD&D]]
 
