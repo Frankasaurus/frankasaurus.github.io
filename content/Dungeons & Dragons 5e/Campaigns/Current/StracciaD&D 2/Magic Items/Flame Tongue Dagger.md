@@ -9,7 +9,7 @@ materials:
 attunement: Yes
 slot: Weapon
 cursed: 0
-owner: Phillipa
+owner: 
 owner_previous:
   - Unknown
 publish: true
@@ -28,7 +28,7 @@ publish: true
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | [[Carmine Char]] |
+> | **Current** | Unknown |
 > | **Previous** | [[Towers of Stendor]] |
 
 The **Flame Tongue Dagger** is a flaming magical dagger that deals massive damage.

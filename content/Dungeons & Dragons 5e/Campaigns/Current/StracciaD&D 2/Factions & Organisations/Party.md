@@ -12,7 +12,7 @@ publish: true
 > | **Type** | Adventuring Party | 
 > | **Name** | *Nameless as of yet* |
 > | **Location** | Originally from [[Bloeming Isles]]. Currently traveling throughout [[Greyskil]] |
-> | **Connections** | - [[Dragoness Family]] (Relation)<br>- [[The Bonehead]] (Crew)-<br>- [[Wilmide Ostver]] (Ally) |
+> | **Connections** | - [[Dragoness Family]] (Relation)<br>- [[The Bonehead]] (Crew)-<br> [[Wilmide Ostver]] (Ally) |
 
 **The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. 
 # Members

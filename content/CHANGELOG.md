@@ -1,4 +1,4 @@
-##  (2023-10-26)
+##  (2023-11-14)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -57,5 +57,13 @@
 *  Completed Dragoness Barony *(Alexander Franke)*
 *  Final addition to Dragoness Barony *(Alexander Franke)*
 *  Added NPC's for Carmine, Robyn, Elisabeth, Phillipa, *(Alexander Franke)*
+*  Prepped some of Session 33 *(Frankasaurus)*
+*  Added Kenos & placeholder images *(Alexander Franke)*
+*  Prepped session 33 combat 1 *(Alexander Franke)*
+*  Nearly finished Session 33. Updated some characters, created Fumyss page *(Frankasaurus)*
+*  Finished session 33 prep *(Frankasaurus)*
+*  Finishing touches session 33 *(Frankasaurus)*
+*  Added all sources, races and classes *(Frankasaurus)*
+*  Fixed Flame Tongue Blade's owner *(Alexander Franke)*
 
 

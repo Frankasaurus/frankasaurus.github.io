@@ -59,7 +59,7 @@ publish: true
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | 6 | **HP** | 64 |
+> | **Level** | 7 | **HP** | 64 |
 > | **AC** | 16 | | |
 > | **Str** | 16 | **Int** | 10 |
 > | **Dex** | 14 | **Wis** | 17 |
@@ -92,6 +92,14 @@ Only learned of his actual first name (and his status as Jr.) from his slightly 
 Carmine's passive goal is to always spread the word and honor Olvex, though his methods are rather subtle at times, especially with the newly found focus on his adventuring party.
 
 More prominently, Carmine has discovered he is (on the way to becoming) the 20th [[Chosen of Olvex]], after several centuries of there not being a (known) Chosen. He has discovered the implications of this thanks to rescuing the petrified remains of the [[Lord-Master Ligune]] - the 18th Chosen of Olvex - at the sunken [[Towers of Stendor]]. His current task is recovering the identity and remains of the [[Dimure Los|19th Chosen of Olvex]], as a means of discovering what unfinished business he is meant to continue.
+## Features & Traits
+Due to being a Fire [[Genasi]], Carmine has Darkvision up to 60ft. His subclass also grants him Fire Resistance.
+
+Carmine's Acolyte background gives him Insight and Religion skill proficiencies. In addition, he has chosen the Medicine and Persuasion skill proficiencies. 
+### Feats
+**Healer**
+- When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.
+- As an action. you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.
 ## Notable items
 - Amulet of Olvex (spellcasting focus)
 ## Magic items

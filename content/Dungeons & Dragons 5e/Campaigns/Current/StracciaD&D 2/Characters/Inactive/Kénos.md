@@ -37,7 +37,7 @@ publish: true
 ---
 > [!infobox]  
 > # Kénos
-> ![[Image.jpg|cover hsmall]]  
+> ![[Kenos1.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

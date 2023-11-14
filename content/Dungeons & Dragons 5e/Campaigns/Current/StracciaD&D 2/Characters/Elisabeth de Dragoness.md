@@ -60,11 +60,11 @@ publish: true
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | 6 | **HP** | ?? |
+> | **Level** | 7 | **HP** | 50 |
 > | **AC** | 15 | | |
 > | **Str** | 8 | **Int** | 10 |
 > | **Dex** | 14 | **Wis** | 12 |
-> | **Con** | 12 | **Cha** | 19 |
+> | **Con** | 12 | **Cha** | 20 |
 
 **Elisabeth de Dragoness** is a [[Tiefling]] Draconic Bloodline [[Sorcerer]]. She is played by Kim.
 # Description
@@ -86,6 +86,10 @@ When Elisabeth was 23, her life was turned on its head, when in a sudden fit of 
 # Character information
 ## Quests
 Elisabeth's long-term goal is to recover the secret that has escaped her family. Its risk, though mostly unknown beforehand, is vital to the survival of the [[Dragoness Family|Dragoness]]' name.
+## Features & Traits
+As a [[Tiefling]], Elisabeth has resistance to Fire damage.
+
+Elisabeth has a Noble background, granting her proficiency in History and Persuasion. Additionaly, she has chosen Insight and Intimidation as skill proficiencies. 
 ## Notable items
 - A cloak & broche with the [[Dragoness Family]] emblem.
 - A royal charter.

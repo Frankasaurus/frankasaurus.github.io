@@ -58,7 +58,7 @@ publish: true
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | 7 | **HP** | ?? |
+> | **Level** | 7 | **HP** | 60 |
 > | **AC** | 12 | | |
 > | **Str** | 8 | **Int** | 9 |
 > | **Dex** | 10 | **Wis** | 14 |
@@ -96,6 +96,17 @@ He found a [[Wand of the War Mage +1|Wand]] when exploring the Towers of Stendor
 # Character information
 ## Quests
 Roderick is bound to get rid of his relationship with [[Sargenet]], or to at least be unbound to this fiend. 
+## Features & Traits
+Due to being Half-Elven, Roderick has darkvision up to 60ft.
+
+Roderick has the Outlander background, which includes proficiencies in Athletics and Survival. Chosen skill proficiences are Deception, Intimidation, Perception, and Persuasion. In addition, his background grants him proficiency in the Lute.
+### Feats
+**Eldritch Adept**
+- You learn one Eldritch Invocation option of your choice from the warlock class. If the invocation has a prerequisite, you can choose that invocation only if you’re a warlock and only if you meet the prerequisite. 
+- Whenever you gain a level, you can replace the invocation with another one from the warlock class. 
+
+**Eldritch Mind**
+- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
 ## Notable items
 - A spell Grimoire, called the "Book of Shadows"
 ## Magic items

@@ -20,11 +20,9 @@ Party list:
 
 # Recently Updated
 The following pages have recently been updated, created, or made public:
-- [[Dragoness Barony]] (not published, spoiler-ridden)
-- [[Bonehead]]
-- [[Aegren]]
-- [[Olvex]]
-- [[TODO List StracciaD&D]]
+- Races [[Dungeons & Dragons 5e/Source Material/Races/_Overview|Overview]]
+- [[Human]] race page
+- 
 
 > [!info]
 > Some links might result in a 404 page. This means that the page isn't created yet. 

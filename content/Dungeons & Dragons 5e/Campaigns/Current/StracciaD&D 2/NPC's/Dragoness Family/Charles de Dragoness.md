@@ -18,7 +18,7 @@ languages:
   - Common
   - Draconic
   - Infernal
-publish:
+publish: true
 ---
 > [!infobox]  
 > # Charles de Dragoness

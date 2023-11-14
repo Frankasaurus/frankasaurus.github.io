@@ -58,7 +58,7 @@ publish: true
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
-> | **Level** | `=this.level` | **HP** | 45 |
+> | **Level** | `=this.level` | **HP** | 47 |
 > | **AC** | 14 | | |
 > | **Str** | 13 | **Int** | 11 |
 > | **Dex** | 16 | **Wis** | 13 |
@@ -104,10 +104,16 @@ Her neck and wrists are adorned with a smattering of custom-made jewelry, mostly
 Robyn main focus is finding out what happened to Tijani, and who killed him. The amulet also hides away secrets that Robyn doesn't fully understand yet. Who was the black figure? What kind of enchanted dart felled Tijani?
 
 Her question of what his final words were, and what he gave to [[Macaw]], were answered during a run-in with Macaw himself in [[Cape Rosa]] According to the bard, he was to give [[Medallion of Tijani's Hurt|the medallion]] to her "when she is ready". Tijani said Robyn would be ready in time, and that Mozelin should let her persue her path as a monk. By stealing the medallion, Macaw feals as if his judgement to decide when Robyn would be able to answer the mystery of Tijani's assassination was robbed.
+## Features & Traits
+Due to being [[Half-Orc]], Robyn has darkvision up to 60ft.
+
+Robyn's background is an Entertainer (Dancer). Her stated allignment is Chaotic Neutral. Chosen skill proficiences: Athletics, History, Intimidation, and Persuasion. Acrobatics and Performance are gained from the Entertainer background. She has chose the disguise kit and flute as equipment proficiencies.
+
+Her Astral Self projection is one of a skeletal [[Loxodon]], representing [[Tijani]].
 ## Notable items
-- Bo-staff
+- Bo-staff (monk weapon)
 ## Magic items
 - [[Baghtru's Gloves]]
 - [[Medallion of Tijani's Hurt]]
 # Trivia
-- List of trivia
+- Before choosing Way of the Astral Self subclass, Robyn was created as a Way of the Drunken Master [[Monk]] subclass, and played as such for several sessions before switching.

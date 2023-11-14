@@ -98,7 +98,8 @@ In his exile, Vimak saught to travel the world, and restore his own pride and le
 Vimak is trying to find his place in the world, partially achieved by traveling around to see what is out there beyond the Alps he grew up in. More importantly, is to find inner peace and redemption for what happened with Aukan, which is the main reason why he became a [[Paladin]].
 
 His tribe - the [[Gathakeaku Clan]] - is also in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants. This puts the clan at risk, which has put forth the need for their finest warriors. With [[Aukan]] gone, Vimak is called in for help, which he has accepted.
-
+## Features & Traits
+>TODO: Here is mechanical information about the character and their skills
 ## Notable items
 - List of items
 ## Magic items
