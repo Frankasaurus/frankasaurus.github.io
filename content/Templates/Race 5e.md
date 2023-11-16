@@ -1,5 +1,18 @@
+---
+tags: update
+---
 > [!infobox]
+> # (RACE)
 > ![[Image.jpg|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Size** | Medium |
+> | **Lifespan** | X years |
+> ###### Califhen Info
+> | | |  
+> |---|---|  
+> | **Origin** | ORIGIN |
 
 ***Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis.***
 

@@ -1,3 +1,6 @@
+---
+tags: update
+---
 > [!infobox]  
 > # `=this.name_first` `=this.name_last`
 > ![[Image.jpg|cover hsmall]]  
