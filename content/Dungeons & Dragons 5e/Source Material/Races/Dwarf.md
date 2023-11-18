@@ -3,15 +3,34 @@ publish: true
 tags: update
 ---
 > [!infobox]
+> # Dwarves
 > ![[Dwarf.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 350 years |
+> | **Origin** | Ancestral |
+> | **Homeland(s)** | [[Moundaria]], [[Greyskil]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 4'-5' / 1,2-1,5 m |
+> | **Average weight** | 150 lb / 68 kg |
+> | **Skin color(s)** | Similar to [[Human]] |
+> | **Hair color(s)** | Similar to [[Human]] |
+> | **Eye color(s)** | Similar to [[Human]] |
+> | **Distinctions** | Physically durable, insightful, primarily dwell underground, some females capable of growing beards |
 
 ***Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs—these common threads unite all dwarves.***
+***
 # Dwarf Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
 Your Constitution score increases by 2.
 ### Age
-Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
+Dwarves mature at the same rate as [[Human|humans]], but they’re considered young until they reach the age of 50. On average, they live about 350 years.
 ### Size
 Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 ### Speed
@@ -28,6 +47,9 @@ You gain proficiency with the artisan’s tools of your choice: smith’s tools,
 Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 ### Languages
 You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+### **Subrace** 
+Two subraces of Dwarf exist: [[#Hill Dwarf]], and [[#Mountain Dwarf]]. Choose one of them for your character.
+***
 ## Hill Dwarf
 *Source: [[Player's Handbook]]*
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
@@ -35,6 +57,7 @@ As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience
 Your Wisdom score increases by 1.
 ### Dwarven Toughness
 Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+***
 ## Mountain Dwarf
 *Source: [[Player's Handbook]]*
 As a mountain dwarf, you’re strong and hardy, accustomed to a difficult life in rugged terrain. You’re probably on the tall side (for a dwarf), and tend toward lighter coloration. The shield dwarves of northern Faerûn, as well as the ruling Hylar clan and the noble Daewar clan of Dragonlance, are mountain dwarves.
@@ -42,9 +65,13 @@ As a mountain dwarf, you’re strong and hardy, accustomed to a difficult life i
 Your Strength score increases by 2.
 ### Dwarven Armor Training
 You have proficiency with light and medium armor.
+***
 ## Gray Dwarf (legacy)
 *Source: [[Sword Coast Adventurer's Guide]]*
 The gray dwarves, or duergar, live deep in the Underdark. After delving deeper than any other dwarves, they were enslaved by mind flayers for eons. Although they eventually won their freedom, these grim, ashen-skinned dwarves now take slaves of their own and are as tyrannical as their former masters.
+
+> [!attention]
+> ***The Gray Dwarf has been replaced by the [[Duergar]] race.***
 ### Ability Score Increase
 Your Strength score increases by 1.
 ### Superior Darkvision

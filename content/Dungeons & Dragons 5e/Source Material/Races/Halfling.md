@@ -2,9 +2,28 @@
 publish: true
 ---
 > [!infobox]
+> # Halflings
 > ![[Halfling.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Small |
+> | **Average lifespan** | 150 years |
+> | **Origin** | Unknown, but after *The Everlanding* |
+> | **Homeland(s)** | [[Far Kachmer]], [[Zila]], and [[Ty'heris]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 2'8"-3'4" / 80-100cm |
+> | **Average weight** | 30-35 lb / 14-16 kg |
+> | **Skin color(s)** | Pale to dark brown |
+> | **Hair color(s)** | Auburn, black, brown; grays to white with age |
+> | **Eye color(s)** | Black, brown or hazel |
+> | **Distinctions** | Small, seldom wear facial hair, dexterous |
 
 ***The comforts of home are the goals of most halflings’ lives: a place to settle in peace and quiet, far from marauding monsters and clashing armies; a blazing fire and a generous meal; fine drink and fine conversation. Though some halflings live out their days in remote agricultural communities, others form nomadic bands that travel constantly, lured by the open road and the wide horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and home, though home might be a wagon jostling along a dirt road or a raft floating downriver.***
+***
 # Halfling Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
@@ -23,6 +42,13 @@ You have advantage on saving throws against being frightened.
 You can move through the space of any creature that is of a size larger than yours.
 ### Languages
 You can speak, read, and write Common and Halfling. The Halfling language isn’t secret, but halflings are loath to share it with others. They write very little, so they don’t have a rich body of literature. Their oral tradition, however, is very strong. Almost all halflings speak Common to converse with the people in whose lands they dwell or through which they are traveling.
+### **Subrace** 
+Two subraces of Halfling exist: [[#Lightfoot Halfling]] and [[#Stout Halfling]]. Choose one of them for your character.
+
+> [!info]
+> ***The [[#Ghostwise Halfling]] and [[#Lotusden Halfling]] subraces are not standard options.***
+
+***
 ## Lightfoot Halfling
 *Source: [[Player's Handbook]]*
 As a lightfoot halfling, you can easily hide from notice, even using other people as cover. You’re inclined to be affable and get along well with others. In the Forgotten Realms, lightfoot halflings have spread the farthest and thus are the most common variety.
@@ -30,6 +56,7 @@ As a lightfoot halfling, you can easily hide from notice, even using other peopl
 Your Charisma score increases by 1.
 ### Naturally Stealthy
 You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
+***
 ## Stout Halfling
 *Source: [[Player's Handbook]]*
 As a stout halfling, you’re hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. In the Forgotten Realms, these halflings are called stronghearts, and they’re most common in the south.
@@ -37,6 +64,7 @@ As a stout halfling, you’re hardier than average and have some resistance to p
 Your Constitution score increases by 1.
 ### Stout Resilience
 You have advantage on saving throws against poison, and you have resistance against poison damage.
+***
 ## Ghostwise Halfling
 *Source: [[Sword Coast Adventurer's Guide]]*
 Ghostwise halflings trace their ancestry back to a war among halfling tribes that sent their ancestors into flight from Luiren. Ghostwise halflings are the rarest of the _hin_, found only in the Chondalwood and a few other isolated forests, clustered in tight-knit clans.
@@ -44,6 +72,7 @@ Ghostwise halflings trace their ancestry back to a war among halfling tribes tha
 Your Wisdom score increases by 1.
 ### Silent Speech
 You can speak telepathically to any creature within 30 feet of you. The creature understands you only if the two of you share a language. You can speak telepathically in this way to one creature at a time.
+***
 ## Lotusden Halfling
 *Source: [[Explorer's Guide to Wildemount]]*
 Long tied to the natural heart of the Lotusden Greenwood, these halflings have adapted to live synergistically with the chaotic laws of the wilds.

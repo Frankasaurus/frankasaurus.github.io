@@ -43,12 +43,13 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 			- [ ] Double-check sources
 			- [ ] Double-check subrace rules
 			- [ ] Remove / replace legacies
-			- [ ] Update race template for existing races
-				- [ ] Update infobox
+			- [x] Update race template for existing races
+				- [x] Update infobox
 		- [x] Create template
-		- [ ] Subraces
-		- [ ] Historical info for Califhen
-		- [ ] Add images
+		- [x] Subraces
+		- [x] Historical info for Califhen
+		- [x] Add images
+		- [ ] Re-do the sorting of the races in [[Dungeons & Dragons 5e/Source Material/Races/_Overview|_Overview]]
 	- [ ] Classes
 		- [ ] Create template
 		- [ ] Subclasses
@@ -68,7 +69,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add banner functionality
 	- [x] Make the site not freak the fuck out when the exclusivity filter plugin is added
 	- [x] Add publish: true to all visible documents
-	- [ ] Fix popovers
+	- [ ] Fix popovers only using 1/4th of the width
 	- [ ] Add published / unpublished counter below explorer
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 - [ ] DM Specific organisation

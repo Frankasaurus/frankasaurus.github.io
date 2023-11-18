@@ -1,4 +1,4 @@
-##  (2023-11-16)
+##  (2023-11-18)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -67,5 +67,6 @@
 *  Fixed Flame Tongue Blade's owner *(Alexander Franke)*
 *  Added all PHB races into source *(Frankasaurus)*
 *  Added publish tags, added race template infobox *(Alexander Franke)*
+*  Added infoboxes to existing races *(Alexander Franke)*
 
 

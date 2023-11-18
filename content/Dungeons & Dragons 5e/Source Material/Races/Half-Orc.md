@@ -2,9 +2,28 @@
 publish: true
 ---
 > [!infobox]
+> # Half-Orcs
 > ![[Half-Orc.png|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Type** | Humanoid |
+> | **Size** | Medium |
+> | **Average lifespan** | 80 years |
+> | **Origin** | Hybrid between [[Orc]] and another race, often [[Human]] |
+> | **Homeland(s)** | [[Uurogh]] |
+> ###### Appearance
+> | | |  
+> |---|---|  
+> | **Average height** | 5'-6'10" / 1,5-2,1 m |
+> | **Average weight** | 150-440 lb / 70-200 kg |
+> | **Skin color(s)** | Bluish-grey to darker pale |
+> | **Hair color(s)** | Often dark or black |
+> | **Eye color(s)** | Dark green or dark brown |
+> | **Distinctions** | Small tusks |
 
 ***Whether united under the leadership of a mighty warlock or having fought to a standstill after years of conflict, orc and human communities, sometimes form alliances. When these alliances are sealed by marriages, half-orcs are born. Some half-orcs rise to become proud leaders of orc communities. Some venture into the world to prove their worth. Many of these become adventurers, achieving greatness for their mighty deeds.***
+***
 # Half-Orc Traits
 *Source: [[Player's Handbook]]*
 ### Ability Score Increase
