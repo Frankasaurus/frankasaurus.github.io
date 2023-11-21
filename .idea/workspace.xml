@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="" />
+    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +37,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/experius/domains/greensolutions",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/experius/domains/scandiagear",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +69,8 @@
       <workItem from="1697801842204" duration="1179000" />
       <workItem from="1697803034268" duration="3820000" />
       <workItem from="1698133693699" duration="37000" />
+      <workItem from="1700424212165" duration="81000" />
+      <workItem from="1700496442094" duration="22000" />
     </task>
     <servers />
   </component>

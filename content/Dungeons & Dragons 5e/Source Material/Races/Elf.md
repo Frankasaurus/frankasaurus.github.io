@@ -46,7 +46,7 @@ Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconsci
 ### Languages
 You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.
 ### **Subrace**
-Three subraces of elf exist: [[#High Elf]], [[#Wood Elf]], [[#Dark Elf (Drow)]], [[#Pallid Elf]], and [[#Sea Elf]]. Choose one of them for your character.
+Three subraces of elf exist: [[#High Elf]], [[#Wood Elf]], [[#Dark Elf (Drow)]], and [[#Pallid Elf]]. Choose one of them for your character.
 
 > [!attention]
 > ***The [[#Aereni High Elf]], [[#Aereni Wood Elf]], [[#Valenar High Elf]], and [[#Valenar Wood Elf]] subraces are not standard options.***
@@ -153,7 +153,7 @@ You can attempt to hide even when you are only lightly obscured by foliage, heav
 Eladrin are elves native to the Feywild, a realm of beauty, unpredictable emotion, and boundless magic. An eladrin is associated with one of the four seasons and has coloration reminiscent of that season, which can also affect the eladrin’s mood.
 
 > [!attention]
-> ***The Eladrin subrace has been substituted by the [[Eladrin]] race.***
+> ***The Eladrin subrace has been replaced by the [[Eladrin]] race.***
 
 | d4  | Season                                                                                           |
 | --- | ------------------------------------------------------------------------------------------------ |
@@ -175,15 +175,27 @@ When you reach 3rd level, your Fey Step gains an additional effect based on your
 Whenever you finish a trance, you can change your season.
 ***
 ## Sea Elf (legacy)
-*Source: [[Mordenkainen's Monsters of the Multiverse]]*
+*Source: [[Mordenkainen's Tome of Foes]]*
 Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, sea elves navigated the currents and explored the waters of many worlds. Today these elves can be found wherever oceans exist, as well as in the Elemental Plane of Water.
 
 > [!attention]
-> ***The Sea Elf subrace has been substituted by the [[Sea Elf]] race.***
-
+> ***The Sea Elf subrace has been replaced by the [[Sea Elf]] race.***
 ### Ability Score Increase
 Your Constitution score increases by 1.
 ### Child of the Sea
 You can breathe air and water, and you have resistance to cold damage.
 ### Friend of the Sea
 Aquatic animals have an extraordinary affinity with your people. You can communicate simple ideas to any Beast that has a swimming speed. It can understand your words, though you have no special ability to understand it in return.
+*** 
+## Shadar-Kai (legacy)
+*Source: [[Mordenkainen's Tome of Foes]]*
+Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
+
+> [!attention]
+> ***The Shadar-Kai subrace has been replaced by the [[Shadar-Kai]] race.***
+### Ability Score Increase
+Your Constitution score increases by 1.
+### **Necrotic Resistance**
+You have resistance to necrotic damage.
+### **Blessing of the Raven Queen**
+As a bonus action, you can magically teleport up to 30 feet to an unoccupied space you can see. Once you use this trait, you can't do so again until you finish a long rest. Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.

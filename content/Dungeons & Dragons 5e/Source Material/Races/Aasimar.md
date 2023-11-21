@@ -3,12 +3,12 @@ publish: true
 ---
 > [!infobox]
 > # Aasimar
-> ![[Aasimar.jpg|cover hsmall]]
+> ![[Aasimar.jpeg|cover hsmall]]
 > ###### Base Info
 > | | |  
 > |---|---|  
 > | **Type** | Humanoid |
-> | **Size** | Medium (or small^[Monsters of the Multiverse only]) |
+> | **Size** | Medium (or small[^1]) |
 > | **Average lifespan** | 160 years |
 > | **Origin** | Angel-touched humanoids |
 > | **Homeland(s)** | Sporadic throughout [[Califhen]] |
@@ -21,6 +21,7 @@ publish: true
 > | **Hair color(s)** | Red, blond, brown, black, silver |
 > | **Eye color(s)** | Pupil-less pale white, gold, gray, or topaz |
 > | **Distinctions** | Physically similar to humans, insightful, magnetic personality, capacity to cast supernatural light, celestial heritage |
+> [^1]: Monsters of the Multiverse only
 
 ***Aasimar bear within their souls the light of the heavens. They are descended from humans with a touch of the power of Mount Celestia, the divine realm of many lawful good deities. Aasimar are born to serve as champions of the gods, their births hailed as blessed events. They are a people of otherworldly visages, with luminous features that reveal their celestial heritage. An aasimar, except for one who has turned to evil, has a link to an angelic being. That being – usually a deva – provides guidance to the aasimar, though this connection functions only in dreams. As such, the guidance is not a direct command or a simple spoken word. Instead, the aasimar receives visions, prophecies, and feelings.***
 

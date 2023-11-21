@@ -8,7 +8,7 @@ publish: true
 > | | |  
 > |---|---|  
 > | **Type** | Humanoid |
-> | **Size** | Medium (or small^[Monsters of the Multiverse only]) |
+> | **Size** | Medium (or small[^1}]) |
 > | **Average lifespan** | 60 years |
 > | **Origin** | Unknown |
 > | **Homeland(s)** | The [[Shadowfell]], but also [[Orphelica]], [[Bloeming Isles]], and [[Ty'heris]] |
@@ -20,6 +20,7 @@ publish: true
 > | **Hair color(s)** | Russet-brown |
 > | **Eye color(s)** | Black |
 > | **Distinctions** | Talons in place of hands and feet; voice mimicry |
+> [^1]: Monsters of the Multiverse only
 
 ***Feathered folk who resemble ravens, kenku are blessed with keen observation and supernaturally accurate memories. None of them can remember the origin of the first kenku, however, and they often joke that there are as many kenku origin stories as there are kenku. Some of them paint their genesis as a curse, being a flightless bird people doomed to mimic other people’s creations. Other kenku recite cryptic but beautiful poems about their advent being a blessed event in which they were sent into the multiverse to observe and catalog its many wonders.***
 
