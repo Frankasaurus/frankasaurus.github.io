@@ -1,57 +1,119 @@
 ---
-publish: false
+publish: true
 ---
 > [!infobox]
-> # (CLASS)
-> ![[(CLASS).png|cover hsmall]]
+> # Fighter
+> ![[Fighter.png|cover hsmall]]
 
-**_Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis._**
+> [!quote]
+> **_Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face._**
 
-*You must have a (STAT) scorre of 13 or higher in order to multiclass in or out of this class.*
+_You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class._
 
-# (CLASS) Table
-| Level | Prociciency Bonus | Features                                        | Rages     | Rage Damage |
-| ----- | ----------------- | ----------------------------------------------- | --------- | ----------- |
-| 1st   | +2                | Rage, Unarmored Defense                         | 2         | +2          |
-| 2nd   | +2                | Reckless Attack, Danger Sense                   | 2         | +2          |
-| 3rd   | +2                | Primal Path, *Primal Knowledge (Optional)*      | 3         | +2          |
-| 4th   | +2                | Ability Score Improvement                       | 3         | +2          |
-| 5th   | +3                | Extra Attack, Fast Movement                     | 3         | +2          |
-| 6th   | +3                | Path feature                                    | 4         | +2          |
-| 7th   | +3                | Feral Instinct, _Instinctive Pounce (Optional)_ | 4         | +2          |
-| 8th   | +3                | Ability Score Improvement                       | 4         | +2          |
-| 9th   | +4                | Brutal Critical (1 die)                         | 4         | +3          |
-| 10th  | +4                | Path feature, _Primal Knowledge (Optional)_     | 4         | +3          |
-| 11th  | +4                | Relentless Rage                                 | 4         | +3          |
-| 12th  | +4                | Ability Score Improvement                       | 5         | +3          |
-| 13th  | +5                | Brutal Critical (2 dice)                        | 5         | +3          |
-| 14th  | +5                | Path feature                                    | 5         | +3          |
-| 15th  | +5                | Persistent Rage                                 | 5         | +3          |
-| 16th  | +5                | Ability Score Improvement                       | 5         | +4          |
-| 17th  | +6                | Brutal Critical (3 dice)                        | 6         | +4          |
-| 18th  | +6                | Indomitable Might                               | 6         | +4          |
-| 19th  | +6                | Ability Score Improvement                       | 6         | +4          |
-| 20th  | +6                | Primal Champion                                 | Unlimited | +4          |
-(COPY PASTE FROM DNDWIKI M8 - BARBARIAN AS EXAMPLE)
+| Level | Proficiency Bonus | Features                                                    |
+| ----- | ----------------- | ----------------------------------------------------------- |
+| 1st   | +2                | Fighting Style, Second Wind                                 |
+| 2nd   | +2                | Action Surge (x1)                                           |
+| 3rd   | +2                | Martial Archetype                                           |
+| 4th   | +2                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 5th   | +3                | Extra Attack (x1)                                           |
+| 6th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 7th   | +3                | Martial Archetype feature                                   |
+| 8th   | +3                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 9th   | +4                | Indomitable (x1)                                            |
+| 10th  | +4                | Martial Archetype feature                                   |
+| 11th  | +4                | Extra Attack (x2)                                           |
+| 12th  | +4                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 13th  | +5                | Indomitable (x2)                                            |
+| 14th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 15th  | +5                | Martial Archetype feature                                   |
+| 16th  | +5                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 17th  | +6                | Action Surge (x2), Indomitable (x3)                         |
+| 18th  | +6                | Martial Archetype feature                                   |
+| 19th  | +6                | Ability Score Improvement, _Martial Versatility (Optional)_ |
+| 20th  | +6                | Extra Attack (x3)                                           |
 ***
 # Class Features
-As a (CLASS), you gain the following class features.
+As a fighter, you gain the following class features.
 ### Hit Points
-**Hit Dice:** 1d(DIE) per (CLASS) level
-**Hit Points as 1st Level:** (DIE MAX) + your (STAT) modifier
-**Hit Points at Higher Levels:** 1d(DIE) (or (AVR)) + your (STAT) modifier per (CLASS) level after 1st
+**Hit Dice:** 1d10 per fighter level  
+**Hit Points at 1st Level:** 10 + your Constitution modifier  
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per fighter level after 1st
 ### Proficiencies
-**Armor:** Light armor, medium armor, shields  
+**Armor:** All armor, shields  
 **Weapons:** Simple weapons, martial weapons  
 **Tools:** None  
 **Saving Throws:** Strength, Constitution  
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+**Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 ### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:  
 
-You start with the following equipment, in addition to the equipment granted by your background:
+- (a) chain mail or (b) leather, longbow, and 20 arrows
+- (a) a martial weapon and a shield or (b) two martial weapons
+- (a) a light crossbow and 20 bolts or (b) two handaxes
+- (a) a dungeoneer's pack or (b) an explorer's pack
 
-- (a) a greataxe or (b) any martial melee weapon
-- (a) two handaxes or (b) any simple weapon
-- An explorer's pack and four javelins
+Alternatively, you may start with 5d4x10 starting gold.
+***
+## Fighting Style
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+- **Archery (PHB).** You gain a +2 bonus to attack rolls you make with ranged weapons.
+- **Blind Fighting (TCE).** You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+- **Defense (PHB).** While you are wearing armor, you gain a +1 bonus to AC.
+- **Dueling (PHB).** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+- **Great Weapon Fighting (PHB).** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+- **Interception (TCE).** When a creature you can see hits a target, other than you, within 5 feet of you with an attack, you can use your reaction to reduce the damage the target takes by 1d10 + your proficiency bonus (to a minimum of 0 damage). You must be wielding a shield or a simple or martial weapon to use this reaction.
+- **Protection (PHB).** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+- **Superior Technique (TCE).** You learn one maneuver of your choice from among those available to the [[Battle Master]] archetype. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice.)
+    - You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+- **Thrown Weapon Fighting (TCE).** You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+    - In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+- **Two-Weapon Fighting (PHB).** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+- **Unarmed Fighting (TCE).** Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
+    - At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
+***
+## Second Wind
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
-(And yeah litterally copy the DNDWiki text)
+Once you use this feature, you must finish a short or long rest before you can use it again.
+***
+## Action Surge
+Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
+
+Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+***
+## Martial Archetype
+At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
+
+| Archetype           | Source                             |
+| ------------------- | ---------------------------------- |
+| [[Arcane Archer]]   | [[Xanathar's Guide to Everything]] |
+| [[Banneret]]        | [[Sword Coast Adventurer's Guide]] |
+| [[Battle Master]]   | [[Player's Handbook]]              |
+| [[Cavalier]]        | [[Xanathar's Guide to Everything]] |
+| [[Champion]]        | [[Player's Handbook]]              |
+| [[Echo Knight]]     | [[Explorer's Guide to Wildemount]] |
+| [[Eldritch Knight]] | [[Player's Handbook]]              |
+| [[Psi Warrior]]     | [[Tasha's Cauldron of Everything]] |
+| [[Rune Knight]]     | [[Tasha's Cauldron of Everything]] |
+| [[Samurai]]         | [[Xanathar's Guide to Everything]]     |
+| [[Gunslinger]]\*    | [[Matt Mercer & Critical Role]]    |
+*\* = Homebrew*
+***
+## Ability Score Improvement
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+***
+## Martial Versatility (Optional)
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
+- Replace a fighting style you know with another fighting style available to fighters.
+- If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
+***
+## Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+***
+## Indomitable
+Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
+
+You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.

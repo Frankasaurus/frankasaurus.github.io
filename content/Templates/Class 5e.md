@@ -7,7 +7,7 @@ publish: false
 
 **_Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis._**
 
-*You must have a (STAT) scorre of 13 or higher in order to multiclass in or out of this class.*
+*You must have a (STAT) score of 13 or higher in order to multiclass in or out of this class.*
 
 # (CLASS) Table
 | Level | Prociciency Bonus | Features                                        | Rages     | Rage Damage |
@@ -38,8 +38,8 @@ publish: false
 As a (CLASS), you gain the following class features.
 ### Hit Points
 **Hit Dice:** 1d(DIE) per (CLASS) level
-**Hit Points as 1st Level:** (DIE MAX) + your (STAT) modifier
-**Hit Points at Higher Levels:** 1d(DIE) (or (AVR)) + your (STAT) modifier per (CLASS) level after 1st
+**Hit Points as 1st Level:** (DIE) + your Consitution modifier
+**Hit Points at Higher Levels:** 1d(DIE) (or (AVR)) + your Consitution modifier per (CLASS) level after 1st
 ### Proficiencies
 **Armor:** Light armor, medium armor, shields  
 **Weapons:** Simple weapons, martial weapons  

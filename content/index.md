@@ -7,22 +7,27 @@ Here you'll not only find information about characters and locations, but also a
 
 > [!warning]
 > **This place is ridled with spoilers, as there is no filtering in place yet for what makes it onto the site or not. Characters are safe, but thread with caution.**
+
+***
 # StracciaD&D Campaign Party
 See [[Party]].
 
-Party list:
+**Party list:**
 - [[Carmine Char]]
 - [[Elisabeth de Dragoness]]
 - [[Phillipa Vurrinir]]
 - [[Robyn]]
 - [[Roderick]]
 - [[Vimak Vaimei-Laga]]
-
 # Recently Updated
 The following pages have recently been updated, created, or made public:
 - Races [[Dungeons & Dragons 5e/Source Material/Races/_Overview|Overview]]
-- [[Human]] race page
-- 
+	- Example: [[Duergar]]
+- Classes [[Dungeons & Dragons 5e/Source Material/Classes/_Overview|Overview]]
+	- Example: [[Cleric]]
+	- Includes [[Blood Hunter]]
+- [[TODO List StracciaD&D]]
+- [[Dragoness Family]]
 
 > [!info]
 > Some links might result in a 404 page. This means that the page isn't created yet. 

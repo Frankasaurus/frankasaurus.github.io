@@ -1,3 +1,9 @@
+---
+publish: true
+tags: update
+---
+# Classes overview
+Overview is to be updated in style. Subclasses to be added. See [[TODO List StracciaD&D]]
 - [[Artificer]]
 - [[Barbarian]]
 - [[Bard]]
@@ -13,4 +19,4 @@
 - [[Wizard]]
 ## Homebrew
 - [[Blood Hunter]]
-- [[Lingering Soul]]
+- [[Lingering Soul]] (todo)

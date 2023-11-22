@@ -1,7 +1,9 @@
 ---
 tags:
-  - Update
+  - update
+publish: true
 ---
+# HEY THIS PAGE PROBABLY LOOKS LIKE HOT GARBAGE BUT ITS FOR TESTING
 
 ```leaflet
 id: califhen-map

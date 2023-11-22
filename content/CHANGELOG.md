@@ -1,4 +1,4 @@
-##  (2023-11-20)
+##  (2023-11-21)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -72,5 +72,8 @@
 *  Added all original Elemental Evil races *(Alexander Franke)*
 *  Added Ravnica Races *(Alexander Franke)*
 *  Added Theros & Eberron races *(Alexander Franke)*
+*  Added all Races & lineages *(Frankasaurus)*
+*  Finalized races & started classes *(Frankasaurus)*
+*  Added Barbarian class *(Alexander Franke)*
 
 

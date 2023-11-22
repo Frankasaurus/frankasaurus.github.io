@@ -51,10 +51,11 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Add images
 		- [ ] Re-do the sorting of the races in [[Dungeons & Dragons 5e/Source Material/Races/_Overview|_Overview]]
 	- [ ] Classes
-		- [ ] Create template
+		- [x] Create template
 		- [ ] Subclasses
-		- [ ] Add images
-	- [ ] Lineages
+		- [x] Add images
+		- [ ] Check subclass source lists on main class page
+	- [x] Lineages
 	- [ ] Source material collection list
 - [ ] Characters
 	- [x] Add a whackton of existing NPC's
