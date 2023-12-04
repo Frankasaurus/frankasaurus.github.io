@@ -21,9 +21,9 @@ See [[Party]].
 - [[Vimak Vaimei-Laga]]
 # Recently Updated
 The following pages have recently been updated, created, or made public:
-- Races [[Dungeons & Dragons 5e/Source Material/Races/_Overview|Overview]]
+- Races [[Races Overview|Overview]]
 	- Example: [[Duergar]]
-- Classes [[Dungeons & Dragons 5e/Source Material/Classes/_Overview|Overview]]
+- Classes [[Classes Overview|Overview]]
 	- Example: [[Cleric]]
 	- Includes [[Blood Hunter]]
 - [[TODO List StracciaD&D]]

@@ -1,14 +1,10 @@
 ---
 publish: false
 ---
-> [!infobox]
-> # (CLASS)
-> ![[(CLASS).png|cover hsmall]]
-
-**_Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis._**
+> [!quote]
+> **_Intro text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc consequat molestie tellus sed pharetra. Fusce ut consequat turpis, ac lobortis nisl. Pellentesque faucibus diam et diam sodales varius. Mauris at libero gravida, fermentum leo nec, posuere turpis. Morbi justo orci, tincidunt sit amet facilisis finibus, fermentum luctus neque. Vivamus sagittis massa ut placerat mollis._**
 
 *You must have a (STAT) score of 13 or higher in order to multiclass in or out of this class.*
-
 # (CLASS) Table
 | Level | Prociciency Bonus | Features                                        | Rages     | Rage Damage |
 | ----- | ----------------- | ----------------------------------------------- | --------- | ----------- |
@@ -34,6 +30,9 @@ publish: false
 | 20th  | +6                | Primal Champion                                 | Unlimited | +4          |
 (COPY PASTE FROM DNDWIKI M8 - BARBARIAN AS EXAMPLE)
 ***
+> [!infobox]
+> # (CLASS)
+> ![[(CLASS).png|cover hsmall]]
 # Class Features
 As a (CLASS), you gain the following class features.
 ### Hit Points
@@ -53,5 +52,5 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a greataxe or (b) any martial melee weapon
 - (a) two handaxes or (b) any simple weapon
 - An explorer's pack and four javelins
-
+***
 (And yeah litterally copy the DNDWiki text)

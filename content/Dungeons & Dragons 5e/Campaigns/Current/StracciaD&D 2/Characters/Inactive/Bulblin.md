@@ -50,7 +50,7 @@ publish: true
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | Goblin |  
-> | **Class** | Ranger (Beastmaster) |  
+> | **Class** | [[Ranger]], [[Beast Master]] conclave |  
 > | **Born** | [[Jaxos Isles]], ?? years ago |  
 > | **Languages** | Common, Goblin, Elvish, Infernal |  
 > | **Family** | - [[Wormbone family]] (member) |

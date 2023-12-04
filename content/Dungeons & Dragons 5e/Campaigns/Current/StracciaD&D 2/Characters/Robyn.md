@@ -48,7 +48,7 @@ publish: true
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Race** | Half-Orc |  
-> | **Class** | [[Monk]], Way of the Astral Self |  
+> | **Class** | [[Monk]], Way of the [[Astral Self]] |  
 > | **Born** | [[Torpe]] , 24 years ago|  
 > | **Languages** | Common, Orcish |  
 > | **Family** | - [[Rhayn]] (mother)<br>- [[Linzo]] (father) |

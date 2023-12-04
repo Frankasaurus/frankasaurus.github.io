@@ -48,7 +48,7 @@ publish: true
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Half-Elf]] (Wood) |  
-> | **Class** | [[Warlock]] (Pact of the Fiend) |  
+> | **Class** | [[Warlock]], Pact of the [[Fiend]] |  
 > | **Born** | [[The Wovens]] , 20 years ago|  
 > | **Languages** | Common, Elvish |  
 > | **Family** | - Unnamed father and mother |

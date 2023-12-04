@@ -50,7 +50,7 @@ publish: true
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Elf]] (Wood) |  
-> | **Class** | [[Rogue]] (thief) |  
+> | **Class** | [[Rogue]], [[Thief]] Archetype |  
 > | **Born** | Unknown , 236 years ago|  
 > | **Languages** | Common, Elvish, Thieves' Cant |  
 > | **Family** | - |

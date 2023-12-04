@@ -49,7 +49,7 @@ publish: true
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Genasi]] (Fire) |  
-> | **Class** | [[Cleric]] (Light Domain) |  
+> | **Class** | [[Cleric]], [[Light]] Domain |  
 > | **Born** | [[Dragoness Barony]] , 28 years ago |
 > | **Languages** | Common, Primordial |  
 > | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Ostrzał Charr]] (mother) |

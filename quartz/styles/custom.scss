@@ -18,6 +18,12 @@
   }
 }
 
+@media only screen and (max-width: 1900px) {
+  table {
+    display: block;
+  }
+}
+
 .callout table {
   margin: 0;
   width: 100%;
@@ -33,4 +39,16 @@
 
 .hr {
   width: unset;
+}
+
+table {
+  overflow-x: auto;
+}
+
+th {
+  overflow-wrap: break-word;
+}
+
+td {
+  overflow-wrap: break-word;
 }

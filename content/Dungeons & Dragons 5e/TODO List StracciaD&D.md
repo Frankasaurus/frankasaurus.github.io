@@ -49,7 +49,7 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [x] Subraces
 		- [x] Historical info for Califhen
 		- [x] Add images
-		- [ ] Re-do the sorting of the races in [[Dungeons & Dragons 5e/Source Material/Races/_Overview|_Overview]]
+		- [ ] Re-do the sorting of the races in [[Races Overview|Races Overview]]
 	- [ ] Classes
 		- [x] Create template
 		- [ ] Subclasses

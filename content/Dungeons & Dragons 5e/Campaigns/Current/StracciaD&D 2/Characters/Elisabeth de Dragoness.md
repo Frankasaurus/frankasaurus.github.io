@@ -50,7 +50,7 @@ publish: true
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Tiefling]] |  
-> | **Class** | [[Sorcerer]] (Draconic Bloodline) |  
+> | **Class** | [[Sorcerer]], [[Draconic Bloodline]] sorcerous origin |  
 > | **Born** | [[Dragoness Barony]] , 23 years ago|  
 > | **Languages** | Common, Infernal, Draconic |  
 > | **Family** | - [[Xavion de Dragoness]] (father, Baron de Dragoness)<br>- [[Willemijn de Dragoness]] (Mother)<br>- [[Amenadiel de Dragoness]], [[Benjamin de Dragoness]], [[Charles de Dragoness]], [[Diederick de Dragoness]] (brothers) |

@@ -1,4 +1,4 @@
-##  (2023-11-21)
+##  (2023-12-02)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -75,5 +75,9 @@
 *  Added all Races & lineages *(Frankasaurus)*
 *  Finalized races & started classes *(Frankasaurus)*
 *  Added Barbarian class *(Alexander Franke)*
+*  Added all base classes + blood hunter *(Frankasaurus)*
+*  Finished CDPR Session 13 *(Frankasaurus)*
+*  Update CPRED - Sessie 13.md *(Alexander Franke)*
+*  Fixed formatting of class pages *(Alexander Franke)*
 
 

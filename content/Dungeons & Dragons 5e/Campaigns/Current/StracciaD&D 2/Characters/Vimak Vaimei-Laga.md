@@ -51,7 +51,7 @@ publish: true
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Race** | Goliath |  
-> | **Class** | [[Paladin]] (Oath of Devotion) |  
+> | **Class** | [[Paladin]], Oath of [[Devotion]] |  
 > | **Born** | [[Devostina Alps]], 30 years ago|  
 > | **Languages** | Common, Giant, Elvish |  
 > | **Family** | - [[Kuori "Bearkiller"]] (father)<br>- [[Lo-Kag "Wordpainter"]] (mother)<br>- [[Aukan "Keepeye"]] (brother, deceased) |

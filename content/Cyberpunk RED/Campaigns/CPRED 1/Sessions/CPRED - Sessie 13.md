@@ -22,16 +22,60 @@ Daar zullen we de volgende keer oppakken.
 **Waar:** Pacifica, [[Christiana Naso]]'s appartement.
 **Doel sessie:** Nicky Cole introduceren ([[Tal Rezin]]'s vader) & licht schijnen op de situatie. Nicky's tips voor het liquideren van [[Mili Partitio Sr.]].
 # 1. Infiltratie Naso's Appartement
-Verhalen werken in beats, zoals in Cyberpunk. Een beat is een onderdeel van een verhaal, zoals een encounter, een test, een passief doorlopend iets, maar komt neer op een serie aan handelingen.
-## 1.a Combat appartement
-Soms hebben beats meerdere onderdelen, zoals een gevecht. Zie voor templates van deze Sub-beats hieronder meer.
-## 1.b Chase
-DD
-## 1.c Confrontatie Naso
+Nadat de auto's het appartement in rijden, zal na een tijdje de lichten aan gaan in 1 van de ruimtes, 13e etage. 
+Ruimte tussen de Mercs en t appartement is 26m in lengte.
+**Drones in de rondte zonder geschut, wel met infrarood alarmen.**
+**Woning:**
+- Woonkamer is vol met plastic, ramen deels met vuilniszakken gedicht. 2 stoelen temidden van de kamer.
+- Slaapkamer dat als tijdelijk onderkomen dient.
+	- 
+- Zijkamer die vol met tech zit, waaronder LOOT.
+	- Bewijs dat hier oorspronkelijk een gemodificeerde braindance wreath gebruikt zou worden op Nicky Cole om hem te hersenspoelen.
+	- Info over een squad die updates vraagt over wat ze moeten doen met [[Hans Krautz]]; ze hebben hem gevonden en kunnen hem koud maken.
+	- (VERZIN LOOT)
+- **Loot v.d. guards**
+	- Op Agents zal zichtbaar zijn dat er een live 'groepsgesprek' plaatsvind over een actie op Hans Krautz, en wat hun volgende orders zijn.
+	- Wapens ofcourse.
+	- Sleutels naar hun autos.
+	- Allemaal cyberware (random op tabel kijken)
+## 1.a Als ze wachten
+1. Eerst 3 bewakers die binnenkomen, scouten de ruimte en ook het balkon en omgeving (PERCEPTION DV)
+	1. Uiterlijk; trenchcoats zonder helmen, met balistische vesten en beschermers. Gezichtherkenningblokkering / wijde brillen. Tech-ed up!
+2. Dan 2 bewakers die met Naso en een dakloos-uitziende man met zak over hoofd binnenkomen, die op de stoel wordt vastgebonden (Nicky).
+	1. Uiterlijk Naso; Licht forse dame met lang hoog bruin haar in een staart, gekleed als classic corpo. Chromen cyberarm.
+3. *Buiten de deur wacht nog 1 beveiliger.* **6 totaal.**
+4. De veteran zal een gereedschapskar uit de slaapkamer halen, en Naso een lange kabel met tientallen aansluitingen die ze aan Nicky hangen.
+5. Hij zal worden gemarteld.
+## 1.b Combat appartement
+2x Security Heavy (A & B)
+1x Security Veteran (C)
+2x Security Rookie (D & E)
+1x Naso (F)
+1x Nicky (G)
+![[NasoAppartement.png|700]]
+**Als naso versterking kan roepen; 3x Security rookies bij uitgang**
+## 1.c Chase
+**Als achtervolging;** improviseer vooral.
+Bij 3 gefaalde vehicle handling checks: crash
+Zie regels vehicle combat p.189
+## 1.d Confrontatie Naso
+- Naso is onder loonstrook, Mili kan haar gestolen worden.
+	- Hij betaald genoeg om geen poot op te steken.
+- Het is zijn zoon die de arbeiderswerkers aanspoort in opstand te komen. Hij kan zijn zoon niet vermoorden, maar wel alles wat hem inspireert.
+	- Er is op dit moment een team aan het convergeren op [[Hans Krautz]] locatie.
+- Als ze overtuigend zijn (omkoping): Mili Sr. moet voor een kwartaaltoespraak naar een gala binnen het pand. Het zal de eerste keer zijn sinds de aanval op [[The RNS]] dat hij publiek gaat verschijnen.
+- Als ze hun om de tuin wilt leiden; hij heeft in 2 dagen tijd een meeting met investeerders in de parkeergarage van het [[Saviore Kibble HQ]].
+	- Dit is een val.
 # 2. Nicky Cole
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-## 2.a Bevrijding
-DD
-## 2.b Wraak
-DD
-## 2.c Wilmot gesprek
+Nicky Cole zal bij vrijlating superschuw zijn, en niemand aan kunnen kijken. Is heel zwak.
+Duitse woorden mengen in zinnen (*"Nein, fertig, nein! Nicht mehr bihte! Laat mij met rust!"*)
+Wat weet Cole;
+- Klara Rezin is overleden aan implantfalen, waardoor Nikolas in een depressie kwam. Mili Sr. - toen nog corpo assistent - heeft toen zijn kans gepakt en Nikolas verstoten.
+	- Leeft al jaren op straat, hij weet niet welk jaar het is. Verslaaf aan blauwglas.
+- Arbeiders riepen hem op als voorbeeldsmodel, hebben meerdere malen geprobeerd hem voor het karretje te spannen maar was te ver heen.
+
+**Na een tijd lopen zal Nicky fysieke problemen ervaren. Resultaat van een interne bloeding (Darmperforatie). Moet zeer spoedig worden behandeld.**
+- Stabiliseren / tijd winnen: DV 15 (Surgery)
+- Genezen: DV 21 (Surgery)
+## 2.a Wilmot gesprek
+Pwoah wat ga je hier zeggen maat.
