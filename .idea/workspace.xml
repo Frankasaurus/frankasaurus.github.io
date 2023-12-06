@@ -9,45 +9,11 @@
       <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Ayden1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/BecxIslesMap1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/BestBooty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/BloodwellVial.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Bulblin1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Bulblin2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/CalifhenMap1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/CapeOfTheMountebank.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Carmine1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/CloakOfArachnida.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/CloakOfProtection.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Elisabeth1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Elisabeth2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/FlameTongue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/GiantSlaying.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/GogglesOfNight.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Imp1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/MedallionOfThoughts.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/OlvexEye.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Phillipa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/RingOfJumping.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Robyn1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Robyn2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Roderick1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/StaffOfWithering.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/TijanisHurt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Vimak1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/Vimak2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/WandOfTheWarMage+1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/attachments/night-city-map-2045-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/static/contentIndex.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/contentIndex.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +78,8 @@
       <workItem from="1700424212165" duration="81000" />
       <workItem from="1700496442094" duration="22000" />
       <workItem from="1701464845478" duration="937000" />
-      <workItem from="1701466860398" duration="4683000" />
+      <workItem from="1701466860398" duration="5366000" />
+      <workItem from="1701707573314" duration="70000" />
     </task>
     <servers />
   </component>

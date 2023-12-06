@@ -1,4 +1,4 @@
-##  (2023-12-02)
+##  (2023-12-07)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -79,5 +79,8 @@
 *  Finished CDPR Session 13 *(Frankasaurus)*
 *  Update CPRED - Sessie 13.md *(Alexander Franke)*
 *  Fixed formatting of class pages *(Alexander Franke)*
+*  Prepped vault for subclasses *(Frankasaurus)*
+*  Added some subclasses *(Frankasaurus)*
+*  Fixed subclass folder structure, edit index.md *(Alexander Franke)*
 
 
