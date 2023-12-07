@@ -36,13 +36,13 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] Add descriptions to some
 		- [ ] Add images
 - [ ] Source Material
-	- [ ] Add folder system
-		- [ ] Revise To-do after this
+	- [x] Add folder system
+		- [x] Revise To-do after this
 	- [ ] Races
-		- [ ] Fill in races from top to bottom
+		- [x] Fill in races from top to bottom
 			- [ ] Double-check sources
-			- [ ] Double-check subrace rules
-			- [ ] Remove / replace legacies
+			- [x] Double-check subrace rules
+			- [x] Remove / replace legacies
 			- [x] Update race template for existing races
 				- [x] Update infobox
 		- [x] Create template
@@ -53,6 +53,10 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Classes
 		- [x] Create template
 		- [ ] Subclasses
+			- [x] Current PC's
+			- [ ] PHB
+			- [ ] Tasha's
+			- [ ] Rest
 		- [x] Add images
 		- [ ] Check subclass source lists on main class page
 	- [x] Lineages
@@ -73,6 +77,8 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Fix popovers only using 1/4th of the width
 	- [ ] Add published / unpublished counter below explorer
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
+	- [x] Add table scroling to large tables (like Cleric Table)
+		- [ ] Fix issue with smaller tables
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system
