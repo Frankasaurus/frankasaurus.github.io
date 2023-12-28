@@ -68,6 +68,24 @@ Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.
 - Kan niet alleen de ‘Bronzen’ Orde aan, vooral omdat de naam van Bronzen Draken dan besmeurd wordt. Schakel een tiran uit, en zijn plaatsvervanger zal zijn kwaad in tweevoud voortzetten. Er moet een garantie van succes zijn. ***Heb hulp nodig***
 - Mochten we een betere kans willen maken; Mijn [[Cirdorim's Lair|oude burcht]] is ten noorden aan de kust, in verstopte grottensysteem. Ik heb hier oude relieken verzameld door de eeurwen heen om eens en voor altijd hier een eind aan te maken. 
 - Kent [[Kruziik'ahraan]] als eeuwen. 
+## 2.a Diederick ontmoeting
+Wanneer een persoon of clubje (zonder Elisabeth) rondwandeld zal Diederick hen voorzichtig benaderen.
+- Wilt oprecht weten hoe ze is; wat wilt ze.
+- Wat is het vertrouwen in Xavion.
+- Heeft de party gezien hoe het in het Orde Quadrant er aan toe gaat?
+- De staatskas klopt niet. Grondstoffen worden verkocht waar we niet naar mijnen. We importeren en kopen in zonder ook maar enkele zichtbare caravaans of schepen.
+- Kan ik jullie vertrouwen? -> verzamel in de prieel.
+**Eenmaal in het prieel:** Een schuwe Diederick zal zijn eigen persoonlijke plan voor ontsnappen vertellen
+- Jullie gaan hier niet meer wegkomen - Xavion is gek geworden.
+- Ik heb gewerkt aan een uitweg. Ik trek dit niet meer, deze stad is gedoemd. Jullie kunnen mee / ik kan dit niet alleen.
+	- Het paleis heeft zijn eigen voorziening, maar het gastenhuis is op het rioolnetwerk van de Bronzen Greep aangesloten; hiermee kunnen we richting de oevers vluchten.
+- Verder niet erg uitgedacht; heeft plattegronden en een entree achter het staf-verblijf.
+## 2.b Charles ontmoeting
+*Mochten ze Charles aanspreken*
+- Zal kort en bot zijn.
+- Gelooft in Xavion, en is door hem overtuigd dat hij de enige is die heeft wat nodig is om de familie te tillen.
+- Licht overtuigd dat Elisabeth een zwakke schakel is die Ben heeft laten stikken.
+	- "We weten beide dat als hij mij had gestuurd, Ben thuis had geweest."
 # 3. Reunie Xavion
 [[Xavion de Dragoness]] zal bericht sturen naar [[Elisabeth de Dragoness|Elisabeth]] van haar terugkeer. Bij de eerste reunie, houdt rekening met het volgende;
 - Een grote knuffel en veel blijdschap.
@@ -78,8 +96,91 @@ Al gevolgd sinds ze aanmeerden, wetende dat er een Dragoness aan boord zou zijn.
 - Alleen bij vragen moeder / [[Willemijn de Dragoness]]; *"Je moeder is door Ben's verdwijning in een tragische hysterie gevallen, het spijt mij..."*
 
 **Tegen einde gesprek:** *"Het spijt mij enorm, maar ik heb saaie Baron-zaken om naar te keren. Ik heb wel nog een verassing voor je, eentje die ik al maanden voorbereidt in aanloop tot je terugkeer. Een **Gala**. Een Gala voor de eeuwen, eentje om te onthouden, om jouw terugkeer en de groeiende kracht van Baronie de Dragoness vast te leggen! Ik zal mijn beste kledingmakers jullie wensen laten vastleggen. Wanneer denk jij dat deze plaats moet vinden? Jullie zullen immers misschien wat dagen rust willen voordat de nobele druk toeslaat..."*
-# 4. Riool Ontsnapping
+## 3.a Het Gala
+Om te vieren dat [[Elisabeth de Dragoness|Elisabeth]] terug is, organiseerd een vermomde [[Xavion de Dragoness]] ([[Kruziik'ahraan]]) een Gala. Zijn doel is om op het gala wat rivalen uit te schakelen, maar ook om Elisabeth aan zijn kant te krijgen, door haar uit te nodigen naast hem te staan, of zelf de executies uit te delen
+TODO: Tijdens het Gala zal Xavion aan Elisabeth vragen om - samen met [[Fumyss]] en [[Charles de Dragoness]] - als vertoning van macht publiekelijk rebellenleiders "tentoonstellen", waarna het [[Dragoness Barony#Dragoness Freedom Legion|Dragoness Vrijheids Legion]] (een groep militanten vermomd als Bedienden) toeslaan om de leiders te bevrijden. De party kan kiezen welke kant ze willen ondersteunen tijdens het gevecht.
+
+**Bij binnenkomst:** Xavion zal Elisabeth apart nemen; *"Onthoud iets; dit gala is voor jou! Ik ben zo trots op jouw reis. Zou je zo samen met je vader en je broers - alleen als jij wilt - een toegift houden voor onze gasten?"*
+
+**Omschrijving;**
+- Lange 'bolle' ruimte met hoog plafond, 4 kroonluchters, en een balkon rondom de centrale danszaal met 4 grande trappen die hier naar boven leiden. Ook zijn er prive-balkons met Paleisgarde.
+- Bronzen ornamenten, oranje bloemen versieren de randen, en verfijnd semi-organisch houten meubulair, met veel kleden en doeken.
+- Temidden van de zaal is grote dansvloer met daarnaast een oude houten podium, niet groter dan 4x4m (Perc/inv 17: bedekte ruimte onder het podium. Daaronder ligt executiemateriaal (manden, bijl, blok etc))
+	- Aan de andere zijde; een klein orkest.
+- Er zijn drie grote open deuren naar een groot terras die over de paleistuin heen kijkt. Hier is wat gras, bomen, sierwater, en een Prieel.
+- Bedienden lopen rond met verfijnde maaltijden van alle soorten (Insight check 14: lopen wat lomp rond - dit zijn niet de gebruikelijke lakeien)
+
+Ook;
+- **Robyn**'s Amulet zal opzwellen van de neppe gezichten; de meesten doen alsof ze het naar hun zin hebben.
+- Andere aanwezigen zijn
+	- **[[Charles de Dragoness]]** in ceremoniele kledij, hangend naast zijn vader als zijn persoonlijke garde.
+	- **[[Diederick de Dragoness]],** ongemakkelijk mengend met het publiek, noterend.
+	- **Minister Sigfrid** (mens met schubben) van de misdienst gisteren.
+## 3.b Toegift Xavion
+**Houdt rekening met dat spelers kunnen onderbreken.**
+
+Als het gala een beetje doorloopt, zal Xavion plaatsnemen op het houten podium temidden van het publiek.
+> Xavion: *Het doet mij een groot genoegen jullie voor het tweede maal deze week te kunnen verwelkomen in het Dragoness Paleis, hoewel het deze keer om een uitzonderlijke reden gaat. Met het succesvol wederkeren van mijn dochter haar missie zijn de banden tussen Dragoness en de Bloeming Eilanden voorgoed verstevigd tot een punt dat wederzijdse handel ondervermijdelijk is. En hoewel de kracht van Dragoness door haar stroomt, moet er ook erkenning plaatsvinden voor het entourage dat haar heeft vergezeld, beschermd, en geholpen. Hiervoor wilt de staat jullie allen danken (inclusief Elisabeth) met een Eersterangs Onderscheiding tot Dienstverlening aan de Bronzen Orde.*
+
+(Een ceremoniemeester met spelden zal de groep gebaren - speld = het wapen van dragoness gehuld in een krans en twee klauwen)
+> *Dank U allen voor uw geduld. Met deze onderscheiding wil ik het niet langer verborgen maken dat de familie Dragoness nog nooit zulke kracht heeft gekend. Met Generaal Amanediel en Heer Benjamin op internationale missies, Kapitein Charles als jullie paleisgarde en meest formidabele strijder, Meester Diederick als verdragsstrijdkracht, en nu ook Elisabeth onderscheiden avonturier en strijdster, *
+> *Met dat gezegd hebbende, is het thema van vanavond niet exclusief ter ere van mijn dochter, maar om deze kracht eens en voor altijd te verzegelen. Ter gelegenheid van de vertoning van de kracht van Baronie Dragoness - en uw amusement; Heer Generaal [[Fumyss]].*
+
+**Generaal Fumyss:**
+> *Danku allen. Ik ben mij bewust genoeg dat mijn stemgeluid al prominent genoeg is in deze fijne stad, dus ik zal mij beknopt houden. Breng de boosdoeners binnen.*
+
+Drie personen worden geketend door het publiek gebracht. Ceremoniemeester haalt onder podium manden, een blok, en een bijl tevoorschijn.
+> *Het Orde District is ziek. Er waant zich op dit moment een pest rondt. Een die ze vrijheid belooft, en rijkdom, en roem, en dat soort nonsens. Het zijn leugens. Voorbij deze muren is niks voor niemand. De wereld is uit op jullie, uitbuiting is nog maar het minste wat je zal overkomen. Dood is een schrale troost.*
+
+**Xavion knikt - bijl zwaait omhoog - Rol d20 advantage + 6 + 1d10 (AC 19 Fumyss) voor Archer -> *HINDERLAAG!!!***
+
+Er gebeuren een boel dingen:
+- De kelners trekken allen wapens en gijzelen een aantal nobelen.
+- Op een aantal balkons worden kruisbogen getrokken om de zaal onder schot te houden.
+- Er zijn twee spellcasters die de deuren dichtdoen.
+
+Wanneer de spanning toeslaat, COMBAT
+### 3.b.i Combat Gala
+**Moeilijkheid:** Hard VS Hard  
+**Doel:** De party een moeilijke keuze laten maken, welke zijde ze bij willen horen. 
+**Reden:** Speler agency & invloed op uitkomst.
+**Lol:** Een conflict waar de party tussen staat.
+**Dragoness:**  
+- 1x Draconian Dreadnought (56hp, AC16) - FToD P. 177
+- 1x Draconian Mage (40hp, AC15) - FToD P. 179
+- 8x Draconian Foot Soldier (22hp, AC14) - FToD P. 178
+- 2x (Draconian) Knight (52hp, AC18) - MM p. 347
+**Vrijheids legioen:**  
+- 1x Air Elemental (90hp, AC15)
+- 1x Druid (27hp, AC11) - MM p. 346
+- 2x Archer (75hp, AC16) - MotM p. 49
+- 6x Bandit (11hp, AC12) - MM p. 344
+- [x] **Mix van ranged / martial?**
+# 4. Ontsnapping Baronie
 Vooropzet is dat de spelers hier op de paleisgronden gevangen worden gehouden, maar dat een van de broertjes - Diederick -  jarenlang een uitweg heeft gezocht. Hij heeft de tocht nooit gewaagd uit angst voor zijn vader, maar Elisabeth zou hen allemaal kunnen helpen.
+## 4.a Binnenstad
+Als ze luid door de stad gaan, rol een D6 voor welke encounter;
+1. Kinderen
+2. Orde district burgers
+3. Bronzen Kwartier burgers
+4. Vrijheidslegioen (3 archers)
+5. Orde Garde (3 knights)
+6. [[Charles de Dragoness]] en zijn Brigadiers
+Spelers bepalen route en wat ze willen en hoe! Improv.
+## 4.b Riool
+Als [[Diederick de Dragoness]] ze opvangt, is er een rioolput achter het staf-verblijf die leidt tot de buitenstadse Drake-stallen aan de oevers.
+In het riool zijn 2 mogelijk encounters; **Een verstopte crimineel**, en een groepje **Werkende Kobolds.** De laatste is mogelijk combat.
+### 4.b.i "Baggerkoning"
+De Baggerkoning is een kluizenaar die een van de hoogste prijzen van heel Greyskil op zijn hoofd heeft (4500gp).
+- Onderdeel van [[Greyskil Refugee Resistance]].
+- Prominente aanklachten zijn voornamelijk Brandstichting, maar ook plundering en sabotage.
+	- Voorbeelden: De Vuurzee van de Noordertoren in [[Elin]]. (History 15: een ontwerpfout maakte dat de toren gelijk stond aan een grote lont. Totaal 81 doden). Noordertoren was thuis voor de onderministers, die wetgeving tegen allianties opbrachten.
+- Is hier om de coup te steunen waar nodig - *"Brandje hier, sabotage daar... ik laat het Paleis voorlopig met rust."*
+### 4.b.ii Kobold werkers
+Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers
+Combat?
+
+Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 14 *(draconic spreken = advantage)*.
 # 5. Tournament
 De aanleiding tot deze combat is nog volledig onzeker, en kan net zo goed plaatsvinden als een ambush temidden van straat.
 ## 5.a Tournament meedoen
@@ -92,8 +193,10 @@ Het tournament bestaat uit 3 rondes;
 3. De hele groep tegen een gevangen gehouden Dragonine + support
 
 # 6. Cirdorim Burcht
-TODO: Dungeon bouwen
-Aan het einde zal Cirdorim in staat zijn haar ware zelf te laten zien, en het verhaal vertellen van hoe zij Willemijn stieken heeft gegund met daadwerkelijk Nobel bloed, opdat zij waar zou kunnen maken wat Xavion niet kon. Ook zou de Baronie haar burcht met rust laten. In ruil zou Willemijn haar ware kracht nooit laten zien, maar het door laten vloeien in een mogelijk dochter; Elisabeth. Het boek was maar een ploy om Elisabeth te gunnen wat zij verdiende, opdat Elisabeth anders was dan haar broers.
+Samenvattend: 
 
-# 7. Diederick's nachtelijke bezoek
-- Willemijn: moeder werd in aanloop tot opsluiting erg opstandig, sliep in het gastverblijf, sindsdien in een binnenruimte paleis.
+- Afstand vanaf [[Dragoness Barony]] = 2 dagen lopen.
+
+TODO: Dungeon bouwen. [[Dragon Slayer Longsword]] als reward.
+
+Aan het einde zal [[Cirdorim]] (eekhoornvorm) in staat zijn om haar ware zelf te laten zien, en het verhaal vertellen van hoe zij Willemijn stiekem heeft gegund met daadwerkelijk Nobel bloed, opdat zij waar zou kunnen maken wat Xavion niet kon. Ook zou de Baronie haar burcht met rust laten. In ruil zou Willemijn haar ware kracht nooit laten zien, maar het door laten vloeien in een mogelijk dochter; Elisabeth. Het boek was maar een ploy om Elisabeth te gunnen wat zij verdiende, opdat Elisabeth anders was dan haar broers.

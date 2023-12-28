@@ -34,7 +34,7 @@ publish:
 > | **Name** | Kruziik'ahraan |
 > | **Aliases** | Rana, "The Scar" |
 > | **Gender** | Male | 
-> | **Creature Type** | Dragon |
+> | **Creature Type** | Adult Dragon |
 > | **Race** | [[Dragon]] (Blue) |  
 > | **Occupation** | Conquerer |  
 > | **Location** | [[Dragoness Barony]], disguised as [[Xavion de Dragoness]] |

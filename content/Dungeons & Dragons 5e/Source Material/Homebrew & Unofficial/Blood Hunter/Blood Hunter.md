@@ -6,7 +6,7 @@ publish: true
 > ![[BloodHunter.png|cover hsmall]]
 
 > [!quote]
-> **_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt.
+> **_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
 
 _You must have an Intelligence score of 13 or higher and a Strength or Dexterity score of 13 or higher in order to multiclass in or out of this class._
 
@@ -83,23 +83,22 @@ While the rite is in effect, attacks you make with this weapon are magical, and 
 
 You choose one rite from the crimson rites below when you first gain this feature. You learn an additional crimson rite at 7th level, and again at 14th level.
 ### Crimson Rites
-
-**_Rite of the Flame._** Your rite damage is fire damage.  
-**_Rite of the Frozen._** Your rite damage is cold damage.  
-**_Rite of the Storm._** Your rite damage is lightning damage.  
-**_Rite of the Dead._** Your rite damage is necrotic damage. (Prerequisite: 14th level)  
-**_Rite of the Oracle._** Your rite damage is psychic damage. (Prerequisite: 14th level)  
-**_Rite of the Roar._** Your rite damage is thunder damage. (Prerequisite: 14th level)
+- **_Rite of the Flame._** Your rite damage is fire damage.  
+- **_Rite of the Frozen._** Your rite damage is cold damage.  
+- **_Rite of the Storm._** Your rite damage is lightning damage.  
+- **_Rite of the Dead._** Your rite damage is necrotic damage. (Prerequisite: 14th level)  
+- **_Rite of the Oracle._** Your rite damage is psychic damage. (Prerequisite: 14th level)  
+- **_Rite of the Roar._** Your rite damage is thunder damage. (Prerequisite: 14th level)
 ***
 ## Blood Hunter Order
 At 3rd level, you commit to an order of blood hunters whose philosophy will guide you throughout your life. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
 
 | Order          | Source                                                                                |
 | -------------- | ------------------------------------------------------------------------------------- |
-| [Ghostslayer]  | [[Matt Mercer & Critical Role]]                                                       |
-| [Lycan]        | [[Matt Mercer & Critical Role]]                                                       |
-| [Mutant]       | [[Matt Mercer & Critical Role]]                                                       |
-| [Profane Soul] | [[Matt Mercer & Critical Role]] |
+| [[Ghostslayer]]  | [[Matt Mercer & Critical Role]]                                                       |
+| [[Lycan]]        | [[Matt Mercer & Critical Role]]                                                       |
+| [[Mutant]]       | [[Matt Mercer & Critical Role]]                                                       |
+| [[Profane Soul]] | [[Matt Mercer & Critical Role]] |
 ***
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
@@ -132,3 +131,71 @@ When you reach 14th level, you have advantage on saving throws against being cha
 Upon reaching 20th level, your mastery of blood magic reaches its height, mitigating your sacrifice and empowering your expertise. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can reroll the die and use either roll.
 
 Additionally, whenever you score a critical hit with a weapon for which you have an active crimson rite, you regain one expended use of your Blood Maledict feature.
+***
+# Blood Curses
+Blood Curse of the Anxious
+
+As a bonus action, you harry the body or mind of a creature within 30 feet of you, making them susceptible to forceful influence. Until the end of your next turn, Charisma (Intimidation) checks made against the cursed creature have advantage.
+
+Amplify. The next Wisdom saving throw the cursed creature makes before this curse ends has disadvantage.
+Blood Curse of Binding
+
+As a bonus action, you attempt to bind a Large or smaller creature you can see within 30 feet of you, which must make a Strength saving throw. On a failure, the cursed creature’s speed is reduced to 0 and it can’t use reactions until the end of your next turn.
+
+Amplify. This curse lasts for 1 minute and can affect any creature regardless of size. The cursed creature can repeat the saving throw at the end of each of its turns, ending the curse on itself on a success.
+Blood Curse of Bloated Agony
+
+As a bonus action, you curse a creature that you can see within 30 feet of you, causing its body to swell until the end of your next turn. For the duration, the creature has disadvantage on Strength checks and Dexterity checks, and takes 1d8 necrotic damage if it makes more than one attack during its turn.
+
+Amplify. This curse lasts for 1 minute. The cursed creature can make a Constitution saving throw at the end of each of its turns, ending the curse on itself on a success.
+Blood Curse of Corrosion
+
+Prerequisite: 15th level, Order of the Mutant
+As a bonus action, you cause a creature within 30 feet of you to become poisoned. The cursed creature can make a Constitution saving throw at the end of each of its turns, ending the curse on itself on a success.
+
+Amplify. The cursed creature takes 4d6 necrotic damage when you inflict this curse, and it takes this damage again each time it fails a Constitution saving throw to end the curse.
+Blood Curse of the Exorcist
+
+Prerequisite: 15th level, Order of the Ghostslayer
+As a bonus action, you choose one creature you can see within 30 feet of you that is charmed or frightened, or which is under a possession effect. The target creature is no longer charmed, frightened, or possessed.
+
+Amplify. A creature that charmed, frightened, or possessed the target of your curse takes 3d6 psychic damage and must succeed on a Wisdom saving throw or be stunned until the end of your next turn.
+Blood Curse of Exposure
+
+When a creature you can see within 30 feet of you takes damage from an attack or spell, you can use your reaction to temporarily weaken its resilience. Until the end of the target’s next turn, it loses resistance to all the damage types dealt by the triggering attack or spell (including for that triggering effect).
+
+Amplify. The target instead loses invulnerability to the damage types of the triggering attack or spell, but has resistance to those damage types until the end of its next turn.
+Blood Curse of the Eyeless
+
+When a creature you can see within 30 feet of you makes an attack, you can use your reaction to roll one hemocraft die and subtract the number rolled from the creature’s attack roll. You can choose to use this feature after the creature’s roll, but before the DM determines whether the attack hits or misses. The creature is immune to this curse if it is immune to the blinded condition.
+
+Amplify. You apply this curse to all the creature’s attack rolls until the end of the creature’s turn. You roll separately for each affected attack.
+Blood Curse of the Fallen Puppet
+
+When a creature you can see within 30 feet of you drops to 0 hit points, you can use your reaction to instill that creature with a final act of aggression. The creature immediately makes one weapon attack against a target of your choice within its range.
+
+Amplify. You can first cause the cursed creature to move up to half its speed, and you grant a bonus to its attack roll equal to your Hemocraft modifier (minimum of +1).
+Blood Curse of the Howl
+
+Prerequisite: 18th level, Order of the Lycan
+As an action, you unleash a bloodcurdling howl. Each creature within 30 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. If a creature fails its saving throw by 5 or more, it is stunned while frightened in this way. A creature that succeeds on its saving throw is immune to this blood curse for the next 24 hours.
+
+You can choose any number of creatures you can see to be unaffected by the howl.
+
+Amplify. The range of this curse increases to 60 feet.
+Blood Curse of the Marked
+
+As a bonus action, you mark a creature that you can see within 30 feet of you. Until the end of your turn, whenever you hit the cursed creature with a weapon for which you have an active crimson rite, you roll an additional hemocraft die when determining the extra damage from the rite.
+
+Amplify. The next attack roll you make against the target before the end of your turn has advantage.
+Blood Curse of the Muddled Mind
+
+As a bonus action, you curse a creature that you can see within 30 feet of you that is concentrating on a spell or using a feature that requires concentration. That creature has disadvantage on the next Constitution saving throw it makes to maintain concentration before the end of your next turn.
+
+Amplify. The cursed creature has disadvantage on all Constitution saving throws made to maintain concentration until the end of your next turn.
+Blood Curse of the Soul Eater
+
+Prerequisite: 18th level, Order of the Profane Soul
+When a creature that isn’t a construct or undead is reduced to 0 hit points within 30 feet of you, you can use your reaction to offer their life energy to your patron in exchange for power. Until the end of your next turn, you make attacks with advantage and you have resistance to all damage.
+
+Amplify. Additionally, you regain an expended warlock spell slot. Once you’ve amplified this blood curse, you must finish a long rest before you can amplify it again.

@@ -1,4 +1,4 @@
-##  (2023-12-07)
+##  (2023-12-28)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -84,5 +84,18 @@
 *  Fixed subclass folder structure, edit index.md *(Alexander Franke)*
 *  Added Artificer subclasses *(Frankasaurus)*
 *  Added part of Barbarian subclass *(Frankasaurus)*
+*  Updated publish status of some races. Added character choices for Christmas oneshot *(Frankasaurus)*
+*  Prepped Kerst Oneshot *(Frankasaurus)*
+*  Finished prepping session *(Frankasaurus)*
+*  Finishing touches Kerst OneShot *(Frankasaurus)*
+*  Added all magical items for Oneshot *(Frankasaurus)*
+*  Update StracciaD&D Kerstspecial.md *(Frankasaurus)*
+*  Added Barbarian, Bard, and Cleric subrclasses *(Frankasaurus)*
+*  Did some preparations of Session 34 *(Frankasaurus)*
+*  Added Druid Subclasses, some fighter subclasses, fixed breakline spacing on classes *(Frankasaurus)*
+*  Created empty pages for all official subclasses *(Frankasaurus)*
+*  Added pictures for all subclasses *(Frankasaurus)*
+*  Completed Paladin Subclasses *(Frankasaurus)*
+*  Finished Ranger subclasses *(Frankasaurus)*
 
 

@@ -12,9 +12,9 @@ The **Armorer** specialist is an [[Artificer]] subclass.
 
 *Sources: [[Tasha's Cauldron of Everything]]*
 ***
-## Tools of the Trade
+# Tools of the Trade
 When you adopt this specialization at 3rd level, you gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
-## Armorer Spells
+# Armorer Spells
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
 
 | Artificer Level | Armorer Spells                            |
@@ -24,7 +24,7 @@ Starting at 3rd level, you always have certain spells prepared after you reach p
 | 9th             | [[Hypnotic Pattern]], [[Lightning Bolt]]  |
 | 13th            | [[Fire Shield]], [[Greater Invisibility]] |
 | 17th            | [[Passwall]], [[Wall of Force]]           |
-## Arcane Armor
+# Arcane Armor
 Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your magic. As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith's tools in hand.
 
 You gain the following benefits while wearing this armor:
@@ -34,7 +34,7 @@ You gain the following benefits while wearing this armor:
 - You can doff or don the armor as an action.
 
 The armor continues to be Arcane Armor until you don another suit of armor or you die.
-## Armor Model
+# Armor Model
 Beginning at 3rd level, you can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator. The model you choose gives you special benefits while you wear it.
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, to the attack and damage rolls. You can change the armor's model whenever you finish a short or long rest, provided you have smith's tools in hand.
@@ -47,11 +47,11 @@ Each model includes a special weapon. When you attack with that weapon, you can 
 - **Lightning Launcher.** A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.
 - **Powered Steps.** Your walking speed increases by 5 feet.
 - **Dampening Field.** You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.
-## Extra Attack
+# Extra Attack
 Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
-## Armor Modifications
+# Armor Modifications
 At 9th level, you learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.
-## Perfected Armor
+# Perfected Armor
 At 15th level, your Arcane Armor gains additional benefits based on its model, as shown below.
 
 **Guardian.** When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to magically force it to make a Strength saving throw against your spell save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space. If you pull the target to a space within 5 feet of you, you can make a melee weapon attack against it as part of this reaction.

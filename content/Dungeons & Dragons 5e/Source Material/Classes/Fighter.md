@@ -69,17 +69,14 @@ You adopt a particular style of fighting as your specialty. Choose one of the fo
 - **Two-Weapon Fighting (PHB).** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 - **Unarmed Fighting (TCE).** Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier on a hit. If you aren't wielding any weapons or a shield when you make the attack roll, the d6 becomes a d8.
     - At the start of each of your turns, you can deal 1d4 bludgeoning damage to one creature grappled by you.
-
 ## Second Wind
 You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
-
 ## Action Surge
 Starting at 2nd level, you can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
-
 ## Martial Archetype
 At 3rd level, you choose an archetype that you strive to emulate in your combat styles and techniques. The archetype you choose grants you features at 3rd level and again at 7th, 10th, 15th, and 18th level.
 
@@ -97,20 +94,16 @@ At 3rd level, you choose an archetype that you strive to emulate in your combat 
 | [[Samurai]]         | [[Xanathar's Guide to Everything]]     |
 | [[Gunslinger]]\*    | [[Matt Mercer & Critical Role]]    |
 *\* = Homebrew*
-
 ## Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
 ## Martial Versatility (Optional)
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 - Replace a fighting style you know with another fighting style available to fighters.
 - If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
-
 ## Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
-
 ## Indomitable
 Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest.
 

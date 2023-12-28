@@ -54,7 +54,6 @@ Alternatively, you may start with 5d4x10 starting gold.
 ***
 ## Druidic
 You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
-
 ## Spellcasting
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 ### Cantrips
@@ -76,18 +75,16 @@ Wisdom is your spellcasting ability for your druid spells, since your magic draw
 You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 ### Spellcasting Focus
 You can use a druidic focus as a spellcasting focus for your druid spells.
-
 ## Wild Shape
 Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
 
 Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
-
-| Beast Shapes |         |                             |             |
-| ------------ | ------- | --------------------------- | ----------- |
-| Level        | Max. CR | Limitations                 | Example     |
-| 2nd          | 1/4     | No flying or swimming speed | Wolf        |
-| 4th          | 1/2     | No flying speed             | Crocodile   |
-| 8th          | 1       |                             | Giant eagle |
+## Beast Shapes
+| Level | Max. CR | Limitations | Example |
+| ---- | ---- | ---- | ---- |
+| 2nd | 1/4 | No flying or swimming speed | Wolf |
+| 4th | 1/2 | No flying speed | Crocodile |
+| 8th | 1 |  | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -97,7 +94,6 @@ While you are transformed, the following rules apply:
 - You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [[Call Lightning]], that you've already cast.
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
-
 ## Druid Circle
 At 2nd level, you choose to identify with a circle of druids. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
@@ -110,24 +106,18 @@ At 2nd level, you choose to identify with a circle of druids. Your choice grants
 | [[Spores]]   | [[Tasha's Cauldron of Everything]] |
 | [[Stars]]    | [[Tasha's Cauldron of Everything]] |
 | [[Wildfire]] | [[Tasha's Cauldron of Everything]] |
-
 ## Wild Companion (Optional)
 At 2nd level, you gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [[Find Familiar]] spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
-
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
 ## Cantrip Versatility (Optional)
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace one cantrip you learned from this class's Spellcasting feature with another cantrip from the druid spell list.
-
 ## Timeless Body
 Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10 years that pass, your body ages only 1 year.
-
 ## Beast Spells
 Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you aren't able to provide material components.
-
 ## Archdruid
 At 20th level, you can use your Wild Shape an unlimited number of times.
 

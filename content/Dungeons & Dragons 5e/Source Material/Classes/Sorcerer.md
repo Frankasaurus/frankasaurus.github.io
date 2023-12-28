@@ -80,22 +80,20 @@ You can use an arcane focus as a spellcasting focus for your sorcerer spells.
 ## Sorcerous Origin
 Choose a sorcerous origin, which describes the source of your innate magical power. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-| Origin                 | Source                                      |
-| ---------------------- | ------------------------------------------- |
-| [[Aberrant Mind]]      | [[Tasha's Cauldron of Everything]]          |
-| [[Clockwork Soul]]     | [[Tasha's Cauldron of Everything]]          |
-| [[Draconic Bloodline]] | [[Player's Handbook]]                       |
-| [[Divine Soul]]        | [[Xanathar's Guide to Everything]]          |
-| [[Lunar Sorcery]]      | [[Dragonlance Shadow of the Dragon Queen]] |
-| [[Shadow Magic]]       | [[Xanathar's Guide to Everything]]          |
-| [[Storm Sorcery]]      | [[Xanathar's Guide to Everything]]          |
-| [[Dungeons & Dragons 5e/Source Material/Classes & Subclasses/Sorcerer/Wild Magic|Wild Magic]]         | [[Player's Handbook]]                       |
-| [[Runechild]]          | [[Tal'Dorei Campaign Guide]]                    |
+| Origin | Source |
+| ---- | ---- |
+| [[Aberrant Mind]] | [[Tasha's Cauldron of Everything]] |
+| [[Clockwork Soul]] | [[Tasha's Cauldron of Everything]] |
+| [[Draconic Bloodline]] | [[Player's Handbook]] |
+| [[Divine Soul]] | [[Xanathar's Guide to Everything]] |
+| [[Lunar Sorcery]] | [[Dragonlance Shadow of the Dragon Queen]] |
+| [[Shadow Magic]] | [[Xanathar's Guide to Everything]] |
+| [[Storm Sorcery]] | [[Xanathar's Guide to Everything]] |
+| [[Dungeons & Dragons 5e/Source Material/Subclasses/Sorcerer/Wild Magic\|Wild Magic]] | [[Player's Handbook]] |
+| [[Runechild]] | [[Tal'Dorei Campaign Guide]] |
 *\* = Homebrew*
-
 ## Font of Magic
 At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
-
 - **Sorcery Points.** You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest.
 - **Flexible Casting.** You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.
     - **_Creating Spell Slots._** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th. Any spell slot you create with this feature vanishes when you finish a long rest.
@@ -109,7 +107,6 @@ At 2nd level, you tap into a deep wellspring of magic within yourself. This well
 |3rd|5|
 |4th|6|
 |5th|7|
-
 ## Metamagic
 At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.
 
@@ -127,17 +124,13 @@ You can use only one Metamagic option on a spell when you cast it, unless otherw
 - **Subtle Spell.** When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
 - **Transmuted Spell.** When you cast a spell that deals a type of damage from the following list, you can spend 1 sorcery point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
 - **Twinned Spell.** When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[Magic Missile]] and [[Scorching Ray]] aren't eligible, but [[Ray of Frost]] and [[Chromatic Orb]] are.
-
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
 ## Sorcerous Versatility (Optional)
 When you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, representing the magic within you flowing in new ways:
 - Replace one of the options you chose for the Metamagic feature with a different Metamagic option available to you.
 - Replace one cantrip you learned from this class' spellcasting feature with another cantrip from the sorcerer spell list.
-
 ## Magical Guidance (Optional)
 When you reach 5th level, you can tap into your inner wellspring of magic to try and conjure success from failure. When you make an ability check that fails, you can spend 1 sorcery point to reroll the d20, and you must use the new roll, potentially turning the failure into a success.
-
 ## Sorcerous Restoration
 At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.

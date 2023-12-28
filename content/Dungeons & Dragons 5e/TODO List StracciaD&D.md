@@ -38,6 +38,18 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 - [ ] Source Material
 	- [x] Add folder system
 		- [x] Revise To-do after this
+	- [ ] Spells
+		- [ ] Devise easy template, including source and what classes can use it
+		- [ ] Cantrips
+		- [ ] Level 1
+		- [ ] 2
+		- [ ] 3
+		- [ ] 4
+		- [ ] 5
+		- [ ] 6
+		- [ ] 7
+		- [ ] 8
+		- [ ] 9
 	- [ ] Races
 		- [x] Fill in races from top to bottom
 			- [ ] Double-check sources
@@ -52,15 +64,15 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] Re-do the sorting of the races in [[Races Overview|Races Overview]]
 	- [ ] Classes
 		- [x] Create template
-		- [ ] Subclasses
+		- [x] Subclasses
 			- [x] Current PC's
-			- [ ] PHB
-			- [ ] Tasha's
-			- [ ] Rest
+			- [x] PHB
+			- [x] Tasha's
+			- [x] Rest
 		- [x] Add images
 		- [ ] Check subclass source lists on main class page
 	- [x] Lineages
-	- [ ] Source material collection list
+	- [ ] (Source) material collection list
 - [ ] Characters
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
