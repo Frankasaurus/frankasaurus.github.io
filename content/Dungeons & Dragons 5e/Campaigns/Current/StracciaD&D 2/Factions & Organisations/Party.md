@@ -24,7 +24,7 @@ publish: true
 - [[Roderick]], a cursed Half-Elf Warlock
 - [[Vimak Vaimei-Laga]], a traveling Goliath Paladin to [[Hevenar]]
 ## Previous members
-- [[Bulblin]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
+- [[Bulblin Wormbone]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
 - [[Kénos]], a Warforged holy Psi-Fighter
 # Journey
 ## Chapter 1

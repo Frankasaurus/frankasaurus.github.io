@@ -66,7 +66,7 @@ publish: true
 > | **Dex** | 17 | **Wis** | 14 |
 > | **Con** | 12 | **Cha** | 12 |
  
-Bulblin Wormbone is a [[Goblin]] Beastmaster [[Ranger]]. He was played by [[Chris]].
+**Bulblin Wormbone** is a [[Goblin]] Beastmaster [[Ranger]]. He was played by [[Chris]].
 # Description
 ## Appearance
 Bulblin is a Goblin of regular appearance, though much more primal in nature as opposed to his established urban counterparts. Being more in line with nature, his attire reflects this, with skins making up to majority of his outfit.

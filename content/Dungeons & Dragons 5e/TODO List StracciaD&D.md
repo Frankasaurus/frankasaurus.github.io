@@ -39,7 +39,8 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Add folder system
 		- [x] Revise To-do after this
 	- [ ] Spells
-		- [ ] Devise easy template, including source and what classes can use it
+		- [ ] Devise easy template, including source and what classes can use it [[Spell D&D 5e]]
+		- [ ] Add spellbook page (summary of all spells)
 		- [ ] Cantrips
 		- [ ] Level 1
 		- [ ] 2
@@ -73,13 +74,19 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] Check subclass source lists on main class page
 	- [x] Lineages
 	- [ ] (Source) material collection list
-- [ ] Characters
+- [ ] Campaign 2
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
 	- [ ] Add (more) images
-	- [ ] Write the entire story so-far
-		- [ ] **Let players do this?**
-	- [ ] Update Party faction
+	- [ ] Add NPC's from Act 1
+	- [ ] Add NPC's from Act 2
+	- [ ] Add NPC's from Act 3
+	- [ ] Write the entire story so-far per session [[Session Overview]]
+		- [x] Act 1
+		- [ ] Act 2
+		- [ ] Act 3
+	- [ ] Update [[Party]] faction
+	- [ ] Update Player pages.
 - [ ] Site
 	- [x] Styling Wiki column
 	- [x] Phone view (remove infobox sideline mode at X width)
@@ -90,7 +97,10 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add published / unpublished counter below explorer
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 	- [x] Add table scroling to large tables (like Cleric Table)
-		- [ ] Fix issue with smaller tables
+		- [ ] Fix issue with smaller tables & Wiki tables on phone
+	- [ ] Edit metadata
+	- [ ] Custom 404 page
+	- [ ] Find fix for Dataview to site
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system
