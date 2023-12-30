@@ -7,6 +7,11 @@ publish: true
 Feel free to worldbuild with me! If you have a good idea of how a certain description should be worded, or have a cool image for a location, please send it over my way.
 # To-Do list
 - [ ] Califhen;
+	- [ ] BEFORE FILLING THE NOTES:
+		- [ ] Create minor NPC template!
+		- [ ] Create minor Location template!
+		- [ ] Create PoI template (for dungeon?) + minor variant!
+		- [ ] Create minor Character template! (one shots)!
 	- [ ] Existing settlements
 		- [ ] Meqen
 		- [ ] Telack
@@ -35,6 +40,9 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 		- [ ] All the others
 		- [ ] Add descriptions to some
 		- [ ] Add images
+	- [ ] Revise Calendar system & notes.
+	- [ ] Revise origin story: [[The Origin of Califhen]].
+	- [ ] Revise Planes notes: [[A Modern Guide to Planes]]
 - [ ] Source Material
 	- [x] Add folder system
 		- [x] Revise To-do after this
@@ -72,6 +80,12 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 			- [x] Rest
 		- [x] Add images
 		- [ ] Check subclass source lists on main class page
+	- [ ] Backgrounds
+		- [ ] Player's handbook
+		- [ ] Other sources
+		- [ ] Custom Background guide
+	- [ ] Standard 5th Edition Character creation guide
+		- [ ] Additional info for my specific campaigns & setting
 	- [x] Lineages
 	- [ ] (Source) material collection list
 - [ ] Campaign 2
@@ -98,9 +112,46 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 	- [x] Add table scroling to large tables (like Cleric Table)
 		- [ ] Fix issue with smaller tables & Wiki tables on phone
+		- [ ] Fix Table styling
 	- [ ] Edit metadata
 	- [ ] Custom 404 page
 	- [ ] Find fix for Dataview to site
+		- [ ] Something to 'bake' the dataview data when converting content to pages. 
 - [ ] DM Specific organisation
 	- [ ] Mini collection overview
 	- [ ] Game Tiles system
+
+> [!warning]
+> **All content below this point will not parse properly on the site, and is purely for editing purposes.**
+> 
+> These are [Dataview](https://github.com/blacksmithgu/obsidian-dataview) components which do live database reading within my writing program so I can focus on what I need to work on next :)
+# Orphan pages
+```dataview
+list
+from ""
+where length(file.inlinks) =0 and length(file.outlinks) = 0
+sort file.name ASC
+```
+# TODO Tags
+```dataview
+list
+from #TODO 
+sort file.name ASC
+```
+# Update Tags
+```dataview
+list
+from #update 
+sort file.name ASC
+```
+# Top 50 smallest files by size (ascending):
+```dataview
+table
+	round((file.size / 1024), 2) as "File size (Mb's)",
+	length(file.inlinks) as "Inlinks amount", 
+	length(file.outlinks) as "Outlinks amount",
+	file.tags as "Tags"
+from ""
+SORT file.size ASC
+LIMIT 50
+```

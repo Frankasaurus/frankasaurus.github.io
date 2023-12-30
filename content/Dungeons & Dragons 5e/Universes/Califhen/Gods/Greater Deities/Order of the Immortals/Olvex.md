@@ -33,7 +33,7 @@ Not childbirth specifically, but the building of a family is what Olvex desires 
 Material Artistry and invention - creating something from nothing - is often associated with Olvex, as well as [[Saaber]]. Some of the best artists are known to have worshipped Olvex, with their masterpiece often a combination of all known forms of Creation as a form of worship. It is important to stress that more is not strictly better.
 ## Known worshippers
 - [[Carmine Char]]
-- [[Recurship of Olvex]]
+- [[Hall of Anew]]
 	- Mentore [[Garrien Tinkerson]]
 	- Mentore [[Ingrid Solt]]
 	- Dhr. [[Kelren Throst]]

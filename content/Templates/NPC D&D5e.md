@@ -1,5 +1,6 @@
 ---
-publish:
+publish: 
+tags:
 ---
 > [!infobox]  
 > # (NAME) 

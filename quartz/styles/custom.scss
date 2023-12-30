@@ -3,9 +3,21 @@
 // Snippet: S- Callouts
 /*Infobox*/
 .callout[data-callout~=note] {
-  background: var(--note, var(--background-primary));
-  border: 0;
-  border-radius: var(--radius-s);
+  background: var(--note, var(--callout-black));
+  border-radius: 15px;
+  border: 1px solid var(--lightgray);
+
+  > * {
+    margin-bottom: 0;
+  }
+
+  > h1, h6 {
+    margin-top: 10px;
+  }
+
+  > .callout-title {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 756px) {
@@ -27,14 +39,14 @@
 .callout table {
   margin: 0;
   width: 100%;
+  padding: 0 0 10px 0;
+
+  // Undoes the display: block conversion for scrollbars in the callouts
+  display: table;
 }
 
 .callout table td {
   padding: 0 0 0 5px;
-}
-
-.callout[data-callout~=note] > .callout-title {
-  display: none;
 }
 
 .hr {

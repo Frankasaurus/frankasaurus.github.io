@@ -1,3 +1,7 @@
+---
+tags: TODO
+---
+> TODO: Revise this into proper notes on [[Califhen]].
 ## Summary
 
 The planes are made as bizarre continents, completely detached from the rest of the world. All are completely unique, and exist as a home to Greater Deities, and served as individual colors for the eventual painting the Material Plane was to become.  The following is a quick summary to all planes, and to which Greater Deity/Deities they typically belong. This doesn’t mean a deity is restricted to this plane, but it gives a good idea of where a deity might find his or her home or sanctuary.

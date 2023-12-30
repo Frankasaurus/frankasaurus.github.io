@@ -36,4 +36,4 @@ Besides her Bronze Dragon appearance, she most often takes the human form of an 
 Description of personality.
 # Character information
 ## Notable items
-- [[Dragon Sla]]
+- [[Dragon Slayer Longsword]]

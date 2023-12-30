@@ -1,5 +1,9 @@
+---
+publish: 
+tags:
+---
 > [!infobox]  
-> # `=this.file.name`
+> # (LOCATION NAME)
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  

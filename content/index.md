@@ -7,13 +7,13 @@ publish: true
 
 ***
 # StracciaD&D Campaign
-**For info in the current StracciaD&D Campaign, go to [[Campaign Overview]].**
+## **For info in the current StracciaD&D Campaign, go to [[Campaign Overview]].**
 
-**For a summary per session, go to [[Session Overview]].**
+## **For a summary per session, go to [[Session Overview]].**
 ***
 # Source Material
-**Find all races official D&D 5e races on the [[Races Overview]].**
-**Find all races official D&D 5e classes and subclasses on the [[Classes Overview]].**
+## **Find all races official D&D 5e races on the [[Races Overview]].**
+## **Find all races official D&D 5e classes and subclasses on the [[Classes Overview]].**
 ***
 # Recently Updated
 The following pages have recently been updated, created, or made public:
@@ -21,7 +21,7 @@ The following pages have recently been updated, created, or made public:
 - [[Campaign Overview]]
 - [[Session Overview]]
 # Worldbuild with me!
-Wherever you see the following, feel free to give your own input, especially if it's an NPC or area you yourself feel like creating!
+Wherever you see the following TODO message, or find a page that doesn't exist but should, feel free to give your own input, especially if it's an NPC or area you yourself feel like creating!
 > TODO: Something to do
 
 > [!info]

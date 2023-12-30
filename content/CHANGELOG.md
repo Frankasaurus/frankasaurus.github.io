@@ -1,4 +1,4 @@
-##  (2023-12-28)
+##  (2023-12-30)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -97,5 +97,14 @@
 *  Added pictures for all subclasses *(Frankasaurus)*
 *  Completed Paladin Subclasses *(Frankasaurus)*
 *  Finished Ranger subclasses *(Frankasaurus)*
+*  Finished Rogue, Sorcerer, and Warlock subclasses *(Frankasaurus)*
+*  Finished All subclasses including formatting *(Frankasaurus)*
+*  Finished Blood Hunter & Gunslinger subclasses *(Frankasaurus)*
+*  Added summaries to Act 1, relocated some campaign info, prepped future development *(Frankasaurus)*
+*  Minor fixes & tweaks *(Frankasaurus)*
+*  Removed old game dev notes, cleaned Cyberpunk notes, added todo's to notes *(Frankasaurus)*
+*  Added nice list of to-do's *(Frankasaurus)*
+*  Created blank pages for all dead / dangling links *(Frankasaurus)*
+*  Added lists for quick insights into what needs editing next *(Frankasaurus)*
 
 

@@ -189,7 +189,7 @@ Het tournament bestaat uit 3 rondes;
 2. De hele groep tegen een mysterieuze uitdager (Charles) en zijn support (Paleisgarde + beest)
 	1. Reden voor gevecht is om de 'paleisgarde te trainen'.
 	2. Charles heeft dit opgezet om Elisabeth prive te vragen of ze wilt helpen Xavion te vermoorden - hij is niet meer wie hij was.
-	3. Charles weet dat er iets niet klopt, maar speelt mee... voor nu ([[Kruzii'khraan]] weet al lang al dat hij doet alsof).
+	3. Charles weet dat er iets niet klopt, maar speelt mee... voor nu ([[Kruziik'ahraan]] weet al lang al dat hij doet alsof).
 3. De hele groep tegen een gevangen gehouden Dragonine + support
 
 # 6. Cirdorim Burcht

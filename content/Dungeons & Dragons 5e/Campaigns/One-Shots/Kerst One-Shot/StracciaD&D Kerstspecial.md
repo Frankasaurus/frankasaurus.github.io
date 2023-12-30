@@ -9,13 +9,12 @@ Voor je karakters;
 - Je gebruikt je starting equipment; je hebt geen goud nodig.
 - Klop bij mij aan voor hulp as always.
 # Characters
-- [[Chris]] speelt (NAAM), een [[Tabaxi]] [[Assassin]] [[Rogue]] ([[Sailor]] background).
 - [[Kacper]] speelt [[Seraphim]], een [[Aasimar#Protector|Protector Aasimar]] [[Lycan]] [[Blood Hunter]] ([[Soldier]] background).
 - [[Hanne]] speelt [[Uruzur Malag]], een [[Half-Orc]] [[Vengeance]] [[Paladin]] ([[Acolyte]] background).
 - [[Melle]] speelt [[Subel]], een [[Elf#High Elf|High Elven]] [[Bladesinging]] [[Wizard]] / [[Artificer]] multiclass ([[Gladiator]] background). | Erg minmaxed, let op.
 - [[Kim]] speelt [[Graniar]], een [[Gith#Githzerai|Githzerai]] [[Devotion]] [[Paladin]] ([[Haunted One]] background).
 - [[Roy]] speelt [[Edwyrd Adkalyn]], een [[Elf#High Elf|High Elf]] [[Assassin]] [[Rogue]] ([[Criminal]] background).
-- [[Lise]] speelt niet meer mee.
+- [[Lise]] en [[Chris]] hebben afgezegd.
 # Samenvatting
 **Wat:** In de Ilan Lands zijn is een ijstempel van [[Udenor]] - de **god van Vermogen & Hebberigheid** - recentelijk door Gnomes overgenomen tot summoning circle voor de valse god **Satna, Vader Kringle, vernietiger van Schoorstenen & KadoHeerser, verorberer van Krokant Deeg, Bastaard van de Sterren-kluizenaar**. Samen met Satna's spawn **Dolf** - een Rendier - zijn de Gnomes bezig met hem terug tot leven wekken om de koude maanden te verwarmen met zijn vuur.
 **Wanneer:** Winter, Kerst, alles is focking koud. **Star's Recluse!** (Sterrenkluizenaar - kortste dag van het jaar, permanent donker met Noorderlichten)

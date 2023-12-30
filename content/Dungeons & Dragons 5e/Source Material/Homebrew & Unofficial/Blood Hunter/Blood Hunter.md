@@ -1,10 +1,6 @@
 ---
 publish: true
 ---
-> [!infobox]
-> # Blood Hunter
-> ![[BloodHunter.png|cover hsmall]]
-
 > [!quote]
 > **_Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt._**
 
@@ -37,6 +33,9 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 | 19th  | +6                | 1d10          | 5                  | Ability Score Improvement                     |
 | 20th  | +6                | 1d10          | 5                  | Sanguine Mastery                              |
 ***
+> [!infobox]
+> # Blood Hunter
+> ![[BloodHunter.png|cover hsmall]]
 # Class Features
 As a blood hunter, you gain the following class features.
 ### Hit Points

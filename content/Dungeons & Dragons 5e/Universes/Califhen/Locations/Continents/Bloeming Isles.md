@@ -59,7 +59,7 @@ This northern region has overall rejected Cape Rosa's traditional government for
 - Amala Laguna: One of the seabottom civilizations of the Waterfolk, serving as a neutral grounds within the waters of Bloeming. Extremely developed, housing many universities.
 ## Points of Interest
 - [[Towers of Stendor]]: An abandoned holy tower to [[Olvex]], which mysteriously teleported itself from [[Orphelica]] to the middle of the Inner Marvers.
-- [[Cgorvelon]]: An extinct cult-village of Baghtru on the isle of Tezeder, East of [[Meqen]]. Houses [[Baghtru's Gloves]], the 3rd [[Relic of Terror]].
+- [[Tezeder#Cgorvelon|Cgorvelon]]: An extinct cult-village of Baghtru on the isle of [[Tezeder]], East of [[Meqen]]. Houses [[Baghtru's Gloves]], the 3rd [[Relics of Terror]].
 # History
 >[!quote]
 >*“You would think the founder of a nation would not be frightened by its populace, but the lack of respect, understanding, training, and cooperation will ultimately lead to the destruction of its own people. Its only hope for survival is radical change of heart, a change of populace.”*  

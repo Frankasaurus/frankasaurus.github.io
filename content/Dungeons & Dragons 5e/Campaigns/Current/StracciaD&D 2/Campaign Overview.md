@@ -29,8 +29,11 @@ For more details, please check out the main [[Party]] page.
 | 14 Jan '24 @ 20:00 | Couch session |
 | 11 Feb '24 @ 12:00 | Session 035 |
 | 10 Mar '24 @ 12:00 | Session 036 |
+| ??? | Final battle Satna OneShot |
 ***
-# Summary by Act
+# Summary
+**For a summary per session, see [[Session Overview]].**
+
 | Act | Summary |
 | ---- | ---- |
 | Act 1: Keylin Kidnapped |  |

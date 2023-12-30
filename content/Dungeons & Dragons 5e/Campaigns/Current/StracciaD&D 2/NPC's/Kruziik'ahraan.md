@@ -43,7 +43,7 @@ publish:
 > | **Connections** | - [[Xavion de Dragoness]] (patron) |
 > | **Status** | Alive |
 
-**Kruziik'ahraan "The Scar"** ('Rana' in short) is an Adult Blue Dragon, terrorizing the [[Geros]] region of [[Greyskil]]. As an NPC, he is played by [[Alex]].
+**Kruziik'ahraan "The Scar"** ('Rana' in short) is an Adult Blue Dragon, terrorizing the Geros region of [[Greyskil]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.

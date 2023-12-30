@@ -51,7 +51,7 @@ publish: true
 > | **Creature Type** | Humanoid |
 > | **Race** | Goblin |  
 > | **Class** | [[Ranger]], [[Beast Master]] conclave |  
-> | **Born** | [[Jaxos Isles]], ?? years ago |  
+> | **Born** | [[Bloeming Isles#The Bloeming Heart|Jaxos Isles]], ?? years ago |  
 > | **Languages** | Common, Goblin, Elvish, Infernal |  
 > | **Family** | - [[Wormbone family]] (member) |
 > | **Connections** | - [[Party]] (ex-member)<br>- [[Bonehead]] (partner) |
@@ -74,7 +74,7 @@ Bulblin is a Goblin of regular appearance, though much more primal in nature as 
 *Description of personality.*
 # Biography
 ## Before the campaign
-Far in the eastern regions of the [[Bloeming Isles]] resides a people that few individuals dare to venture towards. Deep within the dark forests, these monstrous creations have hidden themselves. Each one has their own role, based on their family. Deviation from this was unheard of, and thus, family name clearly indicated the job and/or task one carried out. [[Goblins]]. Yellowish green, small but strong, and fierce beings with a mind of their own. Bulblin is a goblin from the [[Wormbone family]]. For centuries, weapons and armor had been forged and supplied by this family. In a small dugout hollow beneath a large ancient tree, the glow of the smelting furnace could still be seen at night, where Bulblin diligently worked to forge the high demand. Bulblin is a hard worker, leading a tough but, compared to others, good life. Many goblins have their own stories and roles in this manner. This tradition had continued for centuries.
+Far in the eastern regions of the [[Bloeming Isles]] resides a people that few individuals dare to venture towards. Deep within the dark forests, these monstrous creations have hidden themselves. Each one has their own role, based on their family. Deviation from this was unheard of, and thus, family name clearly indicated the job and/or task one carried out. [[Goblin|Goblins]]. Yellowish green, small but strong, and fierce beings with a mind of their own. Bulblin is a goblin from the [[Wormbone family]]. For centuries, weapons and armor had been forged and supplied by this family. In a small dugout hollow beneath a large ancient tree, the glow of the smelting furnace could still be seen at night, where Bulblin diligently worked to forge the high demand. Bulblin is a hard worker, leading a tough but, compared to others, good life. Many goblins have their own stories and roles in this manner. This tradition had continued for centuries.
 
 Despite centuries of not being attacked, goblins are always prepared. Bulblin was in his goblin hole, hard at work as always in the middle of the night, when a loud crash struck the entrance of his den. Mud, branches, and bits of bark torn from trees blasted into Bulblin's hollow. The emergency horn, ready for centuries to be used in case of an attack, was blown. It was serious. Bulblin picked himself up, still recovering from the impact. He quickly rushed to the back to grab his shortsword and shortbow with accompanying arrows. Self-forged, he looked proudly at his shortsword. The only one of its kind, resembling a scimitar but forged with utmost precision only a goblin could achieve. With a shield on his back and a chained shirt on, Bulblin sprinted outside. Everything was in shambles, and the bright light from the burning trees limited visibility to a mere 5 to 10 meters. Attackers still unknown.
 

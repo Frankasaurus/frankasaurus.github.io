@@ -10,7 +10,7 @@ publish: true
 > |---|---|  
 > | **Type** | Noble house | 
 > | **Name** | House Dragoness |
-> | **Location** | [[Geros]] region, [[Greyskil]] |
+> | **Location** | [[Greyskil#Geros|Geros region, Greyskil]] |
 > | **Connections** | - [[Gabong]] (Trading partners) |
 
 **House Dragoness** are a family based in [[Dragoness Barony]] on the East coast of [[Greyskil]]. The family only rose to great prominence in a very short timespan due to the hugely inflated wealth of its elders, [[Xavion de Dragoness]] and [[Willemijn de Dragoness]]. 

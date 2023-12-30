@@ -52,7 +52,7 @@ publish: true
 > | **Creature Type** | Humanoid |
 > | **Race** | Goliath |  
 > | **Class** | [[Paladin]], Oath of [[Devotion]] |  
-> | **Born** | [[Devostina Alps]], 30 years ago|  
+> | **Born** | [[Nizakun|Devostina Alps, Nizakun]], 30 years ago|  
 > | **Languages** | Common, Giant, Elvish |  
 > | **Family** | - [[Kuori "Bearkiller"]] (father)<br>- [[Lo-Kag "Wordpainter"]] (mother)<br>- [[Aukan "Keepeye"]] (brother, deceased) |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Captain)<br>- [[Gathakeaku Clan]] (ex-member, banished)<br>- [[Hevenar]] (Oath patron) |
@@ -78,7 +78,7 @@ When at sea, or when acting as Captain of [[The Bonehead]], Vimak wears a large 
 Vimak is a loud and outspoken personality, often teaming up with [[Roderick]] when interrogating or questioning someone or something. He's not afraid to get his hands dirty, and involves himself with as much of the party's hard work as he can.
 # Biography
 ## Before the campaign
-Vimak "Lonehunter" Vaimei-Laga is a goliath from the [[Devostina Alps]]. He is the firstborn son of his father [[Kuori "Bearkiller"]] Vaimei-Laga and his mother [[Lo-Kag "Wordpainter"]] Vaimei-Laga. Both his mother and father were known as skilled warriors and respected members of their clan, the [[Gathakeaku Clan]].
+Vimak "Lonehunter" Vaimei-Laga is a goliath from the Devostina Alps in Southern [[Nizakun]]. He is the firstborn son of his father [[Kuori "Bearkiller"]] Vaimei-Laga and his mother [[Lo-Kag "Wordpainter"]] Vaimei-Laga. Both his mother and father were known as skilled warriors and respected members of their clan, the [[Gathakeaku Clan]].
 
 When Vimak was 3 years old, he got a brother named [[Aukan "Keepeye"]] Vaimei-Laga. Aukan and Vimak grew up together and seemed to have a strong bond, but over the years, this bond soured as the brothers didn't want to be outdone by each other. Who was the better hunter? Who was the superior warrior? And so on. All of this was to gain the respect of their parents, and both had aspirations of becoming the leader of their clan. As they grew older, it became clearer that Aukan "seemed to be the better of the two," and Vimak gradually became more jealous of his brother's talent.
 
@@ -97,7 +97,7 @@ In his exile, Vimak saught to travel the world, and restore his own pride and le
 ## Quests
 Vimak is trying to find his place in the world, partially achieved by traveling around to see what is out there beyond the Alps he grew up in. More importantly, is to find inner peace and redemption for what happened with Aukan, which is the main reason why he became a [[Paladin]].
 
-His tribe - the [[Gathakeaku Clan]] - is also in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants. This puts the clan at risk, which has put forth the need for their finest warriors. With [[Aukan]] gone, Vimak is called in for help, which he has accepted.
+His tribe - the [[Gathakeaku Clan]] - is also in need of help. In his absence, Giant Kin have awoken from their centuries long slumber, to once again clean the land of the smaller and weaker race, in order to manifest more giants. This puts the clan at risk, which has put forth the need for their finest warriors. With [[Aukan "Keepeye"]] gone, Vimak is called in for help, which he has accepted.
 ## Features & Traits
 >TODO: Here is mechanical information about the character and their skills
 ## Notable items
@@ -110,4 +110,4 @@ WHERE owner = this.name_first
 ```
 # Trivia
 - He spent nearly a year's wage on a very fancy captain's hat.
-- Vimak has shown romantic interest in Arcanist [[Aileen des Venohsi]], a crew member of the supreme vessel "[[The Giant of Jaxos]]", even spending the night with her.
+- Vimak has shown romantic interest in Arcanist Aileen des Venohsi, a crew member of the supreme vessel "[[The Giant of Jaxos]]", even spending the night with her.

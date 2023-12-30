@@ -53,7 +53,7 @@ publish: true
 > | **Born** | [[Dragoness Barony]] , 28 years ago |
 > | **Languages** | Common, Primordial |  
 > | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Ostrzał Charr]] (mother) |
-> | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- [[Olvex]] (worshipper)<br>- [[Hall of Anew]] (associate, ex-member) |
+> | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- [[Olvex]] (worshipper)<br>- Hall of Anew (associate, ex-member) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
 > ###### Stats
@@ -78,7 +78,7 @@ Despite this, he's also known to enjoy the simpler things in life. Carmine laugh
 ## Before the campaign
 Carmine grew up without ever knowing his parents. His first memories are of growing up in the [[Hall of Anew]], a temple dedicated to [[Olvex]], located at [[Cape Rosa]]. Carmine's youth mainly consisted of studying old scrolls in the library of the settlement. Despite Carmine looking quite different from the average Olvex follower, he was not treated differently. He grew up with two other children of roughly the same age, namely [[Silver Prist]], a human girl, and [[Duder Clont]], a halfling boy. At an early age of 11, after a quarrel with his friends, Carmine angrily ran away. He had had arguments with his friends before, but this time it felt different for Carmine. He didn't necessarily feel anger, but more of an outburst. At that moment, Carmine noticed that his hands were emitting heat. Initially, Carmine was startled by this, but soon he saw it as a sign of recognition from [[Olvex]]. Over the years, Carmine received several such gifts from this new patron.
 
-Until he turned 25, Carmine was a proper follower of this [[Olvex]], the God of Creation. Around his 25th year, however, Carmine began to doubt whether his current life aligned with his vision. Carmine wanted to honor Olvex by spreading his word and making a new beginning for himself. However, it was a dilemma that took Carmine a long time to decide upon. It wasn't until well after his 27th year that Carmine was sure – he wanted to leave this life behind and celebrate Olvex in the open air outside [[Cape Rosa]]. In the middle of the night, Carmine packed his only belongings, such as the amulet and emblem of Olvex, and set off south of [[Jaxos Isles]].
+Until he turned 25, Carmine was a proper follower of this [[Olvex]], the God of Creation. Around his 25th year, however, Carmine began to doubt whether his current life aligned with his vision. Carmine wanted to honor Olvex by spreading his word and making a new beginning for himself. However, it was a dilemma that took Carmine a long time to decide upon. It wasn't until well after his 27th year that Carmine was sure – he wanted to leave this life behind and celebrate Olvex in the open air outside [[Cape Rosa]]. In the middle of the night, Carmine packed his only belongings, such as the amulet and emblem of Olvex, and set off south of [[Bloeming Isles#The Bloeming Heart|Jaxos Isles]].
 
 Between his 27th and 28th years, Carmine traveled southward, took on a number of adventurous tasks to earn some gold, and also spread the word of Olvex. Something was always missing for Carmine; he felt alone during his journey. On his 28th year, Carmine arrived in [[Telack]]. With few gold coins in his pocket, Carmine is searching for a job to earn some extra money.
 ## Adventures

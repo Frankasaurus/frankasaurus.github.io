@@ -1,7 +1,8 @@
 
+
 ```leaflet
 id: night-city-map
-image: [[night-city-map-2045-1.jpg]]
+image: [[NightCityMap1.jpg]]
 height: 1250px
 lat: 50%
 long: 50%

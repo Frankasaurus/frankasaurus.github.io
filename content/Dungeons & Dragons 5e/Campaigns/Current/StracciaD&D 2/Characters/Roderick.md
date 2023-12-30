@@ -49,7 +49,7 @@ publish: true
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Half-Elf]] (Wood) |  
 > | **Class** | [[Warlock]], Pact of the [[Fiend]] |  
-> | **Born** | [[The Wovens]] , 20 years ago|  
+> | **Born** | [[Orphelica|The Wovens, Orphelica]] , 20 years ago|  
 > | **Languages** | Common, Elvish |  
 > | **Family** | - Unnamed father and mother |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (First Mate) |
@@ -74,7 +74,7 @@ As a [[Warlock]] doesn't wear armor, but does outfit himself with large boots, b
 Roderick is the most chipper and talkative member of the party, with him usually involved in every conversation there is. He likes to learn, and asks a lot of questions, which is partially caused by his relatively secluded upbringing. He also tends to get himself into trouble, both accidentally and and purpose, as is seen in his relationship with his Warlock [[Sargenet|Patron]].
 # Biography
 ## Before the campaign
-When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of [[The Wovens]]. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 
+When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of Northern [[Orphelica]]; The Wovens. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 
 
 That changed when a man chained to a tree happened to appear during his foraging run, who looked old and dishevelled. Roderick saw this as a man in distress, hopelessly bound in the woods by thieves or scum. The man, who claimed to be a wizard, spoke to Roderick, telling him that if he was too weak to break the chains tying him in place, the Wizard could lend him temporary powers that would help him free the man, to which Roderick obliged. The man only needed a single drop of blood, and a short cut across the finger later, Roderick found the strength to loosen the man's chain. The wizard thanked him for his help, and spoke to him at length about his time in the woods, never once speaking of his own past, and always diverting back to Roderick. 
 
@@ -91,8 +91,8 @@ Roderick travelled for days on end, eventually reaching the port city of [[Kenoa
 He found a [[Wand of the War Mage +1|Wand]] when exploring the Towers of Stendor.
 # Relationships
 > TODO
-### Eliene
-[[Eliene]] is a haunting of Roderick's dreams, whose purpose, state of being, and motive is yet unknown.
+### Eliëne
+[[Dimure Los#Eliëne|Eliëne]] is a haunting of Roderick's dreams, whose purpose, state of being, and motive is yet unknown.
 # Character information
 ## Quests
 Roderick is bound to get rid of his relationship with [[Sargenet]], or to at least be unbound to this fiend. 
