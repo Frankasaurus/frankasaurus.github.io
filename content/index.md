@@ -3,23 +3,31 @@ title: Welcome to the Stracciatella Online Obsidian Wiki
 publish: true
 ---
 # Welcome to the Obsidian Wiki for StracciaD&D! 
-**Here you'll not only find information about characters and locations, but also a massive under construction sign; there is a lot still to do and fill out, so please ignore some of the half-complete pages. It is on my [[TODO List StracciaD&D|To-do list]].**
+This site is for keeping track of this strange hobby.
 
+Check my [[TODO List StracciaD&D|To-do list]] for things I'm working on. Feel free to request features!
 ***
-# StracciaD&D Campaign
-## **For info in the current StracciaD&D Campaign, go to [[Campaign Overview]].**
-
-## **For a summary per session, go to [[Session Overview]].**
+# [[Campaign Overview|StracciaD&D Campaign Overview]]
+**For a summary per session, go to [[Session Overview]].**
 ***
 # Source Material
-## **Find all races official D&D 5e races on the [[Races Overview]].**
-## **Find all races official D&D 5e classes and subclasses on the [[Classes Overview]].**
+ **Find all official D&D 5e [[Races Overview|Races]] and [[Classes Overview|Classes]] here!**
+ A build guide is in the works.
 ***
 # Recently Updated
+**Last Update:** *31 Dec 2023*
+
 The following pages have recently been updated, created, or made public:
 - All subclasses, as well as [[Blood Hunter]] & [[Gunslinger]]
 - [[Campaign Overview]]
 - [[Session Overview]]
+
+The following site fixes have been made:
+- (add) 404 page now has some custom text
+- (add) The 'wiki'-style boxes have borders and a darker background with rounded edges
+- (tweak) Wiki box margins adjusted
+- (tweak) Index page clarified slightly 
+- (fix) All tables now have fixed styles, and should look good on every page and every device.
 # Worldbuild with me!
 Wherever you see the following TODO message, or find a page that doesn't exist but should, feel free to give your own input, especially if it's an NPC or area you yourself feel like creating!
 > TODO: Something to do

@@ -111,10 +111,10 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add published / unpublished counter below explorer
 	- [ ] Create custom filter to handle published pages with SPOILERS to redirect to a spoiler warning(?)
 	- [x] Add table scroling to large tables (like Cleric Table)
-		- [ ] Fix issue with smaller tables & Wiki tables on phone
-		- [ ] Fix Table styling
+		- [x] Fix issue with smaller tables & Wiki tables on phone
+		- [x] Fix Table styling
 	- [ ] Edit metadata
-	- [ ] Custom 404 page
+	- [x] Custom 404 page
 	- [ ] Find fix for Dataview to site
 		- [ ] Something to 'bake' the dataview data when converting content to pages. 
 - [ ] DM Specific organisation
