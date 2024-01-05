@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="" />
+    <list default="true" id="6c331857-3947-4138-a201-f11222b7a141" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/TODO List StracciaD&amp;D.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/Dungeons &amp; Dragons 5e/TODO List StracciaD&amp;D.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Carmine-Char.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/Elisabeth-de-Dragoness.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Dungeons-&amp;-Dragons-5e/Campaigns/Current/StracciaD&amp;D-2/Characters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/contentIndex.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/contentIndex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/.quartz-cache/transpiled-build.mjs.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz/styles/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/quartz/styles/custom.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/experius/Documents/Obsidian/frankasaurus.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "ts.external.directory.path": "/home/experius/Documents/Obsidian/frankasaurus.github.io/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/experius/Documents/Obsidian/frankasaurus.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/experius/Documents/Obsidian/frankasaurus.github.io/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content" />
@@ -80,6 +97,8 @@
       <workItem from="1701466860398" duration="5366000" />
       <workItem from="1701707573314" duration="70000" />
       <workItem from="1703977720372" duration="3043000" />
+      <workItem from="1704374288936" duration="601000" />
+      <workItem from="1704463552342" duration="1731000" />
     </task>
     <servers />
   </component>

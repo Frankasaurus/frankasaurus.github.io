@@ -18,6 +18,14 @@
   > .callout-title {
     display: none;
   }
+
+  thead, tbody {
+    border: unset;
+  }
+
+  table {
+    margin-bottom: 5px;
+  }
 }
 
 @media only screen and (min-width: 756px) {
@@ -49,8 +57,8 @@
   padding: 0 0 0 5px;
 }
 
-.hr {
-  width: unset;
+hr {
+  width: auto;
 }
 
 table {
@@ -63,4 +71,8 @@ th {
 
 td {
   overflow-wrap: break-word;
+}
+
+thead, tbody {
+  border: 1px solid var(--lightgray);
 }
