@@ -156,5 +156,43 @@ reactions:
 # Xavion toegift & coup
 ![[Elisabeth - A Secret Dethroned#3.b Toegift Xavion]]
 
-
 **WAT WILLEN ZE VANAF HIER!**
+# Dragoness Barony Situatie
+**Dragoness Barony bevind zich nu in een burgeroorlog.** De stad zal in open conflict zijn.
+- Strijd staat bekend als het Dragoness Opstandsbeweging.
+- Waar [[Charles de Dragoness]] voor vecht ligt aan de spelers' keuze bij het gala.
+- Het havengebied zal in volle controlle liggen van de Burgerstrijders.
+## Strijd
+**Elke dag strijd zal er worden gerold om te kijken hoe de strijd gaat. Bij een 1 gaat er iemand neer. Laat de spelers dit weten, maar het resultaat niet.**
+Rol 1d20. Bij een 11 of lager, wint [[Fumyss]] terein. Bij een 18 of hoger, wint het Vrijdheids Legioen terein. Elk ander getal is stilstand.
+### Sterfgevallen
+Rol dan 1d10 : 2
+1. Generaal [[Fumyss]]
+2. [[Ostrzał Charr]]
+4. [[Charles de Dragoness]]
+5. [[Diederick de Dragoness]]
+6. [[Willemijn de Dragoness]]
+# Naar Cirdorim's Lair
+Mogelijke methodes (Survival DC 14 group):
+- Lopen (2 dagen, 's nachts aankomen)
+- Achterop Drakes (1 dag, 's nachts aankomen)
+**Zie [[Cirdorim's Lair]] voor lair informatie.**
+## Gesprek Cirdorim
+[[Cirdorim]] zegt volgende:
+- [[Kruziik'ahraan]] is ouder, krachtiger, en meer dapper dan zij is. Hij heeft overtuiging. Zij kan het niet 1-op-1 aan, laat staan met het hele leger van [[Dragoness Barony]].
+- Door isolatie van buiten, en de aanwezigheid van de legers van [[Fumyss]] en [[Charles de Dragoness]], maakt het Greyskil Vrijheids Legion nutteloos. 
+	- "Ik ben tot jullie dienst, maar denk goed na wat jullie willen met Dragoness Baronie."
+	- "Als jullie de strijd aan willen gaan, hebben jullie hulp nodig. Wie vertrouwen jullie."
+		- Cirdorim kan vliegen door de Bloeming Isles om overtuigend hulp te halen.
+- "Jullie kunnen ook [[Kruziik'ahraan]] direct proberen aan te varen"
+		
+| Contact | Persuasion DC | Force | Locatie | Notitie |
+| ---- | ---- | ---- | ---- | ---- |
+| [[Wilmide Ostver]] | 12 | Hijzelf, [[The Giant of Jaxos]] en zijn crew, plus 100 kruisboogman | [[Telack]] | Fumyss grens -2. |
+| [[Archbishop Ilro'he]] | 14 | Zijzelf, en persoonlijke druid-entourage van 12 man | [[Cape Rosa]] | Legioen grens -1. Brengt een [[Bloodwell Vial +1]] |
+| Verengordel | 15 | [[Joachim Scherp]] en zijn Ambergarde, plus [[Dohelyn Oseath]] en wat Baaneelvolk als logistiek werker   | [[Meqen]] | Legioen grens -2. |
+| [[Hall of Anew]] | 8 | [[Garrien Tinkerson]], [[Lord-Master Ligune]], [[Kelren Throst]], en [[Deleraya]]. | [[Cape Rosa]] | Legioen grens -1. |
+| [[Bartos de la Rosa]] | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers | [[Cape Rosa]] | Fumyss grens -3. |
+| [[Sabine Charr]] | - | Zijzelf | [[Ayhwen Town]] | Wilt haar ouders vinden.[^1] |
+| [[Wormbone family]] | 12 | [[Bulblin Wormbone]] op [[Bonehead]], [[Ghxarver Wormbone]], en 50 strijders. | Ergens in [[Bloeming Isles]] | [[Chris]] uitnodigen. |
+[^1]: [[Ostrzał Charr]] leeft nog, en is bedelaar in [[Dragoness Barony]].

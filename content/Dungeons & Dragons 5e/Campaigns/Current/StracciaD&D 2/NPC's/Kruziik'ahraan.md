@@ -10,7 +10,7 @@ creature_type: Dragon
 creature_race: Dragon
 creature_subrace: Bronze
 gender: Male
-age: 452
+age: 552
 location: Dragoness Barony
 occupation: Conquerer
 status: Alive
@@ -22,7 +22,7 @@ publish:
 ---
 > [!infobox]  
 > # Kruziik'ahraan "The Scar"
-> ![[Image.jpg|cover hsmall]]  
+> ![[Kruzi.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -34,16 +34,16 @@ publish:
 > | **Name** | Kruziik'ahraan |
 > | **Aliases** | Rana, "The Scar" |
 > | **Gender** | Male | 
-> | **Creature Type** | Adult Dragon |
+> | **Creature Type** | Ancient Dragon |
 > | **Race** | [[Dragon]] (Blue) |  
 > | **Occupation** | Conquerer |  
-> | **Location** | [[Dragoness Barony]], disguised as [[Xavion de Dragoness]] |
+> | **Location** | - Current: [[Dragoness Barony]], disguised as [[Xavion de Dragoness]] <br>- Home: [[Scar's Rest]] |
 > | **Age** | 552 |
 > | **Languages** | Common, Draconic, Infernal |  
 > | **Connections** | - [[Xavion de Dragoness]] (patron) |
 > | **Status** | Alive |
 
-**Kruziik'ahraan "The Scar"** ('Rana' in short) is an Adult Blue Dragon, terrorizing the Geros region of [[Greyskil]]. As an NPC, he is played by [[Alex]].
+**Kruziik'ahraan "The Scar"** ('Rana' in short) is an Ancient Blue Dragon, terrorizing the Geros region of [[Greyskil]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 Description of appearance.

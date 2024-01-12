@@ -194,9 +194,10 @@ Het tournament bestaat uit 3 rondes;
 
 # 6. Cirdorim Burcht
 Samenvattend: 
-
 - Afstand vanaf [[Dragoness Barony]] = 2 dagen lopen.
 
 TODO: Dungeon bouwen. [[Dragon Slayer Longsword]] als reward.
 
 Aan het einde zal [[Cirdorim]] (eekhoornvorm) in staat zijn om haar ware zelf te laten zien, en het verhaal vertellen van hoe zij Willemijn stiekem heeft gegund met daadwerkelijk Nobel bloed, opdat zij waar zou kunnen maken wat Xavion niet kon. Ook zou de Baronie haar burcht met rust laten. In ruil zou Willemijn haar ware kracht nooit laten zien, maar het door laten vloeien in een mogelijk dochter; Elisabeth. Het boek was maar een ploy om Elisabeth te gunnen wat zij verdiende, opdat Elisabeth anders was dan haar broers.
+
+# 7. Dragoness Barony verzetsstrijd

@@ -17,9 +17,9 @@
 
 **Dragon Slayer** is a Longsword currently hidden in [[Cirdorim's Lair]]. It's the go-to weapon for confidently challenging Dragons.
 # History
-> TODO: Include if relevant
+When [[Dragoness Barony]] was founded, [[Cirdorim]] the Bronze Dragon used the final embers of the Forge within [[Cirdorim's Lair|her lair]] to forge the Dragon Slayer Longsword, should an opportunity present itself to dethrone [[Kruziik'ahraan]]-backed [[Dragoness Family]].
 ## Appearance
-> TODO: Looks description
+With a long sturdy hilt wrapped in Dragon Leather, the blackened steel sword finds most of its enchantment in the glimmering blade, which is prestine, polished, and straight. The pommel and hilt are intriquitely cast steel, and depict draconic art. Several dragon teeth are embedded in the hilt and pommel. The entire sword is about 1m in length. The enchanted channel in the blade triggers its main ability when it pierces the flesh of Dragons, pulsing a vibrant green-blue color.
 # Description
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

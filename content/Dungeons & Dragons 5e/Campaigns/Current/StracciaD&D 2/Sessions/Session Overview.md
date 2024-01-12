@@ -24,22 +24,22 @@ publish: true
 | [[Session 014]] | 2 / 10 / 2021 | After defeating the Baron, freeing [[Keylin Ostver]], helping the Baaneel People find their way to [[Amala Laguna]], and returning to the ship, the party quickly sails back to [[Cape Rosa]]. As thanks, Josefus the 3rd helps [[Elisabeth de Dragoness]]  [[Roderick]] is confronted with Eliëne again, who removes the stone now filled with souls, and gives him further tasks. |
 | [[Session 015]] | 12 / 11 / 2021 | The [[Party]] explores [[Cape Rosa]] one last time. They run into some of [[Robyn\|Robyn's]] co-performers, [[Macaw]] and [[Thex]], visit the Temple to [[Olvex]] one last time, and talk to the mysterious enchantress known as Miriam LaStrana to discuss at [[Roderick]] and his pact, where [[Lady Vethrines]] is then mentioned as a potential solution  |
 | [[Session 016]] | 17 / 1 2 /2021 | Shortly before departing to [[Telack]] to return [[Keylin Ostver\|Keylin]] to her father, [[Roderick]] gets pestered by an [[Sargenet\|old strange figure]], beckoning him to collect a God's Tear. Upon their return, [[Wilmide Ostver]] thanks the party immensly, being forever in their debt, and gifting them an old ship to be called "[[The Bonehead]]" in reverance of their old friend [[Bonehead]].  |
-| [[Session 017]] | 29 / 1 / 2022 |  |
-| [[Session 018]] | 18 / 2 / 2022 |  |
-| [[Session 019]] | 22 / 4 / 2022 |  |
-| [[Session 020]] | 17 / 6 / 2022 |  |
-| [[Session 021]] | 28 / 8 / 2022 |  |
-| [[Session 022]] | 2 / 9 / 2022 |  |
-| [[Session 023]] | 4 / 11 / 2022 |  |
-| [[Session 024]] | 10 / 12 / 2022 |  |
-| [[Session 025]] | 21 / 1 / 2023 |  |
-| [[Session 026]] | 11 / 2 / 2023 |  |
-| [[Session 027]] | 17 / 3 / 2023 |  |
-| [[Session 028]] | 1 / 4 / 2023 |  |
-| [[Session 029]] | 18 / 5 / 2023 |  |
-| [[Session 030]] | 23 / 6 / 2023 |  |
-| [[Session 031]] | 9 / 9 / 2023 |  |
-| [[Session 032]] | 1 / 10 / 2023 |  |
-| [[Session 033]] | 12 / 11 / 2023 |  |
-| [[Session 034]] | 14 / 01 / 2024 |  |
+| [[Session 017]] | 29 / 1 / 2022 | In celebration of their victorious quest, and awaiting their ship's modifications, the [[Party]] celebrates in a tavern in [[Telack]]. [[Roderick]] is messaged and then visited by the unexplicable "Dhr. Strangea", who leads him and the Party into a fight with two Barghests as an ambush. Knowing he has a target on his head, the party quickly leaves to [[Meqen]]. |
+| [[Session 018]] | 18 / 2 / 2022 | Traveling to [[Meqen]] goes smoothly, though [[Roderick]] gets visited by the strange woman once again, who lets him know that she requires a gift to keep her from acting up.   |
+| [[Session 019]] | 22 / 4 / 2022 | After arriving and getting to meet [[Joachim Scherp]], they are brought to the FeatherBelt - [[Meqen]]'s council, and inspect [[Benjamin de Dragoness]] last known wherabouts. They also explore the city a little bit. The [[Party]] searches the trapped temporary home of [[Benjamin de Dragoness]], before getting attacked by Drakes.   |
+| [[Session 020]] | 17 / 6 / 2022 | The collateral damage causes problems for the party, and [[Joachim Scherp]] quickly escorts them to their ship, before the government can arrest them. The [[Party]] follows Ben's trail and sails to [[Tezeder]], and lays ashore to the North several days later. They arrive onto the island, and head South. |
+| [[Session 021]] | 28 / 8 / 2022 | [[Carmine Char]] discovers he has a sister, [[Sabine Charr\|Sabine]], by stumbling upon her on Tezeder as she is hunting a private bounty on [[Benjamin de Dragoness]]. They agree on a truce, and continue South towards the Peak of Tezeder to find Ben. |
+| [[Session 022]] | 2 / 9 / 2022 | The party continues along the island's main path, evades a lone Tyranosaurus Rex, and explores some of Benjamin's belongings hiding behind the Island's waterfall.  |
+| [[Session 023]] | 4 / 11 / 2022 | [[Benjamin de Dragoness]] is found and confronted, though deshevelled and desperate. He denies and refuses his destiny of service to [[Kruziik'ahraan]], who in turn, appears on the peak. A back-and-forth results in Kruziik'ahraan angered, destroying the party in one fell swoop. He takes Benjamin and leaves. The party and Sabine reassess their priorities and descend the mountain. |
+| [[Session 024]] | 10 / 12 / 2022 | An exploration of [[Tezeder]] takes place, with the [[Party]] finding an age-old ransacked remnant village Cgorvelon, and the Ode to Baghtru - a tower that houses the [[Baghtru's Gloves]], which [[Robyn]] claimed.  |
+| [[Session 025]] | 21 / 1 / 2023 | The party returns to the boat, with Sabine in tow. On their way, an old inn on [[Tezeder]] is home to restless spirits, which the party inadvertedly break from their cycle, and discover their story. |
+| [[Session 026]] | 11 / 2 / 2023 | Their return to [[Meqen]] is quickly noticed by the FeatherBelt, who demand an audience. After a lot of explaining and diplomacy, the [[Party]] is let go, but not before having a night of drinks interupted by a spectral assassin, gunning for [[Roderick]] once more. The party barely fends him off, but chase it through the city to defeat it and some of its cronies.  |
+| [[Session 027]] | 17 / 3 / 2023 | The book-end of the fight takes place, but furthermore the party finally finds some rest, and a moment to discuss what they want to do. A hat is purchased in the city, shortly before heading towards [[Lady Vethrines]].  |
+| [[Session 028]] | 1 / 4 / 2023 | The [[Party]] heads to [[Lady Vethrines]] to discuss a potential cure for [[Roderick]], but only find [[Garrien Tinkerson]] and a ransacked house. The party traces and fights scouts of the [[The Seven Scepters]], before encroaching on their camp.  |
+| [[Session 029]] | 18 / 5 / 2023 | The party fights [[The Seven Scepters]], and formally meet [[Phillipa Vurrinir]], and adventurer who is intend on helping - and profiting - from the [[Party]]. At the end, the prepares and repairs their ship, before they leave for [[Dragoness Barony]]. |
+| [[Session 030]] | 23 / 6 / 2023 | After only a couple of nights, [[Vimak Vaimei-Laga]] gets stranger and stranger dreams, resulting in a message from the [[Gathakeaku Clan]]. Preceded by physical challenge, Vimak is tested and then asked to aid them in their upcoming battle against the Giants, which will commence soon. |
+| [[Session 031]] | 9 / 9 / 2023 | The final leg of the long journey to [[Dragoness Barony]] takes place, with the [[Party]] facing the remains of Baron Lxtrul's leftenants, fishing a bit, and fighting through a storm.  |
+| [[Session 032]] | 1 / 10 / 2023 | Arriving in [[Dragoness Barony]], the [[Party]] is made aware of the state of the Barony. They help the local sick populace a bit, before attending the mandatory mass in the city centre, after which [[Elisabeth de Dragoness\|Elisabeth]] has everyone go to the Palace, meet [[Xavion de Dragoness]], and reorganise and reenergise in the guest house to prepare for a ball. |
+| [[Session 033]] | 12 / 11 / 2023 | [[Xavion de Dragoness]] organises an impromptu ball to celebrate the return and power of [[Elisabeth de Dragoness]] and her new allies. The party uses this to get dressed up, mingle with the upper class of [[Dragoness Barony]], but mainly convice [[Charles de Dragoness]] of Xavion's lifelong betreyal by uncovering the contracts of their birth. |
+| [[Session 034]] | 14 / 01 / 2024 | The ball continues... |
 | [[Session 035]] | 11 / 02 / 2024 |  |

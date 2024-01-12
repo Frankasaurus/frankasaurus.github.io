@@ -19,7 +19,7 @@ publish: false
 > | **Race** | [[Dragon]] (Bronze) |  
 > | **Occupation** | Medic in [[Dragoness Barony]] |  
 > | **Location** | Currently [[Dragoness Barony]], See also [[Cirdorim's Lair]] |
-> | **Age** | 604 |
+> | **Age** | 304 |
 > | **Languages** | Common, Draconic, Celestial |  
 > | **Connections** | - [[Greyskil Refugee Resistance]] through the *Dragoness Freedom Legion* |
 > | **Status** | Alive |

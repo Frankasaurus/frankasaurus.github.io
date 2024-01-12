@@ -24,6 +24,7 @@ You learn additional spells when you reach certain levels in this class, as show
 | 5th | [[Dispel Magic]] | [[Vampiric Touch]] | [[Phantom Steed]] |
 | 7th | [[Death Ward]] | [[Confusion]] | [[Hallucinatory Terrain]] |
 | 9th | [[Rary's Telepathic Bond]] | [[Hold Monster]] | [[Mislead]] |
+
 Whenever you finish a long rest, you can choose what lunar phase manifests its power through your magic: Full Moon, New Moon, or Crescent Moon. While in the chosen phase, you can cast one 1st-level spell of the associated phase in the Lunar Spells table once without expending a spell slot. Once you cast a spell in this way, you can’t do so again until you finish a long rest.
 # Moon Fire
 Starting at 1st level, you can call down the radiant light of the moon on command. You learn the [[Sacred Flame]] spell, which doesn’t count against the number of sorcerer cantrips you know. When you cast the spell, you can target one creature as normal or target two creatures within range that are within 5 feet of each other.
