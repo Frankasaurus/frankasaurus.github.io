@@ -20,7 +20,7 @@ publish: true
 > | **Location** | Last seen near [[Meqen]] |
 > | **Age** | 30 |
 > | **Languages** | Common, Primordial, Elvish |  
-> | **Family** | - [[Carmine Char]] (brother)<br>- [[Jules Charr Sr.]] & [[Ostrzał Charr]] (parents) |
+> | **Family** | - [[Carmine Char]] (brother)<br>- [[Jules Charr Sr.]] & [[Doreen Charr]] (parents) |
 > | **Connections** | - Unnamed lord in Ayhwen Town (employer) |
 > | **Status** | Alive |
 

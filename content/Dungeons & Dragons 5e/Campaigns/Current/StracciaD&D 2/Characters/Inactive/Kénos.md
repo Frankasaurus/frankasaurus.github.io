@@ -82,10 +82,8 @@ Kénos embarked on the path of adventurers in search of an identity; she wants t
 > TODO
 # Character information
 ## Quests
-Kénos develop a common 'issue' among warforged, namely that of identity (or the lack thereof). No longer serving her original purpose, she is in search of one, and where here powers can be used for the better.
+Kénos developed a common 'issue' among warforged, namely that of identity (or the lack thereof). No longer serving her original purpose, she is in search of one, and where here powers can be used for the better.
 ## Notable items
 - *List of items*
-## Magic items
-- *None so far*
 # Trivia
 - *List of trivia*

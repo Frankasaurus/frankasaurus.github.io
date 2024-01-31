@@ -29,7 +29,7 @@ Elisabeth: Glanzend zwart gevormde jurk met een hoge hals, off-shoulder. Vanuit 
 Bij het ontvangen van de kleding zal ze een opmerking tussendoor maken;
 "We moeten praten, maar niet hier. Ergens waar niemand zou durven mee te luisteren."
 Elisabeth's slaapkamer / een schuur / draketunnels.
-![[Elisabeth - A Secret Dethroned#2. Cirdorim Ontmoeting]]
+![[Elisabeth Notes#2. Cirdorim Ontmoeting]]
 # Willemijn gesprek
 Wat weet [[Willemijn de Dragoness]];
 - [[Xavion de Dragoness]] is niet hemzelf sinds Elisabeth weg was.

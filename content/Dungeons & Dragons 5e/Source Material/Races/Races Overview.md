@@ -2,7 +2,7 @@
 tags: update
 publish: true
 ---
-There do be a litteral fuckton of races in D&D 5th Ed.
+**Each character in Dungeons & Dragons 5th Edition has a race, depiciting their characters appearance as well as some of their abilities and features. In earlier books, it also determined stats
 # Races
 Sorted by which Source Book has introduced them (for now). The sorting and formatting of this page needs to be updated. See [[TODO List StracciaD&D]].
 ## [[Player's Handbook]]

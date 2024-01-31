@@ -84,7 +84,7 @@ At 3rd level, you choose a path that shapes the nature of your rage. Your choice
 | [[Giant]] | [[Bigby Presents Glory of the Giants]] |
 | [[Storm Herald]] | [[Xanathar's Guide to Everything]] |
 | [[Totem Warrior]] | [[Player's Handbook]] |
-| [[Dungeons & Dragons 5e/Source Material/Classes & Subclasses/Barbarian/Wild Magic\|Wild Magic]] | [[Tasha's Cauldron of Everything]] |
+| [[Dungeons & Dragons 5e/Source Material/Subclasses/Barbarian/Wild Magic\|Wild Magic]] | [[Tasha's Cauldron of Everything]] |
 | [[Zealot]] | [[Xanathar's Guide to Everything]] |
 | [[Juggernaut]]\* | [[Tal'Dorei Campaign Guide]] |
 *\* = Homebrew*

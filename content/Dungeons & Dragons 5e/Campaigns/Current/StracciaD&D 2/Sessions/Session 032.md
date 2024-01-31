@@ -13,7 +13,7 @@ characters:
 tags: []
 ---
 # Aankomst Baronie
-![[Elisabeth - A Secret Dethroned#1. Aankomst Baronie]]
+![[Elisabeth Notes#1. Aankomst Baronie]]
 
 # Na de kerkdienst
 - Als ze de kerk eenmaal uitlopen, zien ze als eerste een groot aantal mensen kuchend naar een warenhuis aan de rand van het plein lopen. Hier is Cirdorim.
@@ -22,7 +22,7 @@ tags: []
 	  Dochter. Het betreurt mij dat woord van jouw aankomst mij indirect heeft moeten bereiken, doch ik verheugd ben op jouw wederkeren. Alsjeblieft, haast je naar huis; wij hebben veel te bespreken!
 	  Groet, Vrije Baron Xavion de Dragoness."*
 # Cirdorim Ontmoeting
-![[Elisabeth - A Secret Dethroned#2. Cirdorim Ontmoeting]]
+![[Elisabeth Notes#2. Cirdorim Ontmoeting]]
 
 # Reunie Xavion & opzet Gala
-![[Elisabeth - A Secret Dethroned#3. Reunie Xavion]]
+![[Elisabeth Notes#3. Reunie Xavion]]

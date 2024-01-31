@@ -52,7 +52,7 @@ publish: true
 > | **Class** | [[Cleric]], [[Light]] Domain |  
 > | **Born** | [[Dragoness Barony]] , 28 years ago |
 > | **Languages** | Common, Primordial |  
-> | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Ostrzał Charr]] (mother) |
+> | **Family** | - [[Sabine Charr]] (sister) <br>- [[Jules Charr Sr.]] (father)<br>- [[Doreen Charr]] (mother) |
 > | **Connections** | - [[Party]] (member)<br>- [[The Bonehead]] (Carpenter)<br>- [[Olvex]] (worshipper)<br>- Hall of Anew (associate, ex-member) |
 > | **Status** | Alive |
 > | **Sessions** | All Sessions |
@@ -91,7 +91,7 @@ Only learned of his actual first name (and his status as Jr.) from his slightly 
 ## Quests
 Carmine's passive goal is to always spread the word and honor Olvex, though his methods are rather subtle at times, especially with the newly found focus on his adventuring party.
 
-More prominently, Carmine has discovered he is (on the way to becoming) the 20th [[Chosen of Olvex]], after several centuries of there not being a (known) Chosen. He has discovered the implications of this thanks to rescuing the petrified remains of the [[Lord-Master Ligune]] - the 18th Chosen of Olvex - at the sunken [[Towers of Stendor]]. His current task is recovering the identity and remains of the [[Dimure Los|19th Chosen of Olvex]], as a means of discovering what unfinished business he is meant to continue.
+More prominently, Carmine has discovered he is (on the way to becoming) the 20th [[Chosen of Olvex]], after several centuries of there not being a (known) Chosen. He has discovered the implications of this thanks to rescuing the petrified remains of the [[Lord-Master Ligune]] - the 18th Chosen of Olvex - at the sunken [[Towers of Stendor]]. His current task is recovering the identity and remains of the [[Dungeons & Dragons 5e/Campaigns/Current/StracciaD&D 2/NPC's/Olvex' Worshippers/Dimure Los|19th Chosen of Olvex]], as a means of discovering what unfinished business he is meant to continue.
 ## Features & Traits
 Due to being a Fire [[Genasi]], Carmine has Darkvision up to 60ft. His subclass also grants him Fire Resistance.
 

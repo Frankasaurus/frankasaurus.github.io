@@ -12,7 +12,7 @@ cursed: 0
 owner: 
 owner_previous:
   - Unknown
-publish: true
+publish: false
 ---
 > [!infobox]  
 > # Flame Tongue Dagger
@@ -23,13 +23,12 @@ publish: true
 > | **Type** | Shortsword |
 > | **Rarity** | Rare |
 > | **Slot** | Weapon |
-> | **Materials** | Steel, Precious metals |
+> | **Materials** | Steel, Solid phosphorus |
 > | **Requires Attunement** | Yes |
 > ###### Historical Information
 > | | |
 > |---|---|
 > | **Current** | Unknown |
-> | **Previous** | [[Towers of Stendor]] |
 
 The **Flame Tongue Dagger** is a flaming magical dagger that deals massive damage.
 ## Appearance

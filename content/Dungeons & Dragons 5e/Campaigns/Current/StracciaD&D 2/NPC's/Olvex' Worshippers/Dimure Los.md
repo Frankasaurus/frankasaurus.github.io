@@ -5,7 +5,7 @@ publish:
 ---
 > [!infobox]  
 > # (NAME) 
-> ![[Image.jpg|cover hsmall]]  
+> ![[DimureLos.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

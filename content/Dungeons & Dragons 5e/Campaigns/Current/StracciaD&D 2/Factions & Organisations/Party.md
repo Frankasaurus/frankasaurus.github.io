@@ -12,7 +12,7 @@ publish: true
 > | **Type** | Adventuring Party | 
 > | **Name** | *Nameless as of yet* |
 > | **Location** | Originally from [[Bloeming Isles]]. Currently traveling throughout [[Greyskil]] |
-> | **Connections** | - [[Dragoness Family]] (Relation)<br>- [[The Bonehead]] (Crew)-<br> [[Wilmide Ostver]] (Ally) |
+> | **Connections** | - [[Dragoness Family]] (Relation)<br>- [[The Bonehead]] (Crew)<br>- [[Wilmide Ostver]] (Ally) |
 
 **The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. 
 # Members
@@ -27,6 +27,7 @@ publish: true
 - [[Bulblin Wormbone]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
 - [[Kénos]], a Warforged holy Psi-Fighter
 # Journey
+*A session-by-session rundown is available [[Session Overview|here]].*
 ## Chapter 1
 >TODO: [[Keylin Ostver]] & exploring [[Bloeming Isles]]
 ## Chapter 2

@@ -155,3 +155,158 @@ Starting at 18th level, you can attune up to six magic items at once.
 At 20th level, you develop a mystical connection to your magic items, which you can draw on for protection:
 - You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 - If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.
+---
+# Infusions
+Artificer infusions are extraordinary processes that rapidly turn a nonmagical object into a magic item. The description of each of the following infusions details the type of object that can receive it, along with whether the resulting magic item requires attunement. Some infusions specify a minimum artificer level. You can't learn such an infusion until you are at least that level. Unless an infusion's description says otherwise, you can't learn an infusion more than once.
+### Arcane Propulsion Armor
+*Prerequisite: 14th-level artificer*
+*Item: A suit of armor (requires attunement)*
+
+The wearer of this armor gains these benefits:
+- The wearer's walking speed increases by 5 feet.
+- The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
+- \The armor can't be removed against the wearer's will.
+- If the wearer is missing any limbs, the armor replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+### Armor of Magical Strength
+*Item: A suit of armor (requires attunement)*
+
+This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
+- When the wearer makes a Strength check or a Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
+- If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
+The armor regains 1d6 expended charges daily at dawn.
+### Boots of the Winding Path
+*Prerequisite: 6th-level artificer*
+*Item: A pair of boots (requires attunement)*
+
+While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+### Enhanced Arcane Focus
+*Item: A rod, staff or wand (requires attunement)*
+
+While holding this item, a creature gains +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack. The bonus increases to +2 when you reach 10th level in this class.
+### Enhanced Defense
+*Item: A suit of armor or a shield*
+
+A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item. The bonus increases to +2 when you reach 10th level in this class.
+### Enhanced Weapon
+*Item: A simple or martial weapon*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. The bonus increases to +2 when you reach 10th level in this class.
+### Helm of Awareness
+*Prerequisite: 10th-level artificer*
+*Item: A helmet (requires attunement)*
+
+While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t incapacitated.
+### Homunculus Servant
+*Item: A gem or crystal worth at least 100 gp*
+
+You learn intricate methods for magically creating a special homunculus that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
+
+You determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.
+
+The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
+
+In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
+
+The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+> TODO: Add homunculus servant statblock
+### Mind Sharpener
+*Item: A suit of armor or robes*
+
+The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
+### Radiant Weapon
+*Prerequisite: 6th-level artificer*
+*Item: A simple or martial weapon (requires attunement)*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
+
+The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
+### Repeating Shot
+*Item: A simple or martial weapon with the ammunition property (requires attunement)*
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
+
+If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
+### Replicate Magic Item
+Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
+
+In the tables, an item's entry tells you whether the item requires attunement. See the item's description in the [[Dungeon Master's Guide]] for more information about it, including the type of object required for its making.
+
+If you have [[Xanathar's Guide to Everything]], you can choose from among the common magic items in that book when you pick a magic item you can replicate with this infusion.
+
+> [!info]
+> The table is at the bottom of this page
+### Repulsion Shield
+_Prerequisite: 6th-level artificer_  
+_Item: A shield (requires attunement)_
+
+A creature gains a +1 bonus to Armor Class while wielding this shield.
+
+The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
+### Resistant Armor
+_Prerequisite: 6th-level artificer_  
+_Item: A suit of armor (requires attunement)_
+
+While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+### Returning Weapon
+_Item: A simple or martial weapon with the thrown property_
+
+This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack.
+### Spell-Refueling Ring
+_Prerequisite: 6th-level artificer_  
+_Item: A ring (requires attunement)_
+
+While wearing this ring, the creature can recover one expended spell slot as an action. The recovered slot can be of 3rd level or lower. Once used, the ring can't be used again until the next dawn.
+## Replicate Magic Item table
+| Artificer Level | Magic Item | Attunement |
+| ---- | ---- | ---- |
+| 2 | Alchemy Jug | No |
+| 2 | Bag of Holding | No |
+| 2 | Cap of Water Breathing | No |
+| 2 | Goggles of Night | No |
+| 2 | Rope of Climbing | No |
+| 2 | Sending Stones | No |
+| 2 | Wand of Magic Detection | No |
+| 2 | Wand of Secrets | No |
+| 6 | Boots of Elvenkind | No |
+| 6 | Cloak of Elvenkind | Yes |
+| 6 | Cloak of the Manta Ray | No |
+| 6 | Eyes of Charming | Yes |
+| 6 | Gloves of Thievery | No |
+| 6 | Lantern of Revealing | No |
+| 6 | Pipes of Haunting | No |
+| 6 | Ring of Water Walking | No |
+| 10 | Boots of Striding and Springing | Yes |
+| 10 | Boots of the Winterlands | Yes |
+| 10 | Braces of Archery | Yes |
+| 10 | Brooch of Shielding | Yes |
+| 10 | Cloak of Protection | Yes |
+| 10 | Eyes of the Eagle | Yes |
+| 10 | Gauntlets of Ogre Power | Yes |
+| 10 | Gloves of Missile Snaring | Yes |
+| 10 | Gloves of Swimming and Climbing | Yes |
+| 10 | Hat of Disguise | Yes |
+| 10 | Headband of Intellect | Yes |
+| 10 | Helm of Telepathy | Yes |
+| 10 | Medallion of Thoughts | Yes |
+| 10 | Necklace of Adaptation | Yes |
+| 10 | Periapt of Wound Closure | Yes |
+| 10 | Pipes of the Sewers | Yes |
+| 10 | Quiver of Ehlonna | Yes |
+| 10 | Ring of Jumping | Yes |
+| 10 | Ring of Mind Shielding | Yes |
+| 10 | Slippers of Spider Climbing | Yes |
+| 10 | Ventilating Lungs | Yes |
+| 10 | Winged Boots | Yes |
+| 14 | Amulet of Health | Yes |
+| 14 | Arcane Propulsion Arm | Yes |
+| 14 | Belt of Hill Giant Strength | Yes |
+| 14 | Boots of Levitation | Yes |
+| 14 | Boots of Speed | Yes |
+| 14 | Bracers of Defense | Yes |
+| 14 | Cloak of the Bat | Yes |
+| 14 | Dimensional Shackles | No |
+| 14 | Gem of Seeing | Yes |
+| 14 | Horn of Blasting | No |
+| 14 | Ring of Free Action | Yes |
+| 14 | Ring of Protection | Yes |
+| 14 | Ring of the Ram | Yes |

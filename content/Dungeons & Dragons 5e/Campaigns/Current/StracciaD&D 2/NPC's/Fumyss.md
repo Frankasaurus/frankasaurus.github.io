@@ -2,7 +2,7 @@
 publish: false
 ---
 > [!infobox]  
-> # (NAME) 
+> # Fumyss 
 > ![[Image.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
@@ -13,7 +13,7 @@ publish: false
 > | | |  
 > |---|---|  
 > | **Name** | Fumyss |
-> | **Aliases** | General Fumyss |
+> | **Aliases** | General (in the ranks of [[Dragoness Barony|Dragoness Barony's]] Order Guard) |
 > | **Gender** | Male | 
 > | **Creature Type** | Fiend |
 > | **Race** | Blue Abishai |  
@@ -24,19 +24,18 @@ publish: false
 > | **Connections** | - [[Kruziik'ahraan]] (leader)<br>- Unknown Greater Deity (shepherd) |
 > | **Status** | Alive |
 
-(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+**Fumyss** is a Blue Abishai General in the Order Guard of [[Dragoness Barony]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
-> TODO: Description of appearance.
+As a Blue Abishai, he is a tall and lumbering figure, with broad blue wings. While acting as General, he wears somewhat obstructing elements of clothing to signify his status, including some armor, though it has no protecting qualities compared to his natural thick skin. His snout is elongated and slender, and his eyes narrow and angled angrily.
 ## Personality
-> TODO: Description of personality.
-# Biography
-> TODO: What happened to them relevant to the story.
-# Relationships
-> TODO: Relations to other characters
-# Character information
-> TODO: Notable items, trivia, other details.
+While in Dragoness Barony, Fumyss appears to be an individual of stature and composure, but his history often shows him to be a brutal force, especially in conflict. He hates long talks and negotiations, and dislikes ceremonies. Through a partnership with [[Kruziik'ahraan]], he tones it down somewhat, and considers his old age for the first time. 
 
+Fumyss is critical of everyone, including himself, taking his job as leader and general very seriously, and being quite considerate of his allies and army.
+# Relationships
+### Kruziik'ahraan
+While Fumyss is technically older than [[Kruziik'ahraan]], he knows that one-on-one he is not as strong, and that Kruziik'ahraan's riches are more plentiful. For this reason he is willing to cut a deal, as to fill a need for quantitative forces for the Dragon, and his own desire for riches. He rarely converses with Kruziik'ahraan, only doing so when absolutely necessary, and though he doesn't harbor disdain, Fumyss prioritises his own forces and allies over Kruziik'ahraan and his deal.
+# Character information
 ## Statblock
 ```statblock
 name: Blue Abishai

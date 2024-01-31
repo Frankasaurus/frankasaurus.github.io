@@ -8,8 +8,6 @@ characters:
   - Tal
   - Ayden
   - Marlon
-tags:
-  - TODO
 ---
 # Samenvatting van de situatie tot nu toe
 *Een reintroductie?*

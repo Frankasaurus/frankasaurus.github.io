@@ -1,3 +1,6 @@
+---
+publish: no
+---
 *Dit document is spelergericht, en dus in het Nederlands.*
 Onderwerp: [[Elisabeth de Dragoness]]
 # Samenvatting & vooropzet
@@ -171,16 +174,18 @@ Spelers bepalen route en wat ze willen en hoe! Improv.
 Als [[Diederick de Dragoness]] ze opvangt, is er een rioolput achter het staf-verblijf die leidt tot de buitenstadse Drake-stallen aan de oevers.
 In het riool zijn 2 mogelijk encounters; **Een verstopte crimineel**, en een groepje **Werkende Kobolds.** De laatste is mogelijk combat.
 ### 4.b.i "Baggerkoning"
-De Baggerkoning is een kluizenaar die een van de hoogste prijzen van heel Greyskil op zijn hoofd heeft (4500gp).
+De Baggerkoning (Volwassen Gnome Man, Russisch accent) is een kluizenaar die een van de hoogste prijzen van heel Greyskil op zijn hoofd heeft (4500gp).
 - Onderdeel van [[Greyskil Refugee Resistance]].
 - Prominente aanklachten zijn voornamelijk Brandstichting, maar ook plundering en sabotage.
 	- Voorbeelden: De Vuurzee van de Noordertoren in [[Elin]]. (History 15: een ontwerpfout maakte dat de toren gelijk stond aan een grote lont. Totaal 81 doden). Noordertoren was thuis voor de onderministers, die wetgeving tegen allianties opbrachten.
 - Is hier om de coup te steunen waar nodig - *"Brandje hier, sabotage daar... ik laat het Paleis voorlopig met rust."*
-### 4.b.ii Kobold werkers
+	- Niet te koop, handelt uit principe.
+	- Is over te halen om 'tot uw dienst' te staan.
+### 4.b.ii Goblin werkers
 Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers
 Combat?
-
-Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 14 *(draconic spreken = advantage)*.
+### 4.b.iii
+Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 13 *(geen draconic spreken = disadvantage)*.
 # 5. Tournament
 De aanleiding tot deze combat is nog volledig onzeker, en kan net zo goed plaatsvinden als een ambush temidden van straat.
 ## 5.a Tournament meedoen
@@ -201,3 +206,20 @@ TODO: Dungeon bouwen. [[Dragon Slayer Longsword]] als reward.
 Aan het einde zal [[Cirdorim]] (eekhoornvorm) in staat zijn om haar ware zelf te laten zien, en het verhaal vertellen van hoe zij Willemijn stiekem heeft gegund met daadwerkelijk Nobel bloed, opdat zij waar zou kunnen maken wat Xavion niet kon. Ook zou de Baronie haar burcht met rust laten. In ruil zou Willemijn haar ware kracht nooit laten zien, maar het door laten vloeien in een mogelijk dochter; Elisabeth. Het boek was maar een ploy om Elisabeth te gunnen wat zij verdiende, opdat Elisabeth anders was dan haar broers.
 
 # 7. Dragoness Barony verzetsstrijd
+**Dragoness Barony bevind zich nu in een burgeroorlog.** De stad zal in open conflict zijn.
+- Strijd staat bekend als het Dragoness Opstandsbeweging.
+- Waar [[Charles de Dragoness]] voor vecht ligt aan de spelers' keuze bij het gala.
+- Het havengebied zal in volle controlle liggen van de Burgerstrijders.
+## Strijd
+**Elke dag strijd zal er worden gerold om te kijken hoe de strijd gaat. Bij een 1 gaat er iemand neer. Laat de spelers dit weten, maar het resultaat niet.**
+Rol 1d20. Bij een 11 of lager, wint [[Fumyss]] terein. Bij een 18 of hoger, wint het Vrijdheids Legioen terein. Elk ander getal is stilstand.
+De strijd is over 8 segmenten verdeeld, met 4 om 4 als startpunt.
+### Sterfgevallen
+Rol dan 1d10 : 2
+1. Generaal [[Fumyss]]
+2. [[Doreen Charr]]
+3. [[Charles de Dragoness]]
+4. [[Diederick de Dragoness]]
+5. [[Willemijn de Dragoness]]
+## Kaart
+Ooit eens maken met Fantasymapgenerator.com 

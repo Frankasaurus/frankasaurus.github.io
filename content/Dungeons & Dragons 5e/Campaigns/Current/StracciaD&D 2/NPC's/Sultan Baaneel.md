@@ -1,41 +1,32 @@
 ---
-publish: 
+publish: true
 tags:
-  - TODO
 ---
 > [!infobox]  
-> # (NAME) 
-> ![[Image.jpg|cover hsmall]]  
+> # Sultan Baaneel 
+> ![[SultanBaaneel.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | (NPC) |
+> | **Type** | NPC |
 > | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | (FULL NAME)|
-> | **Aliases** | (LIST) |
-> | **Gender** | (GENDER) | 
-> | **Creature Type** | (HUMANOID OR SOMETHING) |
-> | **Race** | ((SUB)RACE) |  
-> | **Occupation** | (OCCUPATION) |  
-> | **Location** | (CURRENT LOCATION) |
-> | **Age** | (CURRENT AGE OR AGE OF DEATH) |
-> | **Languages** | Common ... |  
-> | **Family** | - Name (relation)<br>- Name (relation) |
-> | **Connections** | - Name (relation)<br>- Name (relation |
-> | **Status** | (ALIVE OR SMTH) |
+> | **Name** | Sultan Baaneel |
+> | **Gender** | Male | 
+> | **Creature Type** | Elemental |
+> | **Race** | Marid (Water Genie) |  
+> | **Location** | [[Verfonq Grotto]] |
+> | **Languages** | Common, Aquan |  
+> | **Connections** | - Baron Lxtrul (Commander)<br>- [[Keylin Ostver]] (captor)<br>- Baaneel Peoples (slaves) |
+> | **Status** | Dead (killed by the [[Party]]) |
 
-(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+**Sultan Baaneel** was a Marid Lord responsible for the kidnapping of [[Keylin Ostver]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
-> TODO: Description of appearance.
-## Personality
-> TODO: Description of personality.
+Like most Marid's, Baaneel had a fish-like head and green scales for skin. The lower half of his body is made up of a torrent of water. His eyes are a flat grey-ish white, and he wears well-maintained clothing, mostly silks. He is adorned in several pieces of jewelry.
 # Biography
-> TODO: What happened to them relevant to the story.
-# Relationships
-> TODO: Relations to other characters
+The Sultan was growing a small gem mining colony on the sea floor of the Inner Marvers, West of [[Amala Laguna]], using slave labor. He and his Sahuagin militia - led by Baron Lxtrul - kidnapped [[Keylin Ostver]] while she was staying at [[Cape Rosa]]. The [[Party]] persued her on [[Archbishop Ilro'he|Archbishop Ilro'he's]] ship, [[The Verrewege]], with which they tracked the Baron's wherabouts, where they killed him to free Keylin and return her to her father [[Wilmide Ostver|Wilmide]].
 # Character information
-> TODO: Notable items, trivia, other details.
+> TODO: Add statblock

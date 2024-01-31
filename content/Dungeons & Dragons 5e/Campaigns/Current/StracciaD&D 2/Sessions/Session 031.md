@@ -25,7 +25,7 @@ Dire Wolf 15
 Yeti 15
 Bear 10
 Vimak 5
-![[Vimak - Gathakeaku in danger#1. Oproep naar Vimak]]
+![[Vimak Notes#1. Oproep naar Vimak]]
 # Bootreis -> Dragoness Baronie
 12 dagen op zee. Net de 3e achter de rug.
 Elke dag d20 -> <3 = rollen voor slecht resultaat, >17 is rollen voor topresultaat.
@@ -212,4 +212,4 @@ Warenlijst:
 - Raaf (imp) (5 gp)
 	- Op het vlot hangt een kooi die Oynur af en toe rammelt. *"Deze randebiel kwam mee met een bundel spulletjes. Help mij er alsjeblieft van af."*
 # Aankomst Baronie
-![[Elisabeth - A Secret Dethroned#1. Beat 1]]
+![[Elisabeth Notes#1. Beat 1]]

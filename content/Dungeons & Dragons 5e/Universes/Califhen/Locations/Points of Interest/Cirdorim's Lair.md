@@ -15,28 +15,29 @@ tags:
 **Voeg meubels toe waar relevant en leuk.**
 **Door de hele base zijn tunnels.**
 
-! **Locate Creatures and Objects.** The morkoth is aware of any new arrival, whether an object or a creature, on its island or in its sanctum. As an action, the morkoth can locate any one creature or object on the island. Visitors to the island feel as though they are being watched, even when they aren’t.
+> [!important] **Locate Creatures and Objects.** The morkoth is aware of any new arrival, whether an object or a creature, on its island or in its sanctum. As an action, the morkoth can locate any one creature or object on the island. Visitors to the island feel as though they are being watched, even when they aren’t.
 
-- A: Entree.	Plafond is 8 meter hoog. Twee kobolds zijn aan het praten met een Kobold in ruimte E2.
+- **A: Entree.** Plafond is 8 meter hoog. Twee kobolds zijn aan het praten met een Kobold in ruimte E2.
 	- Grote deur links is open te duwen (DC 15 Athetlics), maar is erg luid - base is **alert**.
 	- Ravage rechts is doorheen te wringen (DC 14 Acrobatics of elders, DC+2 grotere spelers). Vastzitten is 1d4 bludgeoning.
-- B: Hoge doorloop. Kleine patrouille maar geen verdere aankleding. De deur die leidt naar Z is deels ingestort en moeilijker open te maken (DC 17 Athletics)
-- C: Commandokamer. Bevat de **Yagnoloth (MOTM: p.268)** die de boel leid.
+- **B: Hoge doorloop.** Kleine patrouille maar geen verdere aankleding. De deur die leidt naar Z is deels ingestort en moeilijker open te maken (DC 17 Athletics)
+- **C: Commandokamer.** Bevat de **Yagnoloth (MOTM: p.268)** die de boel leid.
 	- Loot: DC 17 Investigation = losse tegel, met een **Onderhoudsboek** van de lair in Draconic. Bevat info over gebruik van het verblijf.
-- D: Gevangenis met Kobold bewakers. Zit een inwoner van Dragoness in de rechtercel, "Lens van de Kar". 
+- **D: Gevangenis** met Kobold bewakers (een met [[Hat of Disguise]] die er lol mee trapt). Zit een inwoner van Dragoness in de rechtercel, "Lens (van de Kar)". 
 	- Celdeuren zijn dicht. Lockpick (SoH) Check DC 16 voor openmaken. Cellen zijn leeg op oude kleding na en wat losse kopers.
 	- Geheime deur onderste cel. Goed rondkijken (skill check) beloond een draaiende wand met een krappe ruimte (DC 14 Acrobatics, 1d4 bludgeoning bij vastzitten, 1 tegelijk) die afloopt naar ruimte Z.
-- E: Eetruimtes. Elke ruimte bevat een handjevol kobolds en een kleine keuken met gebraden wild. 
+- **E: Eetruimtes.** Elke ruimte bevat een handjevol kobolds en een kleine keuken met gebraden wild. 
 	- In E1 ligt er wat loot op tafel gestruind. 173gp aan muntstukken, een [[Raaf]] (imp) in een kooi.
-- F: Verblijf met superveel bunkbedden en slapende kobolds.
-- G: Geheime stash achter een lading stenen verborgen. DC 20 Acrobatics voor er in komen.
+- **F: Verblijf** met superveel bunkbedden en slapende kobolds.
+- **G: Geheime stash** achter een lading stenen verborgen. DC 20 Acrobatics voor er in komen.
 	- Inhoud: vooral leuke kleding en stofjes, een groot tapijt, een paar schilderijdoeken. Een deel van de ruimte is met tralies afgezet, en zit een pantser achter [[Blue Dragon Scale Mail]].
-- H: Verblijf met bunkbedden en slapende kobolds.
-- I: Hal met spelende kobold kinderen. De rechterkant is ingestort, zelfde checks als anders. Difficult terain, 1 tegelijk, DC 14 acrobatics.
-- J: Geheime zijingang verborgen achter wat bosjes.
-- Z: Landingsruimte. Er wordt hier geoefend, gespeeld, eten bereid, drinken gewonnen, kleding gewassen, vanalles gedaan.
+- **H: Verblijf** met bunkbedden en slapende kobolds.
+- **I: Hal met spelende kobold kinderen**. De rechterkant is ingestort, zelfde checks als anders. Difficult terain, 1 tegelijk, DC 14 acrobatics.
+- **J: Geheime zijingang** verborgen achter wat bosjes.
+- **Z: Landingsruimte**. Er wordt hier geoefend, gespeeld, eten bereid, drinken gewonnen, kleding gewassen, vanalles gedaan.
 	- Hier is de Morkoth, de leider van de bende.
 	- Z1, 2, en 3 zijn op 15ft, hoogte, en heeft Kobold Sorcerers en Sentries die de boel bewaken.
+	- Er is een alarmhoorn op het puntje van de uitgang. Als een kobold deze weet te blazen, komen de scouts terug.
 	- De rechterzijde is open en kijkt uit over de Inner Marvers.
 	- Het beekje door het midden loopt snel en is difficult terain.
 	- Superveel Kobolds laten aanvallen, wanneer de party overwhelmed raakt, **Cirdorim** binnen laten vliegen met **Breath Weapon**.

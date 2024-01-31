@@ -1,7 +1,6 @@
 ---
 publish: true
-tags:
-  - update
+tags: []
 ---
 # StracciaD&D Campaign 2
 **Campaign 2** is the second StracciaD&D Campaign. It started on the 19e of Weledrus, 9963 on the continent of The [[Bloeming Isles]], and has since progressed into [[Greyskil]]. 
@@ -23,20 +22,19 @@ For more details, please check out the main [[Party]] page.
 | [[Lise]] | [[Kénos]] | [[Warforged]] | [[Fighter]] ([[Psi Warrior]] Archetype) |
 | [[Chris]] | [[Bulblin Wormbone]] | [[Goblin]] | [[Ranger]] ([[Beast Master]] Conclave) |
 ## Calendar
-| Date / Time | Occasion |
-| ---- | ---- |
-| 14 Jan '24 @ 12:00 | Session 034 |
-| 14 Jan '24 @ 20:00 | Couch session |
-| 11 Feb '24 @ 12:00 | Session 035 |
-| 10 Mar '24 @ 12:00 | Session 036 |
-| ??? | Final battle Satna OneShot |
+| Date / Time | Occasion | Location |
+| ---- | ---- | ---- |
+| 11 Feb '24 @ 12:00 | Session 035 | Melle & Kim |
+| 10 Mar '24 @ 12:00 | Session 036 | Alex & Lise |
+| 14 Apr '24 @ 12:00 | Session 037 | *T.b.d.* |
+| 12 May '24 @ 12:00 | Session 038 | *T.b.d.* |
+| ??? | Final battle Satna OneShot | *T.b.d.* |
 ***
 # Summary
 **For a summary per session, see [[Session Overview]].**
-
-| Act | Summary |
-| ---- | ---- |
-| Act 1: Keylin Kidnapped |  |
-| Act 2: A Stolen Secret |  |
-| Act 3: Barony Distress |  |
+## Act 1: Keylin Kidnapped
+> TODO
+## Act 2: Retreiving the Secret
+> TODO
+## Act 3: Barony in Distress
 > TODO

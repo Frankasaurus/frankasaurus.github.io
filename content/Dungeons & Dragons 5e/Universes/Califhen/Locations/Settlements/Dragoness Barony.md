@@ -86,7 +86,7 @@ For more information on how the current [[Dragoness Family]] hereditary system o
 **Current:**
 - Most members of the [[Dragoness Family]] in the Palace Grounds
 - [[Cirdorim]], living close to the Higher Justice Cathedral
-- [[Ostrzał Charr]], living on the streets of the Order Quadrant
+- [[Doreen Charr]], living on the streets of the Order Quadrant
 
 **Previously:**
 - [[Jules Charr Sr.]] 

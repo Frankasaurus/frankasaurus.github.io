@@ -37,7 +37,7 @@ Wat weet [[Willemijn de Dragoness]];
 		- Doorvragen (Persuasion DC 15): **"Elke kracht heeft zijn bron. Zij is de onze, zij is de jouwne."**
 # Het Gala
 ## Diederick ontmoeting
-![[Elisabeth - A Secret Dethroned#2.a Diederick ontmoeting]]
+![[Elisabeth Notes#2.a Diederick ontmoeting]]
 ## Sidequests
 Mocht de gang het feest willen rondstruinen of op zoek zijn naar activiteiten (Skill check naar keuze, DC boeit niet) - ergens specifiek naar op zoek?:
 ### Sidequest 1: Diefstal
@@ -152,9 +152,9 @@ reactions:
 
 ```
 ## Gala main
-![[Elisabeth - A Secret Dethroned#3.a Het Gala]]
+![[Elisabeth Notes#3.a Het Gala]]
 # Xavion toegift & coup
-![[Elisabeth - A Secret Dethroned#3.b Toegift Xavion]]
+![[Elisabeth Notes#3.b Toegift Xavion]]
 
 **WAT WILLEN ZE VANAF HIER!**
 # Dragoness Barony Situatie
@@ -168,7 +168,7 @@ Rol 1d20. Bij een 11 of lager, wint [[Fumyss]] terein. Bij een 18 of hoger, wint
 ### Sterfgevallen
 Rol dan 1d10 : 2
 1. Generaal [[Fumyss]]
-2. [[Ostrzał Charr]]
+2. [[Doreen Charr]]
 4. [[Charles de Dragoness]]
 5. [[Diederick de Dragoness]]
 6. [[Willemijn de Dragoness]]
@@ -193,6 +193,6 @@ Mogelijke methodes (Survival DC 14 group):
 | Verengordel | 15 | [[Joachim Scherp]] en zijn Ambergarde, plus [[Dohelyn Oseath]] en wat Baaneelvolk als logistiek werker   | [[Meqen]] | Legioen grens -2. |
 | [[Hall of Anew]] | 8 | [[Garrien Tinkerson]], [[Lord-Master Ligune]], [[Kelren Throst]], en [[Deleraya]]. | [[Cape Rosa]] | Legioen grens -1. |
 | [[Bartos de la Rosa]] | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers | [[Cape Rosa]] | Fumyss grens -3. |
-| [[Sabine Charr]] | - | Zijzelf | [[Ayhwen Town]] | Wilt haar ouders vinden.[^1] |
+| [[Sabine Charr]] | - | Zijzelf | [[Ayhwen Town]] | Nostalgie naar geboortestad.[^1] |
 | [[Wormbone family]] | 12 | [[Bulblin Wormbone]] op [[Bonehead]], [[Ghxarver Wormbone]], en 50 strijders. | Ergens in [[Bloeming Isles]] | [[Chris]] uitnodigen. |
-[^1]: [[Ostrzał Charr]] leeft nog, en is bedelaar in [[Dragoness Barony]].
+[^1]: [[Doreen Charr]] leeft nog, en is bedelaar in [[Dragoness Barony]].
