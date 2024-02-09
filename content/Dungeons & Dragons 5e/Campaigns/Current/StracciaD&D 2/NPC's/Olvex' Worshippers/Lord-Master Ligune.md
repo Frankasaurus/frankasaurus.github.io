@@ -19,7 +19,7 @@ publish:
 > | **Gender** | (GENDER) | 
 > | **Creature Type** | (HUMANOID OR SOMETHING) |
 > | **Race** | ((SUB)RACE) |  
-> | **Occupation** | (OCCUPATION) |  
+> | **Occupation** | 18th [[Chosen of Olvex]] |  
 > | **Location** | (CURRENT LOCATION) |
 > | **Age** | (CURRENT AGE OR AGE OF DEATH) |
 > | **Languages** | Common ... |  

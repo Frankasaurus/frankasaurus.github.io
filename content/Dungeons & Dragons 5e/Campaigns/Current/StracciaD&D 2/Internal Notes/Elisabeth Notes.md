@@ -217,7 +217,7 @@ De strijd is over 8 segmenten verdeeld, met 4 om 4 als startpunt.
 ### Sterfgevallen
 Rol dan 1d10 : 2
 1. Generaal [[Fumyss]]
-2. [[Doreen Charr]]
+2. [[Doreen Char]]
 3. [[Charles de Dragoness]]
 4. [[Diederick de Dragoness]]
 5. [[Willemijn de Dragoness]]
