@@ -29,7 +29,7 @@ publish: true
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | [[Robyn]] |
+> | **Current** | [[Robyn Heyns]] |
 > | **Previous** | [[Tijani]], [[Macaw]] |
 
 The **Medallion of Tijani's Hurt** is a magical locket-like construction, which houses the soul or souls of its previous wearer.

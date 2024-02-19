@@ -50,7 +50,7 @@ Cirkelvormig, met een gang naar onder. Grote ijzeren deur onder mos naar Hub.
 
 >Hub OW<
 
-Het Slavenkamp van Baaneel, staat volledig gericht naar de deur die naar het plein leidt, met voorop [[Dohelyn Oseath]] die ze begroet; “Gegroet, volgelingen van Olvex - precies op tijd.” voordat zij en iedereen knielt. Er staan Standbeelden van Baaneel in de grot.
+Het Slavenkamp van Baaneel, staat volledig gericht naar de deur die naar het plein leidt, met voorop Ziener Dohelyn Oseath die ze begroet; “Gegroet, volgelingen van Olvex - precies op tijd.” voordat zij en iedereen knielt. Er staan Standbeelden van Baaneel in de grot.
 
   
 

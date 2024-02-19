@@ -5,7 +5,7 @@ tags:
 ---
 > [!infobox]  
 > # Tijani
-> ![[Image.jpg|cover hsmall]]  
+> ![[Tijani.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -25,7 +25,7 @@ tags:
 > | **Connections** | - [[Mozelin Brown's Bazaar]] (employer) |
 > | **Status** | Material form deceased, split astral being is trapped in Medallion |
 
-**Tijani** was / is a [[Loxodon]] Monk, and mentor to [[Robyn]], as well as an old slave trader. He is currently trapped inside of the [[Medallion of Tijani's Hurt]] thanks to an assassination and a failed ascension to lichdom. As an NPC, he is played by [[Alex]].
+**Tijani** was / is a [[Loxodon]] Monk, and mentor to [[Robyn Heyns]], as well as an old slave trader. He is currently trapped inside of the [[Medallion of Tijani's Hurt]] thanks to an assassination and a failed ascension to lichdom. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

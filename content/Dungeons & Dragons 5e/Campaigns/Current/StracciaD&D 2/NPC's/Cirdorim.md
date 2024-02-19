@@ -41,3 +41,5 @@ As an adult Bronze dragon, Cirdorim has the ability to use Lightning Breath, fly
 Before spending years in [[Dragoness Barony]] to help out the populace in fighting disease and oppression, she made her lair in [[Cirdorim's Lair|Fin Okaaz Hoffkin]], which used to be a Dragon outpost in previous era's. While this was mainly in order to protect the [[Dragon Slayer Longsword]] and [[Blue Dragon Scale Mail]] hidden in the lair, Cirdorim took a liking to watching ships, especially the ones nearly as big as her. 
 ## Notable items
 - [[Dragon Slayer Longsword]]
+
+> TODO: Make ally statblock

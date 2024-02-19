@@ -1,33 +1,32 @@
 ---
 tags:
   - TODO
-publish:
+publish: true
 ---
 > [!infobox]  
-> # (NAME) 
-> ![[Image.jpg|cover hsmall]]  
+> # Garrien Tinkerson
+> ![[GarrienTinkerson.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | (NPC) |
+> | **Type** | NPC |
 > | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | (FULL NAME)|
-> | **Aliases** | (LIST) |
-> | **Gender** | (GENDER) | 
-> | **Creature Type** | (HUMANOID OR SOMETHING) |
-> | **Race** | ((SUB)RACE) |  
-> | **Occupation** | (OCCUPATION) |  
-> | **Location** | (CURRENT LOCATION) |
-> | **Age** | (CURRENT AGE OR AGE OF DEATH) |
-> | **Languages** | Common ... |  
-> | **Family** | - Name (relation)<br>- Name (relation) |
-> | **Connections** | - Name (relation)<br>- Name (relation |
-> | **Status** | (ALIVE OR SMTH) |
+> | **Name** | Garrien Tinkerson |
+> | **Aliases** | Mentore (by [[Hall of Anew]]) |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Gnome]] (Lightfoot) |  
+> | **Occupation** | Head priest & mentor of the Hall of Anew |  
+> | **Location** | [[Cape Rosa]] |
+> | **Age** | ~230 years |
+> | **Languages** | Common, Gnomish, Dwarvish, Elvish, Infernal |
+> | **Connections** | - [[Hall of Anew]] (member)<br>- [[Carmine Charr]] (ex-student) |
+> | **Status** | Alive |
 
-(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+Mentore **Garrien Tinkerson** is a Gnome Cleric and the head priest of the [[Hall of Anew]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

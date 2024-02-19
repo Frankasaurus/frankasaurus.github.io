@@ -8,12 +8,12 @@ tags:
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | (NPC) |
+> | **Type** | NPC |
 > | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | (FULL NAME)|
+> | **Name** | (FULL NAME) |
 > | **Aliases** | (LIST) |
 > | **Gender** | (GENDER) | 
 > | **Creature Type** | (HUMANOID OR SOMETHING) |
@@ -26,7 +26,7 @@ tags:
 > | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
 > | **Status** | (ALIVE OR SMTH) |
 
-(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+**(NAME)** is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

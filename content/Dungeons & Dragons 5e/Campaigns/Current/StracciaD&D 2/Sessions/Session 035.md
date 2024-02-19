@@ -3,7 +3,7 @@ type: session
 campaign: SDBC
 setting: Califhen
 session-no: 35
-session date: 11/02/2024
+session date: 10/03/2024
 characters:
   - Carmine
   - Robyn
@@ -11,7 +11,7 @@ characters:
   - Elisabeth
   - Vimak
   - Phillipa
-tags: []
+tags:
 ---
 # Samenvatting sessie 34
 Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te verzegelen, bleek een facade voor een uiteindelijke executie, geleid door [[Fumyss]]. Mede dankzij een Darkness spell, en het onthullen van de Dragoness rebellen, brak een bloedbad uit. De pot kookte eindelijk over, net nu de [[Party]] een verbond met [[Charles de Dragoness|Charles]] en [[Diederick de Dragoness|Diederick]] had gevonden, beiden paraat om het koninkrijk te redden, en niet hun vader. Met niet helemaal duidelijk wie jullie wilden steunen, kozen jullie - net als Fumyss en Xavion - om te vluchten. Diederick, die voorbereid was om weg te rennen, had de riolering als vluchtroute gesignalieerd, en met wat samenwerking wisten jullie uiteindelijk allen hierin te verdwijnen, en het gevecht aan zijn lot over te laten.
@@ -19,7 +19,7 @@ Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te 
 **Wanneer:** Nazomer, laat op de avond.
 **Waar:** Riool onder [[Dragoness Barony#Palace Grounds|Het Paleis]] van Baronie Dragoness. 
 **Doel sessie:** Belangrijk!
-**Trivia:** [[Carmine Char|Carmine]] maakte een insight check op Fumyss tijdens hun vluchtpoging, maar rolde laag. Een hogere rol had laten zien dat Fumyss alles onder controle had; dit is waar [[Kruziik'ahraan]] en Fumyss op hoopte.  
+**Trivia:** [[Carmine Charr|Carmine]] maakte een insight check op Fumyss tijdens hun vluchtpoging, maar rolde laag. Een hogere rol had laten zien dat Fumyss alles onder controle had; dit is waar [[Kruziik'ahraan]] en Fumyss op hoopte.  
 # Onthouden
 - Elisabeth draagt de [[Mana Seal]], een cursed item die alle magie tegenhoudt (Goud met Diamant).
 	- Deze moest eigenlijk vorige sessie al activeren, maar dit was ik vergeten in de hectiek.

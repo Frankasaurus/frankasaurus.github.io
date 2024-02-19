@@ -98,12 +98,14 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Add NPC's from Act 1
 	- [ ] Add NPC's from Act 2
 	- [ ] Add NPC's from Act 3
-	- [ ] Write the entire story so-far per session [[Session Overview]]
+	- [x] Write the entire story so-far per session [[Session Overview]]
 		- [x] Act 1
-		- [ ] Act 2
-		- [ ] Act 3
-	- [ ] Update [[Party]] faction with general summary
+		- [x] Act 2
+	- [ ] Update [[Party]] faction with general summary.
+	- [ ] Make long-term plans page (ideas that are not relevant now, but could be in the future)
 	- [ ] Update Player pages.
+	- [ ] Give Lise rewards for character art
+	- [ ] Give players rewards for engagement and backstory edits
 - [ ] Site
 	- [x] Styling Wiki column
 	- [x] Phone view (remove infobox sideline mode at X width)

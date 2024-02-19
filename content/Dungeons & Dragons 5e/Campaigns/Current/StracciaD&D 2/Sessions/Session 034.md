@@ -168,7 +168,7 @@ Rol 1d20. Bij een 11 of lager, wint [[Fumyss]] terein. Bij een 18 of hoger, wint
 ### Sterfgevallen
 Rol dan 1d10 : 2
 1. Generaal [[Fumyss]]
-2. [[Doreen Char]]
+2. [[Doreen Charr]]
 4. [[Charles de Dragoness]]
 5. [[Diederick de Dragoness]]
 6. [[Willemijn de Dragoness]]
@@ -190,9 +190,9 @@ Mogelijke methodes (Survival DC 14 group):
 | ---- | ---- | ---- | ---- | ---- |
 | [[Wilmide Ostver]] | 12 | Hijzelf, [[The Giant of Jaxos]] en zijn crew, plus 100 kruisboogman | [[Telack]] | Fumyss grens -2. |
 | [[Archbishop Ilro'he]] | 14 | Zijzelf, en persoonlijke druid-entourage van 12 man | [[Cape Rosa]] | Legioen grens -1. Brengt een [[Bloodwell Vial +1]] |
-| Verengordel | 15 | [[Joachim Scherp]] en zijn Ambergarde, plus [[Dohelyn Oseath]] en wat Baaneelvolk als logistiek werker   | [[Meqen]] | Legioen grens -2. |
-| [[Hall of Anew]] | 8 | [[Garrien Tinkerson]], [[Lord-Master Ligune]], [[Kelren Throst]], en [[Deleraya]]. | [[Cape Rosa]] | Legioen grens -1. |
-| [[Bartos de la Rosa]] | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers | [[Cape Rosa]] | Fumyss grens -3. |
-| [[Sabine Char]] | - | Zijzelf | [[Ayhwen Town]] | Nostalgie naar geboortestad.[^1] |
-| [[Wormbone family]] | 12 | [[Bulblin Wormbone]] op [[Bonehead]], [[Ghxarver Wormbone]], en 50 strijders. | Ergens in [[Bloeming Isles]] | [[Chris]] uitnodigen. |
-[^1]: [[Doreen Char]] leeft nog, en is bedelaar in [[Dragoness Barony]].
+| Verengordel | 15 | [[Joachim Scherp]] en zijn Ambergarde, plus Ziener Dohelyn Oseath en wat Baaneelvolk als logistiek werker   | [[Meqen]] | Legioen grens -2. |
+| [[Hall of Anew]] | 8 | [[Garrien Tinkerson]], [[Lord-Master Ligune]], Kelren Throst, en Deleraya. | [[Cape Rosa]] | Legioen grens -1. |
+| Bartos de la Rosa | 18 - 1 per ally | Hijzelf, 150 mariniers, en 50 logisitiek werkers | [[Cape Rosa]] | Fumyss grens -3. |
+| [[Sabine Charr]] | - | Zijzelf | [[Ayhwen Town]] | Nostalgie naar geboortestad.[^1] |
+| [[Wormbone family]] | 12 | [[Bulblin Wormbone]] op [[Bonehead]], Ghxarver Wormbone, en 50 strijders. | Ergens in [[Bloeming Isles]] | [[Chris]] uitnodigen. |
+[^1]: [[Doreen Charr]] leeft nog, en is bedelaar in [[Dragoness Barony]].

@@ -14,7 +14,7 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Rhayn |
+> | **Name** | Rhayn Heyns |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Race** | [[Half-Orc]] |  
@@ -22,10 +22,10 @@ tags:
 > | **Location** | [[Torpe]] |
 > | **Age** | 44 |
 > | **Languages** | Common, Orcish |  
-> | **Family** | - [[Robyn]] (daughter)<br>- [[Linzo]] (husband) |
+> | **Family** | - [[Robyn Heyns]] (daughter)<br>- [[Linzo]] (husband) |
 > | **Status** | Alive |
 
-**Rhayn** is a [[Half-Orc]] herbalist, and the mother of [[Robyn]]. As an NPC, she is played by [[Alex]].
+**Rhayn** is a [[Half-Orc]] herbalist, and the mother of [[Robyn Heyns]]. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

@@ -17,12 +17,16 @@ publish: true
 **The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. 
 # Members
 ## Current members
-- [[Carmine Char]], a Fire Genasi Cleric of Olvex
+- [[Carmine Charr]], a Fire Genasi Cleric of Olvex
 - [[Elisabeth de Dragoness]], a noble Tiefling Sorceress
 - [[Phillipa Vurrinir]], a runaway Elven Rogue
-- [[Robyn]], a Monk Half-Orc, and ex-circus act
+- [[Robyn Heyns]], a Monk Half-Orc, and ex-circus act
 - [[Roderick]], a cursed Half-Elf Warlock
-- [[Vimak Vaimei-Laga]], a traveling Goliath Paladin to [[Hevenar]]
+- [[Vimak Vaimei-Laga]], a traveling Goliath Palain to Hevenar
+
+| Carmine Charr | Elisabeth de Dragoness | Phillipa Vurrinir | Robyn Heyns | Roderick | Vimak Vaimei-Laga |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| ![[Carmine1.png\|200]] | ![[Elisabeth2.jpg\|200]] | ![[Phillipa1.jpg\|200]] | ![[Robyn2.jpg\|200]] | ![[Roderick1.png\|200]] | ![[Vimak1.png\|200]] |
 ## Previous members
 - [[Bulblin Wormbone]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
 - [[Kénos]], a Warforged holy Psi-Fighter

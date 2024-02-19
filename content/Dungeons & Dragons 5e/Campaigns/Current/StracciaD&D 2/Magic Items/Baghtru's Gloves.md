@@ -27,10 +27,10 @@ publish: true
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | [[Robyn]] |
+> | **Current** | [[Robyn Heyns]] |
 > | **Previous** | Civilization of [[Tezeder#Cgorvelon|Cgorvelon]] |
 
-**Baghtru's Gloves** are the 3rd [[Relics of Terror]] on Califhen, and consist out of bracers made out of a rare substance known as stonestring, woven into the wearers hands and wrists. The only known user of them is [[Robyn]].
+**Baghtru's Gloves** are the 3rd [[Relics of Terror]] on Califhen, and consist out of bracers made out of a rare substance known as stonestring, woven into the wearers hands and wrists. The only known user of them is [[Robyn Heyns]].
 ## Appearance
 > TODO: Looks description
 # Description

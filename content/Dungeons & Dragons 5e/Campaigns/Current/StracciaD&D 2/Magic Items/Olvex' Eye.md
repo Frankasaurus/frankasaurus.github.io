@@ -28,7 +28,7 @@ publish: true
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | [[Carmine Char]] |
+> | **Current** | [[Carmine Charr]] |
 > | **Previous** | [[Towers of Stendor]] |
 
 **Olvex' Eye** is a magical lantern that reveals secrets.

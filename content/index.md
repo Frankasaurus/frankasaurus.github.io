@@ -20,12 +20,13 @@ Check my [[TODO List StracciaD&D|To-do list]] for things I'm working on. Feel fr
 **Last Update:** *12 Jan 2024*
 
 The following pages have recently been updated, created, or made public:
-- [[Session Overview]] is completed
-- Fixed [[Lunar Sorcery]] issue.
+- Multiple NPC's!
+	- [[Wilmide Ostver]] and [[Keylin Ostver]]
+	- [[Lady Vethrines]]
+	- [[Sabine Charr]]
+	- [[Sultan Baaneel]]
+	- [[Joachim Scherp]]
+	- And a lot more that contain spoilers
 # Worldbuild with me!
 Wherever you see the following TODO message, or find a page that doesn't exist but should, feel free to give your own input, especially if it's an NPC or area you yourself feel like creating!
 > TODO: Something to do
-
-> [!info]
-> Some links might result in a 404 page. This means that the page isn't created yet. 
-> If you encounter any other issues, please notify me.

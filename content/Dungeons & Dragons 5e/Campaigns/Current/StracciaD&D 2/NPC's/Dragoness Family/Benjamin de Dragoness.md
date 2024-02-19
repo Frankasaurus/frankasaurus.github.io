@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Benjamin de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[BenjaminDeDragoness.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -49,10 +49,10 @@ publish: false
 ## Appearance
 Benjamin is of slender build, with darker red skin and a shorter nose than his brothers. He cut off one of his horns as an offer to [[Gestain]] during his time on [[Telack]] (as revealed in [[Session 022]]), but the other one remains intact, and curls down- and backwards. 
 ## Personality
-A devoted individual, Benjamin often seeks to pull at threads that lay before him, and follow them through the end. . Though he cherishes his family, he rarely agrees with his father, and spends most of his time bonding with his siblings.
+A devoted individual, Benjamin often seeks to pull at threads that lay before him, and follow them through the end. Though he cherishes his family, he rarely agrees with his father, and spends most of his time bonding with his siblings.
 # Biography
 Benjamin was the first after his older brother [[Amenadiel de Dragoness|Amenadiel]] to be told he was to join [[Kruziik'ahraan]]. Not wanting to be relinquished as bargaining chip in Xavion's trade for his kingdom, Benjamin fled the city, causing his father to panic, and Kruziik'ahraan to worry, resulting in the isolation of the city and the hiring of General [[Fumyss]] to keep the city at peace.  
 
-Hidden on what would be one of the last cargo ships to leave Dragoness, he left for [[Meqen]], being discovered halfway through the journey, not knowing who he was. The ship's captain had him work the decks for their next journey to [[Telack]], but [[The Featherbelt]] found out who he really was. This alerted [[Bartos de la Rosa]] and [[Wilmide Ostver]], leading to the [[Party]] tracking him towards Telack, but not before Benjamin made one more escape from his estate in Telack, to the island of [[Tezeder]].
+Hidden on what would be one of the last cargo ships to leave Dragoness, he left for [[Meqen]], being discovered halfway through the journey, not knowing who he was. The ship's captain had him work the decks for their next journey to [[Telack]], but [[The Featherbelt]] found out who he really was. This alerted Bartos de la Rosa and [[Wilmide Ostver]], leading to the [[Party]] tracking him towards Telack, but not before Benjamin made one more escape from his estate in Telack, to the island of [[Tezeder]].
 
 After failed attempts to contact any willing Deity to help him with his situation, [[Kruziik'ahraan]] arrived just as the Party wanted to bring him home, and abducted him. Similar to Amenadiel, Benjamin was then subjected to magic in order to keep him docile, and serve his new master as per the agreement with Xavion.

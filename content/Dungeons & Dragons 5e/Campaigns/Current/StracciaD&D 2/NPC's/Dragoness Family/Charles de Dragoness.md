@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Charles de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[CharlesDragoness.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

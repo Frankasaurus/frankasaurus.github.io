@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Willemijn de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[WillemijnDeDragoness.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

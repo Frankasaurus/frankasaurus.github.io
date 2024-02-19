@@ -1,33 +1,32 @@
 ---
 tags:
   - TODO
-publish:
+publish: true
 ---
 > [!infobox]  
-> # (NAME) 
-> ![[Image.jpg|cover hsmall]]  
+> # Lord-Master Ligune
+> ![[Ligune.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Type** | (NPC) |
+> | **Type** | NPC |
 > | **Player** | [[Alex]] |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | (FULL NAME)|
-> | **Aliases** | (LIST) |
-> | **Gender** | (GENDER) | 
-> | **Creature Type** | (HUMANOID OR SOMETHING) |
-> | **Race** | ((SUB)RACE) |  
+> | **Name** | Ligune |
+> | **Aliases** | Lord-Master |
+> | **Gender** | Male | 
+> | **Creature Type** | Humanoid |
+> | **Race** | [[Genasi]] (Water) |  
 > | **Occupation** | 18th [[Chosen of Olvex]] |  
-> | **Location** | (CURRENT LOCATION) |
-> | **Age** | (CURRENT AGE OR AGE OF DEATH) |
-> | **Languages** | Common ... |  
-> | **Family** | - Name (relation)<br>- Name (relation) |
-> | **Connections** | - Name (relation)<br>- Name (relation |
-> | **Status** | (ALIVE OR SMTH) |
+> | **Location** | [[Cape Rosa]] |
+> | **Age** | - 67 (biological)<br> - 1004 (since birth) |
+> | **Languages** | Common, Aquan, Elvish, Infernal |
+> | **Connections** | - [[Carmine Charr]] (student)<br>- [[Hall of Anew]] (member)<br>- [[Towers of Stendor]] (ex-master) |
+> | **Status** | Alive |
 
-(NAME) is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+**Lord-Master Ligune** is a [[Genasi#Water Genasi|Water Genasi]] religious leader of [[Olvex]], former master of the [[Towers of Stendor]], and former [[Chosen of Olvex]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
 > TODO: Description of appearance.

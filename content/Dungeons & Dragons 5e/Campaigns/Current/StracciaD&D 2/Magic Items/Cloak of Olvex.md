@@ -28,7 +28,7 @@ publish: true
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current** | [[Carmine Char]] |
+> | **Current** | [[Carmine Charr]] |
 > | **Previous** | Unknown [[Towers of Stendor]] resident |
 
 The **Cloak of Olvex** is a magical cloak buffs the wearer's defenses. 

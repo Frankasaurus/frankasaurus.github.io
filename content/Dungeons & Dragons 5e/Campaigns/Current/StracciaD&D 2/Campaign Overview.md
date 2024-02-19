@@ -11,9 +11,9 @@ For more details, please check out the main [[Party]] page.
 | ---- | ---- | ---- | ---- |
 | [[Alex]] | *Dungeon Master* |  |  |
 | [[Hanne]] | [[Phillipa Vurrinir]] | [[Elf]] (Wood) | [[Rogue]] ([[Thief]] Archetype) |
-| [[Kacper]] | [[Carmine Char]] | [[Genasi]] (Fire) | [[Cleric]] ([[Light]] Domain) |
+| [[Kacper]] | [[Carmine Charr]] | [[Genasi]] (Fire) | [[Cleric]] ([[Light]] Domain) |
 | [[Kim]] | [[Elisabeth de Dragoness]] | [[Tiefling]] | [[Sorcerer]] ([[Draconic Bloodline]] Sorcerous Origin) |
-| [[Lise]] | [[Robyn]] | [[Half-Orc]] | [[Monk]] (Way of the [[Astral Self]]) |
+| [[Lise]] | [[Robyn Heyns]] | [[Half-Orc]] | [[Monk]] (Way of the [[Astral Self]]) |
 | [[Melle]] | [[Roderick]] | [[Half-Elf]] (Wood) | [[Warlock]] (Pact of the [[Fiend]]) |
 | [[Roy]] | [[Vimak Vaimei-Laga]] | [[Giant]] | [[Paladin]] (Oath of [[Devotion]]) |
 ## Inactive & guests

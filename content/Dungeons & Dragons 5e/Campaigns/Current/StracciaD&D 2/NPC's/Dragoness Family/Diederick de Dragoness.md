@@ -22,7 +22,7 @@ publish: true
 ---
 > [!infobox]  
 > # Diederick de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[DiederickDeDragoness.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

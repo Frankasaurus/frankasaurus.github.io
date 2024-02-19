@@ -23,7 +23,7 @@ publish: true
 > | **Location** | With [[Mozelin Brown's Bazaar]], currently at [[Cape Rosa]] |
 > | **Age** | 303|
 > | **Languages** | Common, Dwarven, Elvish, Halfling |
-> | **Connections** | - [[Mozelin Brown's Bazaar]] (owner and proprietor)<br>- [[Robyn]] (ex-employer) |
+> | **Connections** | - [[Mozelin Brown's Bazaar]] (owner and proprietor)<br>- [[Robyn Heyns]] (ex-employer) |
 > | **Status** | Alive |
 
 Madame **Mozelin Brown** is a [[Dwarf|Dwarven]] Circus proprietor traveling through the [[Bloeming Isles]] with her circus, [[Mozelin Brown's Bazaar]]. As an NPC, she is played by [[Alex]].

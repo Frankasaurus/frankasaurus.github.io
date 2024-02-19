@@ -1,6 +1,6 @@
 ---
-tags:
-  - TODO
+tags: 
+publish:
 ---
 > [!info]
 > This document will be in Dutch as it is used in a session

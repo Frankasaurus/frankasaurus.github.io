@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Xavion de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[XavionDeDragoness.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

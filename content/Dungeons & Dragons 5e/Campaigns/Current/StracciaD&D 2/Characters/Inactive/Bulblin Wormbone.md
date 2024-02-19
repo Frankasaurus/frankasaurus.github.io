@@ -88,7 +88,7 @@ Weeks passed. Bulblin was well-acquainted with the deep woods and managed to hol
 # Character information
 ## Quests
 Bulblin is looking for his family, or whats left of it after the bugbear attack.
-One such person, [[Ghxarver Wormbone]] has been found, having established a small business in [[Cape Rosa]]. She told Bulblin that many have fled across the seas, dispersing towards Greyskil. 
+One such person, Ghxarver Wormbone has been found, having established a small business in [[Cape Rosa]]. She told Bulblin that many have fled across the seas, dispersing towards Greyskil. 
 Some of the fleeing Wormbone's were caught by servants of [[Sultan Baaneel]], whom Bulblin released and fled with while the [[Party]] were fighting the Sultan and his goons.
 ## Notable items
 - *List of items*

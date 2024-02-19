@@ -3,7 +3,7 @@ publish: false
 ---
 > [!infobox]  
 > # Fumyss 
-> ![[Image.jpg|cover hsmall]]  
+> ![[Fumyss.jpg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -13,7 +13,7 @@ publish: false
 > | | |  
 > |---|---|  
 > | **Name** | Fumyss |
-> | **Aliases** | General (in the ranks of [[Dragoness Barony|Dragoness Barony's]] Order Guard) |
+> | **Aliases** | General (in the ranks of [[Dragoness Barony]] Order Guard) |
 > | **Gender** | Male | 
 > | **Creature Type** | Fiend |
 > | **Race** | Blue Abishai |  

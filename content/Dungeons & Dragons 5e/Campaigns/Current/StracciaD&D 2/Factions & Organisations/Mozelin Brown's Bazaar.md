@@ -11,7 +11,7 @@ publish: true
 > | **Type** | Traveling Circus | 
 > | **Name** | Madame Mozelin Brown's Bazaar |
 > | **Location** | Around [[Bloeming Isles]] |
-> | **Connections** | - [[Robyn]] (ex-employee) |
+> | **Connections** | - [[Robyn Heyns]] (ex-employee) |
 
 **Mozelin Brown's Bazaar** is a traveling circus run by Madame [[Mozelin Brown]], hosting a maner of acts performed by individuals from all over [[Califhen]]. 
 # Members
@@ -27,6 +27,6 @@ publish: true
 - Bluebell and Blits (M), a clown duo.
 - [[Ruzo]], a half-orc dancer and acrobat.
 ## Previous members
-- [[Robyn]], a half-orc dancer and acrobat. Left to become an adventurer.
+- [[Robyn Heyns]], a half-orc dancer and acrobat. Left to become an adventurer.
 - [[Tijani]] (M), the floating and water-walking elephant. Killed for yet unknown reasons in [[Cape Rosa]].
 - [[Thex]], a half-orc bouncer. Died 2 years ago due to illness.

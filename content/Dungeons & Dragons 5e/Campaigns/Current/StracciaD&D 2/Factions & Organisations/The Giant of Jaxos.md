@@ -11,9 +11,9 @@ publish: true
 > | **Type** | Ship | 
 > | **Name** | The Giant of Jaxos |
 > | **Location** | [[Cape Rosa]] harbors |
-> | **Connections** | - [[Bartos de la Rosa]] (owner)<br>- [[Party]] (passengers / cargo) |
+> | **Connections** | - Bartos de la Rosa (owner)<br>- [[Party]] (passengers / cargo) |
 
-**The Giant of Jaxos** is a huge frigate owned by [[Bartos de la Rosa]], and used for long distance naval traversal, showboating, and defense (often in the role of a staging platform). The [[Party]] chartered the ship as passengers when transporting [[Keylin Ostver]] from [[Telack]] to [[Cape Rosa]] for the Bloeming Isles yearly debate.
+**The Giant of Jaxos** is a huge frigate owned by Bartos de la Rosa, and used for long distance naval traversal, showboating, and defense (often in the role of a staging platform). The [[Party]] chartered the ship as passengers when transporting [[Keylin Ostver]] from [[Telack]] to [[Cape Rosa]] for the Bloeming Isles yearly debate.
 # Members
 ## Current members
 | Role          | Name                          | Appearance                                 |

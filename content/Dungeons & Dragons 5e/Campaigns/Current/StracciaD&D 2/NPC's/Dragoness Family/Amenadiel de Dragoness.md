@@ -22,7 +22,7 @@ publish: false
 ---
 > [!infobox]  
 > # Amenadiel de Dragoness
-> ![[Image.jpg|cover hsmall]]  
+> ![[AmenadielDeDragoness.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  

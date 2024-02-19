@@ -30,7 +30,7 @@ publish:
 ## Appearance
 Dimure has a gentle younger smile, but sturdy physique. She has wavy blonde hair that runs past her shoulders and over her pointed ears, and often wears a white garb with golden decorations, topped off with a blue hooded mantle. 
 ## Personality
-> TODO: Description of personality.
+A confident character, it is rare to find Dimure in uncomfortable situations, or out of her element. She trusts in her and her patron's powers, but also knows that only she can channel this power. Her responsibility does not weigh on her, as she sees it as not just a calling, but the sole reason for doing. Because of this, she has no hobbies, and rarely rests.
 # Biography
 Dimure was a dedicated follower from her youth, and rose through the ranks methodically, never pressuring herself to exceed expercations, but simply giving it her best shot each and every time. Her calm collectiveness inspired many chapter of [[Olvex]] worship, including the [[Hall of Anew]], but her ferocity was not to be underestimated when it came down to acting as Holy warrior in her patron deity's name. Dimure was very powerful, and bombared dark powers with flame and light, though preferring to keep conflict away from civilization as much as possible, and routing out enemies in their lair to prevent incidents, rather than intervene when necessary.
 
