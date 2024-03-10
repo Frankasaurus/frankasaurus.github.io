@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Syfos
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Virtues** | (NPC) |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> | **Status** | (ACTIVE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
+> | **Type** | Greater Deity |
+> | **Title** | God of Emptyness & the Underdark |
+> | **Alias** | Detached Mask | 
+> | **Order** | Keepers |
+> | **Common Symbol** | A mouthless mask with 3 crossing chains holding it in place |
+> | **Allignment** | LE |
+> | **Home plane** | [[Hades]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Syfos, the Detached Mask** is The God of Emptyness & the Underdark. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

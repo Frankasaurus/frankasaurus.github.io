@@ -98,7 +98,7 @@ Your Wisdom score increases by 1.
 ### Incisive Sense
 You have advantage on Intelligence ([Investigation](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Investigation)) and Wisdom ([Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight)) checks.
 ### Blessing of the Moon Weaver
-You know the [[Light]] cantrip. When you reach 3rd level, you can cast the [[Sleep]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Invisibility]] spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn’t require material components. Wisdom is your spell­casting ability for these spells.
+You know the [[Dungeons & Dragons 5e/Source Material/Subclasses/Cleric/Light]] cantrip. When you reach 3rd level, you can cast the [[Sleep]] spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[Invisibility]] spell (targeting yourself only) once with this trait and regain the ability to do so when you finish a long rest. Casting these spells with this trait doesn’t require material components. Wisdom is your spell­casting ability for these spells.
 ***
 ## Aereni High Elf
 *Source: [[Wayfarer's Guide to Eberron]]*

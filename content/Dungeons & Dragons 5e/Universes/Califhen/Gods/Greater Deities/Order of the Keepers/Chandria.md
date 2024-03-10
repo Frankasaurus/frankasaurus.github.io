@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Chandria
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Virtues** | (NPC) |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> | **Status** | (ACTIVE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
+> | **Type** | Greater Deity |
+> | **Title** | Goddess of Change & Chaos |
+> | **Alias** | Changebringer | 
+> | **Order** | Keepers |
+> | **Common Symbol** | A timepiece intertwined with an upsidedown compas held between two hands |
+> | **Allignment** | CG |
+> | **Home plane** | [[Arborea]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Chandria, the Changebringer** is The Goddess of Change & Chaos. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Kentar
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
-> | **Virtues** | (ACTS, EMOTIONS) |
-> | **Status** | (ACTIVE/DORMANT) |
+> | **Type** | Greater Deity |
+> | **Title** | God of Hope & Courage |
+> | **Alias** | Sacrificed | 
+> | **Order** | Unproven |
+> | **Common Symbol** | A warhammer carved into a stone tower |
+> | **Allignment** | LN |
+> | **Home plane** |[[Ysgard]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Kentar, the Sacrificed** is The God of Hope & Courage. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

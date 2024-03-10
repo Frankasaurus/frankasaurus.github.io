@@ -1,8 +1,7 @@
 ---
 banner: "![[AegrenBg.jpeg]]"
 banner_y: 0.79734
-tags:
-  - TODO
+tags: []
 publish: true
 ---
 > [!infobox]
@@ -18,7 +17,7 @@ publish: true
 > | | |  
 > |---|---|  
 > | **Plane** | [[Material Plane]] ([[Califhen]]) |
-> | **Settlements** | - Palacina<br>- Yv Kuy'ivelo<br>- Sevenkings Outpost |
+> | **Settlements** | - [[Palacina]]<br>- [[Yv Kuy'ivelo]]<br>- [[Sevenkings Outpost]] |
 
 **Aegren** is the common Califhenic name for the Southern polar region. It is home only to creatures that can withstand extreme cold weather conditions, or those in established colonies like its capital, Palacina.
 

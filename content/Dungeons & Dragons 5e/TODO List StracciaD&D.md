@@ -35,11 +35,12 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [ ] Fill in deities (https://docs.google.com/spreadsheets/d/1kL_GAsXFvyZWS0PCWh66iQcTWpwKP86oMGCB4YrhBdc/edit?usp=sharing)
 		- [x] Paste template everywhere
 		- [x] Olvex
-		- [ ] Hevenar
-		- [ ] Izo
-		- [ ] All the others
+		- [x] Hevenar
+		- [x] Izo
+		- [x] All the others
 		- [ ] Add descriptions to some
 		- [ ] Add images
+		- [ ] Refactor some info (locations, names, titles, logos, etc)
 	- [ ] Revise Calendar system & notes.
 	- [ ] Revise origin story: [[The Origin of Califhen]].
 	- [ ] Revise Planes notes: [[A Modern Guide to Planes]]
@@ -95,15 +96,15 @@ Feel free to worldbuild with me! If you have a good idea of how a certain descri
 	- [x] Add a whackton of existing NPC's
 	- [ ] Make public / private versions for some NPC info in the same .md file
 	- [ ] Add (more) images
-	- [ ] Add NPC's from Act 1
-	- [ ] Add NPC's from Act 2
-	- [ ] Add NPC's from Act 3
+	- [ ] Add NPC's from all backstories
+	- [x] Add NPC's from Act 1
+	- [x] Add NPC's from Act 2
 	- [x] Write the entire story so-far per session [[Session Overview]]
 		- [x] Act 1
 		- [x] Act 2
 	- [ ] Update [[Party]] faction with general summary.
-	- [ ] Make long-term plans page (ideas that are not relevant now, but could be in the future)
-	- [ ] Update Player pages.
+	- [x] Make long-term plans page (ideas that are not relevant now, but could be in the future)
+	- [ ] Update Player pages
 	- [ ] Give Lise rewards for character art
 	- [ ] Give players rewards for engagement and backstory edits
 - [ ] Site

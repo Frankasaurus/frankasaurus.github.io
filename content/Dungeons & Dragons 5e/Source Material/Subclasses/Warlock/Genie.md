@@ -30,7 +30,7 @@ At 1st level, the Genie lets you choose from an expanded list of spells when you
 | 2nd | [[Phantasmal Force]] | [[Spike Growth]] | [[Gust of Wind]] | [[Scorching Ray]] | [[Blur]] |
 | 3rd | [[Create Food and Water]] | [[Meld into Stone]] | [[Wind Wall]] | [[Fireball]] | [[Sleet Storm]] |
 | 4th | [[Phantasmal Killer]] | [[Stone Shape]] | [[Greater Invisibility]] | [[Fire Shield]] | [[Control Water]] |
-| 5th | [[Creation]] | [[Wall of Stone]] | [[Seeming]] | [[Flame Strike]] | [[Cone of Cold]] |
+| 5th | [[Dungeons & Dragons 5e/Source Material/Spells/5th level/Creation\|Creation]] | [[Wall of Stone]] | [[Seeming]] | [[Flame Strike]] | [[Cone of Cold]] |
 | 9th | [[Wish]] | — | — | — | — |
 > TODO: Fix link to spell instead of subclass
 # Genie's Vessel

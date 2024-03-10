@@ -63,7 +63,7 @@ The creature is aware of this effect before it makes its attack against you.
 | ---- | ---- |
 | 3rd | [[Barkskin]], [[Spider Climb]] |
 | 5th | [[Call Lightning]], [[Plant Growth]] |
-| 7th | [[Divination]], [[Freedom of Movement]] |
+| 7th | [[Dungeons & Dragons 5e/Source Material/Spells/4th level/Divination\|Divination]], [[Freedom of Movement]] |
 | 9th | [[Commune with Nature]], [[Tree Stride]] |
 > TODO: Fix link to spell. Currently goes to subclass
 ## Grassland
@@ -71,7 +71,7 @@ The creature is aware of this effect before it makes its attack against you.
 | ---- | ---- |
 | 3rd | [[Invisibility]], [[Pass Without Trace]] |
 | 5th | [[Daylight]], [[Haste]] |
-| 7th | [[Divination]], [[Freedom of Movement]] |
+| 7th | [[Dungeons & Dragons 5e/Source Material/Spells/4th level/Divination\|Divination]], [[Freedom of Movement]] |
 | 9th | [[Dream]], [[Insect Plague]] |
 > TODO: Fix link to spell. Currently goes to subclass
 ## Mountain

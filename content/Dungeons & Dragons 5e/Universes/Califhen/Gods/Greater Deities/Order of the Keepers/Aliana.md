@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Aliana
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Virtues** | (NPC) |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> | **Status** | (ACTIVE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
+> | **Type** | Greater Deity |
+> | **Title** | Goddess of the Elements |
+> | **Alias** | Everchanging | 
+> | **Order** | Keepers |
+> | **Common Symbol** | Stylized elemental symbols interlinked |
+> | **Allignment** | CN |
+> | **Home plane** | The [[Elemental Planes]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Aliana, the Everchanging** is The Goddess of the Elements. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

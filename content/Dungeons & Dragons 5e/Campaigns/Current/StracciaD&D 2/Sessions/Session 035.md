@@ -18,7 +18,7 @@ Het Gala van [[Xavion de Dragoness]] om de macht van de [[Dragoness Family]] te 
 
 **Wanneer:** Nazomer, laat op de avond.
 **Waar:** Riool onder [[Dragoness Barony#Palace Grounds|Het Paleis]] van Baronie Dragoness. 
-**Doel sessie:** Belangrijk!
+**Doel sessie:** Party uit Baronie Dragoness, richting de ingang van [[#Cirdorim's Lair]].
 **Trivia:** [[Carmine Charr|Carmine]] maakte een insight check op Fumyss tijdens hun vluchtpoging, maar rolde laag. Een hogere rol had laten zien dat Fumyss alles onder controle had; dit is waar [[Kruziik'ahraan]] en Fumyss op hoopte.  
 # Onthouden
 - Elisabeth draagt de [[Mana Seal]], een cursed item die alle magie tegenhoudt (Goud met Diamant).

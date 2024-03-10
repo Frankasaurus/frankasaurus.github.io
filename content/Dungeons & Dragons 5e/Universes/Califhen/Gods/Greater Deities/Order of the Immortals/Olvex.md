@@ -3,28 +3,25 @@ publish: true
 ---
 
 > [!infobox]  
-> # Olvex, God of Creation 
+> # Olvex 
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
 > | **Type** | Greater Deity |
-> | **Title** | - Lifebringer<br>- The Inspiration |
+> | **Title** | God of Creation |
+> | **Alias** | Lifebringer |
 > | **Order** | Immortals |
-> | **Common Symbol** | A floating orb with two hands above and below it |
-> | **Gender** | Masculine |
+> | **Common Symbol** | A floating orb with a pair of hands above and below it |
 > | **Allignment** | LG |
 > | **Home plane** | [[Mount Celestia]] |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | Commoners, Expecting parents, Healers, Artists, Inventors |
-> | **Virtues** | Growth, Warmth, Construction, Art |
 > | **Status** | Active |
 
-**Olvex** is The God of Creation. As an NPC, he/she is played by [[Alex]].
+**Olvex, the Lifebringer** is The God of Creation. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
+> 
+> Also known as "The Inspiration"
 ## Appearance
 Olvex in humanoid form is often depicted as a short, greying, elderly elven man, wearing Immortal order robes. Perfect circles are also associated with Olvex in some instances, especially in abstract art.
 # Worship

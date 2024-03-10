@@ -1,6 +1,4 @@
 ---
-tags:
-  - TODO
 publish:
 ---
 > [!infobox]  
@@ -27,12 +25,8 @@ publish:
 **Raaf** is an Imp who used to be in service of the Yagnoloth in charge of [[Cirdorim's Lair]]. As an NPC, she is played by [[Alex]].
 # Description
 ## Appearance
-> TODO: Description of appearance.
+An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. Raaf in particular has an inky black palm pressed on his chest, as a mark to [[Tareok]].
 ## Personality
-> TODO: Description of personality.
+Raaf is a dim-witted by sympathetic being, always wanting to help any individual he finds. It was her own suggestion to help Sargenet, after other Baatezu refused to assist their old collegue and competition. 
 # Biography
-> TODO: What happened to them relevant to the story.
-# Relationships
-> TODO: Relations to other characters
-# Character information
-> TODO: Notable items, trivia, other details.
+Raaf was sent by [[Tareok]] from the [[Nine Hells]] to the Material Plane in order to find and assist [[Sargenet]] in helping his spirit reach his body. During this travel, Raaf got swept up in Astral Winds, and was blown off-course. She was then found and captured by Kobolds, and brought to [[Cirdorim's Lair]] as a priced posession.

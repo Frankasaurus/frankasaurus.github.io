@@ -1,6 +1,5 @@
 ---
-publish: 
-tags: []
+publish:
 ---
 > [!infobox]  
 > # Sargenet 
@@ -32,7 +31,7 @@ Whenever her soul takes shape or posesses another human, she prefers the opposit
 ## Personality
 Sargenet swings between confident and rash, especially now that she's in stasis and dependant on Roderick for influencing the world around her, as she had once just done herself. She grows frustrated by reckless positivity and lazyness. While not reveling in causing suffering itself, Sargenet is loyal to her duties and takes pleasure in pleasing her Lord [[Tareok]] by granting contracts to mortals. 
 # Biography
-Sargenet was acting at the behest of her Lord [[Tareok]] in closing pacts and gathering souls for her lord, which drew the attention of The 19th Chosen of Olvex, [[Dimure Los]]. After Dimure tracked Sargenet to her [[Tomb of the 19th Chosen|hideout]] in the Xembadyen Mountain Chain in central [[Greyskil]], the ensuing battle did not result in a decisive winner, with both being severely weakened and on their last legs. Dimure's sacrifice at the end of the battle, resulted in both of them going into stasis, with their bodies locked in the hideout. 
+Sargenet was a Baatezu acting at the behest of her Lord [[Tareok]] in closing pacts and gathering souls for her lord, which drew the attention of The 19th Chosen of Olvex, [[Dimure Los]]. After Dimure tracked Sargenet to her [[Tomb of the 19th Chosen|hideout]] in the Xembadyen Mountain Chain in central [[Greyskil]], the ensuing battle did not result in a decisive winner, with both being severely weakened and on their last legs. Dimure's sacrifice at the end of the battle, resulted in both of them going into stasis, with their bodies locked in the hideout. 
 
 After nearly 130 years, Sargenet's Soul - and that of Dimure - wormed her way out of Stasis thanks to her Lord, though weakened and lacking a material body. Being tossed into the Material Realm and randomly dropping in the The Wovens of [[Orphelica]] gave her limited options with limited time and limited bodies. After some failed attempts, [[Roderick]] unknowingly ended up settling to a proper Devil's pact, which gave her time and energy - and influence - to recover energy according to Roderick's actions. Together with her Lord she corrupted Dimure's soul to become [[Dimure Los#Eliëne|Eliëne]] - a puppet of Sargenet to influence Roderick.
 

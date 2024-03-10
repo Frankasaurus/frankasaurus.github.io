@@ -106,7 +106,7 @@ When you reach 2nd level, you choose an Arcane Tradition, shaping your practice 
 | [[Bladesinging]]     | [[Tasha's Cauldron of Everything]] |
 | [[Chronurgy]]        | [[Explorer's Guide to Wildemount]] |
 | [[Conjuration]]      | [[Player's Handbook]]              |
-| [[Divination]]       | [[Player's Handbook]]              |
+| [[Dungeons & Dragons 5e/Source Material/Subclasses/Wizard/Divination]]       | [[Player's Handbook]]              |
 | [[Enchantment]]      | [[Player's Handbook]]              |
 | [[Evocation]]        | [[Player's Handbook]]              |
 | [[Graviturgy]]       | [[Explorer's Guide to Wildemount]] |

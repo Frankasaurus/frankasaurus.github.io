@@ -1,24 +1,7 @@
 ---
-type: NPC
-campaign: StracciaD&D 2
-name_first: 
-name_last: 
-name_full: Kruziik'ahraan
-name_aka:
-  - "'Rana"
-creature_type: Dragon
-creature_race: Dragon
-creature_subrace: Bronze
-gender: Male
-age: 552
-location: Dragoness Barony
-occupation: Conquerer
-status: Alive
-languages:
-  - Common
-  - Draconic
-  - Infernal
-publish:
+publish: 
+tags:
+  - update
 ---
 > [!infobox]  
 > # Kruziik'ahraan "The Scar"

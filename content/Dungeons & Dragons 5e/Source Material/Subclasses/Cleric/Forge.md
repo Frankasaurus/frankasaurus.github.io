@@ -19,7 +19,7 @@ The **Forge** Domain is a [[Cleric]] subclass.
 | 3rd          | [[Heat Metal]], [[Magic Weapon]]                 |
 | 5th          | [[Elemental Weapon]], [[Protection from Energy]] |
 | 7th          | [[Fabricate]], [[Wall of Fire]]                  |
-| 9th          | [[Animate Objects]], [[Creation]]                |
+| 9th          | [[Animate Objects]], [[Dungeons & Dragons 5e/Source Material/Spells/5th level/Creation\|Creation]]                |
 > TODO: Fix creation link
 # Bonus Proficiencies
 When you choose this domain at 1st level, you gain proficiency with heavy armor and smith's tools.

@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Izo
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
-> | **Virtues** | (ACTS, EMOTIONS) |
-> | **Status** | (ACTIVE/DORMANT) |
+> | **Type** | Greater Deity |
+> | **Title** | Goddess of Shadow & Illness |
+> | **Alias** | Blight Queen | 
+> | **Order** | Revered |
+> | **Common Symbol** | A snake, circling around a square emerald |
+> | **Allignment** | NE |
+> | **Home plane** | [[Pandemonium]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Izo, the Blight Queen** is The Goddess of Shadow & Illness. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

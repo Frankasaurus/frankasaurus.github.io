@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Korhenevar
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
-> | **Virtues** | (ACTS, EMOTIONS) |
-> | **Status** | (ACTIVE/DORMANT) |
+> | **Type** | Greater Deity |
+> | **Title** | God of Magic |
+> | **Alias** | Arcane Overlord | 
+> | **Order** | Immortals |
+> | **Common Symbol** | 4 stars forming a square, with a wand overlapping a central star |
+> | **Allignment** | CN |
+> | **Home plane** | [[Bytopia]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Korhenevar, the Arcane Overlord** is The God of Magic. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

@@ -172,6 +172,13 @@ Als ze luid door de stad gaan, rol een D6 voor welke encounter;
 Spelers bepalen route en wat ze willen en hoe! Improv.
 ## 4.b Riool
 Als [[Diederick de Dragoness]] ze opvangt, is er een rioolput achter het staf-verblijf die leidt tot de buitenstadse Drake-stallen aan de oevers.
+Opmerkingen Riool:
+- Meeste is 15ft breed water met 5ft wandelpaden beide kanten, met een gebogen plafond. Af en toe een houten loopbrug.
+- Enorm goed onderhouden (check?) - Door de Goblins.
+- Water volgen -> Grens "Bronzen Greep" -> Zure geur neemt sterk toe, meerdere uniek gekleurde stromen vloeitstof mengen aan
+	- Vanaf hier water poisoneous
+- Gevechten boven!
+
 In het riool zijn 2 mogelijk encounters; **Een verstopte crimineel**, en een groepje **Werkende Kobolds.** De laatste is mogelijk combat.
 ### 4.b.i "Baggerkoning"
 De Baggerkoning (Volwassen Gnome Man, Russisch accent) is een kluizenaar die een van de hoogste prijzen van heel Greyskil op zijn hoofd heeft (4500gp).
@@ -185,10 +192,11 @@ De Baggerkoning (Volwassen Gnome Man, Russisch accent) is een kluizenaar die een
 Bezig met nieuwe riolering aanleggen onder Dragoness Baronie. Erg argwanend van de bezoekers.
 **Random iemand aan de tafel zien als een god / godin ("Waaauuuuww - mooooooi....")**
 - Zullen party naar hun leider willen brengen; 
-- 1x Rot Troll.
-- **1x Dire Troll (leader)**
-- clusters van Goblin archers
-> TODO: Maak coole battle map en combat encounter met Goblins die aanvullen.
+- **1x Dire Troll leader** (P. 246 MOTM)
+- 1x Rot Troll (p. 247 MOTM)
+- 1x Venom troll (p. 247 MOTM)
+- clusters van Goblin archers (30ft AC15 HP7 +4 hit 1d6+2p)
+![[DragonessSewers.png|600]]
 ### 4.b.iii Buitenkomst
 Eenmaal buiten: Twee oudere wachters, en drie 'herders' houden rustig toezicht. In de stal zijn 1d4 + 2 drakes aanwezig. Controle = Animal Handling DC 13 *(geen draconic spreken = disadvantage)*.
 # 5. Tournament

@@ -1,24 +1,22 @@
+---
+publish: true
+---
 > [!infobox]  
-> # (NAME) 
+> # Eknovaris
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
-> | **Virtues** | (ACTS, EMOTIONS) |
-> | **Status** | (ACTIVE/DORMANT) |
+> | **Type** | Greater Deity |
+> | **Title** | Goddess of Anger & Hate |
+> | **Alias** | Bringer of Malice |
+> | **Order** | Banished |
+> | **Common Symbol** | A downwards pointed mace, held with two hands |
+> | **Allignment** | NE |
+> | **Home plane** | [[Archeron]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Eknovaris, the Bringer of Malice** is The Goddess of Anger & Hate. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance
@@ -28,4 +26,3 @@
 ## Known worshippers
 > Todo: 
 > - List
-

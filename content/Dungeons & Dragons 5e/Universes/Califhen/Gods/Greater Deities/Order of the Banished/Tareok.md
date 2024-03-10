@@ -1,24 +1,23 @@
+---
+publish: true
+---
+
 > [!infobox]  
-> # (NAME) 
+> # Tareok
 > ![[Image.jpg|cover hsmall]]  
 > ###### Deity Information
 > | | |  
 > |---|---|  
-> | **Type** | (GREATER DEITY) |
-> | **Title** | - Title<br>- Title |
-> | **Order** | (NPC) |
-> | **Common Symbol** | (DECRIPTION) |
-> | **Gender** | (MASCULINE) |
-> | **Allignment** | (LE) |
-> | **Home plane** | (HOME PLANE) |
-> ###### Worship
-> | | |  
-> |---|---|  
-> | **Worshippers** | (RACES / FOLK)|
-> | **Virtues** | (ACTS, EMOTIONS) |
-> | **Status** | (ACTIVE/DORMANT) |
+> | **Type** | Greater Deity |
+> | **Title** | Goddess of Evil & Harm |
+> | **Alias** | Bringer of Suffering | 
+> | **Order** | Banished |
+> | **Common Symbol** | Fingerbones, clasping an unspecific staff/rod |
+> | **Allignment** | LE |
+> | **Home plane** | [[Abyss]] |
+> | **Status** | Active |
 
-**(NAME)** is The (GOD OF). As an NPC, he/she is played by [[Alex]].
+**Tareok** is The Goddess of Evil & Harm. As an NPC, they are played by [[Alex]].
 # Description
 > Todo: Description of what they're associated with, whom typically worship them, and perhaps the most important fact.
 ## Appearance

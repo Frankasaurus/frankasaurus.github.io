@@ -96,7 +96,7 @@ At 3rd level, you delve into the advanced techniques of a bard college of your c
 
 |College|Source|
 |---|---|
-|[[Creation]]|[[Tasha's Cauldron of Everything]]|
+|[[Dungeons & Dragons 5e/Source Material/Subclasses/Bard/Creation]]|[[Tasha's Cauldron of Everything]]|
 |[[Eloquence]]|[[Tasha's Cauldron of Everything]]|
 |[[Glamour]]|[[Xanathar's Guide to Everything]]|
 |[[Lore]]|[[Player's Handbook]]|

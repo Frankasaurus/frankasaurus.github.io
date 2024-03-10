@@ -48,7 +48,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 ### Healing Hands
 As an action, you can touch a creature and roll a number of d4s equal to your proficiency bonus. The creature regains a number of hit points equal to the total rolled. Once you use this trait, you can’t use it again until you finish a long rest.
 ### Light Bearer
-You know the [[Light]] cantrip. Charisma is your spellcasting ability for it.
+You know the [[Dungeons & Dragons 5e/Source Material/Subclasses/Cleric/Light]] cantrip. Charisma is your spellcasting ability for it.
 ### Celestial Revelation
 When you reach 3rd level, choose one of the revelation options below. Thereafter, you can use a bonus action to unleash the celestial energy within yourself, gaining the benefits of that revelation. Your transformation lasts for 1 minute or until you end it as a bonus action. Once you transform using your revelation below, you can’t use it again until you finish a long rest:
 
@@ -78,7 +78,7 @@ You have resistance to necrotic damage and radiant damage.
 ### **Healing Hands** 
 As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest.
 ### **Light Bearer** 
-You know the [[Light]] cantrip. Charisma is your spellcasting ability for it.
+You know the [[Dungeons & Dragons 5e/Source Material/Subclasses/Cleric/Light]] cantrip. Charisma is your spellcasting ability for it.
 ### **Languages** 
 You can speak, read, and write Common and Celestial.
 ### **Subrace** 

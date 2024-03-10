@@ -1,5 +1,4 @@
 ---
-tags: 
 publish: true
 ---
 > [!infobox]  

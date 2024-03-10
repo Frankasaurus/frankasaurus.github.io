@@ -11,11 +11,11 @@ For more details, please check out the main [[Party]] page.
 | ---- | ---- | ---- | ---- |
 | [[Alex]] | *Dungeon Master* |  |  |
 | [[Hanne]] | [[Phillipa Vurrinir]] | [[Elf]] (Wood) | [[Rogue]] ([[Thief]] Archetype) |
-| [[Kacper]] | [[Carmine Charr]] | [[Genasi]] (Fire) | [[Cleric]] ([[Light]] Domain) |
+| [[Kacper]] | [[Carmine Charr]] | [[Genasi]] (Fire) | [[Cleric]] ([[Dungeons & Dragons 5e/Source Material/Subclasses/Cleric/Light]] Domain) |
 | [[Kim]] | [[Elisabeth de Dragoness]] | [[Tiefling]] | [[Sorcerer]] ([[Draconic Bloodline]] Sorcerous Origin) |
 | [[Lise]] | [[Robyn Heyns]] | [[Half-Orc]] | [[Monk]] (Way of the [[Astral Self]]) |
 | [[Melle]] | [[Roderick]] | [[Half-Elf]] (Wood) | [[Warlock]] (Pact of the [[Fiend]]) |
-| [[Roy]] | [[Vimak Vaimei-Laga]] | [[Giant]] | [[Paladin]] (Oath of [[Devotion]]) |
+| [[Roy]] | [[Vimak Vaimei-Laga]] | [[Goliath]] | [[Paladin]] (Oath of [[Devotion]]) |
 ## Inactive & guests
 | Player | Character | Race | Class |
 | ---- | ---- | ---- | ---- |
@@ -24,10 +24,9 @@ For more details, please check out the main [[Party]] page.
 ## Calendar
 | Date / Time | Occasion | Location |
 | ---- | ---- | ---- |
-| 11 Feb '24 @ 12:00 | Session 035 | Melle & Kim |
-| 10 Mar '24 @ 12:00 | Session 036 | Alex & Lise |
-| 14 Apr '24 @ 12:00 | Session 037 | *T.b.d.* |
-| 12 May '24 @ 12:00 | Session 038 | *T.b.d.* |
+| 10 Mar '24 @ 12:00 | Session 035 | Alex & Lise |
+| 14 Apr '24 @ 12:00 | Session 036 | *T.b.d.* |
+| 12 May '24 @ 12:00 | Session 037 | *T.b.d.* |
 | ??? | Final battle Satna OneShot | *T.b.d.* |
 ***
 # Summary

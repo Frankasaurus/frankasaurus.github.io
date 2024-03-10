@@ -24,8 +24,8 @@ publish: true
 - [[Roderick]], a cursed Half-Elf Warlock
 - [[Vimak Vaimei-Laga]], a traveling Goliath Palain to Hevenar
 
-| Carmine Charr | Elisabeth de Dragoness | Phillipa Vurrinir | Robyn Heyns | Roderick | Vimak Vaimei-Laga |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| Carmine Charr          | Elisabeth de Dragoness   | Phillipa Vurrinir       | Robyn Heyns          | Roderick                | Vimak Vaimei-Laga    |
+| ---------------------- | ------------------------ | ----------------------- | -------------------- | ----------------------- | -------------------- |
 | ![[Carmine1.png\|200]] | ![[Elisabeth2.jpg\|200]] | ![[Phillipa1.jpg\|200]] | ![[Robyn2.jpg\|200]] | ![[Roderick1.png\|200]] | ![[Vimak1.png\|200]] |
 ## Previous members
 - [[Bulblin Wormbone]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]

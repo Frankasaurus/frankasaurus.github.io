@@ -25,8 +25,7 @@ The Celestial lets you choose from an expanded list of spells when you learn a w
 | 4th | [[Guardian of Faith]], [[Wall of Fire]] |
 | 5th | [[Flame Strike]], [[Greater Restoration]] |
 # Bonus Cantrips
-At 1st level, you learn the [[Light]] and [[Sacred Flame]] cantrips. They count as warlock cantrips for you, but they don’t count against your number of cantrips known.
-> TODO: Fix link to spell instead of subclass
+At 1st level, you learn the [[Dungeons & Dragons 5e/Source Material/Spells/Cantrips/Light|Light]] and [[Sacred Flame]] cantrips. They count as warlock cantrips for you, but they don’t count against your number of cantrips known.
 # Healing Light
 At 1st level, you gain the ability to channel celestial energy to heal wounds. You have a pool of d6s that you spend to fuel this healing. The number of dice in the pool equals 1 + your warlock level.
 

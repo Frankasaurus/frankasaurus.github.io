@@ -1,4 +1,4 @@
-##  (2024-01-31)
+##  (2024-03-09)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -129,5 +129,16 @@
 *  Added Artificer Infusion list *(Frankasaurus)*
 *  Added NPC information for Baaneel, Sargenet, Dimure Los *(Frankasaurus)*
 *  Added Wilmide, Sabine, Dimure NPC pages *(Frankasaurus)*
+*  Edited some NPC's, added a bunch of images *(Frankasaurus)*
+*  Updated locations *(Frankasaurus)*
+*  Some final preparations for Session 35 *(Frankasaurus)*
+*  Added mooooore NPC's *(Frankasaurus)*
+*  Removed some empty NPC pages and filled Olvex' worshippers pages *(Frankasaurus)*
+*  Lots of tiny fixes *(Frankasaurus)*
+*  Meeting notes Melle *(Frankasaurus)*
+*  Finished preparing Session 35 *(Frankasaurus)*
+*  Added all deities basic information *(Frankasaurus)*
+*  Edited combat a bit for session 35 *(Frankasaurus)*
+*  Create Types of Players.md *(Frankasaurus)*
 
 

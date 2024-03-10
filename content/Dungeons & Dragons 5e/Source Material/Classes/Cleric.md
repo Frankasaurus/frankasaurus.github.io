@@ -85,7 +85,7 @@ At 1st level, you choose a domain shaped by your choice of Deity and the gifts t
 | [[Grave]]     | [[Xanathar's Guide to Everything]] |
 | [[Knowledge]] | [[Player's Handbook]]              |
 | [[Life]]      | [[Player's Handbook]]              |
-| [[Light]]     | [[Player's Handbook]]              |
+| [[Dungeons & Dragons 5e/Source Material/Subclasses/Cleric/Light]]     | [[Player's Handbook]]              |
 | [[Nature]]    | [[Player's Handbook]]              |
 | [[Order]]     | [[Tasha's Cauldron of Everything]] |
 | [[Peace]]     | [[Tasha's Cauldron of Everything]] |

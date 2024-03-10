@@ -36,5 +36,3 @@ His then-girlfriend, later wife, [[Doreen Charr]] and Jules were interested in e
 To the end Jules prioritised his relationship with Doreen over everything else, even as high-ranking individual in the resistance. 
 ### Ingrid Solt
 When Olvex still had active worshippers in [[Dragoness Barony]], [[Ingrid Solt]] was the chapter leader, and due to his prominence in the resistance, he kept close ties with both Ingrid and other spiritual leader. Tough they often clashed, he trusted her with his life, resulting in Jules Sr. trusting Ingrid with bringing a todler [[Sabine Charr]] and baby [[Carmine Charr]] to safety in the [[Bloeming Isles]] before his family's persecution. 
-# Character information
-> TODO: Notable items, trivia, other details.

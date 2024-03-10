@@ -1,22 +1,17 @@
 ---
-tags: update
+publish: false
 ---
 > [!infobox]  
-> # `=this.name_first` `=this.name_last`
+> # NAMENAME
 > ![[Image.jpg|cover hsmall]]  
-> ###### Base Info
-> | | |  
-> |---|---|  
-> | **Type** | `= this.type` |
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | `= this.name_full` |
-> | **Status** | `=this.status` |
-> | **Campaigns** | `=this.campaigns` |
-> | **Characters** | `=this.characters` |
+> | **Name** | NAMEFULL |
+> | **Campaigns** | CAMPS (SYSTEM) |
+> | **Characters** | CHARS |
 
-`=this.name_first` is a player in `=this.campaign`, and plays `=this.characters_current`.
+NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
 # Characters
 ## Main campaigns
 - Character, race class (campaign)

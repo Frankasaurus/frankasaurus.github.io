@@ -18,18 +18,18 @@ publish: true
 > | **Aliases** | Mentore (by [[Hall of Anew]]) |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Race** | [[Gnome]] (Lightfoot) |  
-> | **Occupation** | Head priest & mentor of the Hall of Anew |  
+> | **Race** | [[Gnome]] (Forest) |  
+> | **Occupation** | Mentor and traveler |  
 > | **Location** | [[Cape Rosa]] |
 > | **Age** | ~230 years |
 > | **Languages** | Common, Gnomish, Dwarvish, Elvish, Infernal |
-> | **Connections** | - [[Hall of Anew]] (member)<br>- [[Carmine Charr]] (ex-student) |
+> | **Connections** | - [[Hall of Anew]] (acquintance)<br>- [[Carmine Charr]] (ex-student) |
 > | **Status** | Alive |
 
-Mentore **Garrien Tinkerson** is a Gnome Cleric and the head priest of the [[Hall of Anew]]. As an NPC, he is played by [[Alex]].
+**Garrien Tinkerson** is a Gnome Cleric and friend of the [[Hall of Anew]], as well as the mentor to [[Carmine Charr]]. As an NPC, he is played by [[Alex]].
 # Description
 ## Appearance
-> TODO: Description of appearance.
+Garrien is a stocky [[Gnome#Forest Gnome|Forest Gnome]]. 
 ## Personality
 > TODO: Description of personality.
 # Biography

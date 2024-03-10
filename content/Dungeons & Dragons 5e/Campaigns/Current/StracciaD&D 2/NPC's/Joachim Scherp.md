@@ -1,5 +1,4 @@
 ---
-tags: 
 publish: true
 ---
 > [!infobox]  
@@ -21,7 +20,7 @@ publish: true
 > | **Occupation** | Principale of [[Meqen]] |  
 > | **Location** | [[Meqen]] |
 > | **Age** | ~500 |
-> | **Languages** | Common ... |  
+> | **Languages** | Common, Elvish |  
 > | **Connections** | - [[Wilmide Ostver]] (friend & collegue) <br>- [[The Featherbelt]] (co-rulers of [[Meqen]]) |
 > | **Status** | Alive |
 
