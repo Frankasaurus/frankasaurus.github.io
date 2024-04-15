@@ -3,14 +3,14 @@ name: Build and Test
 on:
   pull_request:
     branches:
-      - v4
+      - main
   push:
     branches:
-      - v4
+      - main
 
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'Frankasaurus/frankasaurus.github.io' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
@@ -47,7 +47,7 @@ jobs:
         run: npx quartz build --bundleInfo
 
   publish-tag:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
+    if: ${{ github.repository == 'Frankasaurus/frankasaurus.github.io' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
