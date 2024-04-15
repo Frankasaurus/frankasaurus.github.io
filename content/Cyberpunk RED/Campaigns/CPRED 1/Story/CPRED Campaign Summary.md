@@ -1,0 +1,1 @@
+**Cyberpunk RED** takes place in they year 2045, in [[Night City]] along the West Coast of what we know as the United States of America. This compaign follows the adventures of the [[New mercs]].
