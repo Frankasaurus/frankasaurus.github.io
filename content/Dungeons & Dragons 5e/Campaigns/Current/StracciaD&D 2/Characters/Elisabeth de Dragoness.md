@@ -36,7 +36,7 @@ publish: true
 ---
 > [!infobox]  
 > # Elisabeth de Dragoness
-> ![[Elisabeth2.jpg|cover hsmall]]  
+> ![[Elisabeth3.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -72,6 +72,8 @@ publish: true
 Elisabeth is a young adult bronze-skinned [[Tiefling]]. Like other members of the [[Dragoness Family]], parts of her skin are covered with segments of dark orange scales. She's of slender build, and has green lizard-like eyes. Two horns protrude from her forehead, wrapping backwards over her head and dark-colored hair.
 
 Elisabeth is often dressed in modest noble clothing, including a large cloak designed to somewhat obscure both her heritage and wealth, though the cloak is also addorned with a silver emblem om the [[Dragoness Family]]. 
+
+> ![[Elisabeth2.jpg|200]]
 ## Personality
 Her noble personality makes Elisabeth excel in difficult to navigate social encounters, often shutting down arguments with ruthless passive aggressiveness. She is not opposed to using her heritage in arguments, and often puts pride before gains. She will defend and stand up to those that have deserved it, either implicitly through status, or explicitly through helping her in return.
 # Biography

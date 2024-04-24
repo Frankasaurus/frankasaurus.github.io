@@ -35,7 +35,7 @@ publish: true
 ---
 > [!infobox]  
 > # Carmine Charr
-> ![[Carmine1.png|cover hsmall]]  
+> ![[Carmine2.png]]  
 >###### Base Info
 > | | |  
 > |---|---|  
@@ -71,6 +71,8 @@ publish: true
 Carmine is a red-skinned, orange-haired humanoid, like most fire [[Genasi]]. His hair is kept short at the sides, but swept back up top. His eyes are typically fire-y red, nearly glowing when looked at in the dark. He is of average height and build.
 
 His clothes are a mixture of green and brown, with the white-and-blue [[Cloak of Olvex|Cloak of Olvex]] adorning his back. His spellcasting focus - and amulet of Olvex - is prominently hung from his neck. He also uses a regular shield on occasion. 
+
+> ![[Carmine1.png|200]]
 ## Personality
 Carmine tends to approach things thoughtfully, and likes to be aware of his situation. He often draws responsibility unto himself, and takes that responsibility seriously, like when he was a Carpenter on the [[The Bonehead]]. Beyond this, Carmine's wants to see the world, which is reflected on his desire to spread the word of [[Olvex]] through travels.
 Despite this, he's also known to enjoy the simpler things in life. Carmine laughs often, and is an avid fisher.

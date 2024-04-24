@@ -37,7 +37,7 @@ publish: true
 ---
 > [!infobox]  
 > # Vimak Vaimei-Laga
-> ![[Vimak2.png|cover hsmall]] 
+> ![[Vimak3.png|cover hsmall]] 
 > ###### Base Info
 > | | |  
 > |---|---|  

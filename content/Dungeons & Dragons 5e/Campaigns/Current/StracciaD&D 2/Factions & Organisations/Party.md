@@ -5,7 +5,7 @@ publish: true
 ---
 > [!infobox]  
 > # Party
-> ![[Image.jpg|cover hsmall]]  
+> ![[Partyimage2.png]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -14,25 +14,27 @@ publish: true
 > | **Location** | Originally from [[Bloeming Isles]]. Currently traveling throughout [[Greyskil]] |
 > | **Connections** | - [[Dragoness Family]] (Relation)<br>- [[The Bonehead]] (Crew)<br>- [[Wilmide Ostver]] (Ally) |
 
-**The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. 
-# Members
-## Current members
-- [[Carmine Charr]], a Fire Genasi Cleric of Olvex
-- [[Elisabeth de Dragoness]], a noble Tiefling Sorceress
-- [[Phillipa Vurrinir]], a runaway Elven Rogue
-- [[Robyn Heyns]], a Monk Half-Orc, and ex-circus act
-- [[Roderick]], a cursed Half-Elf Warlock
-- [[Vimak Vaimei-Laga]], a traveling Goliath Palain to Hevenar
-
-| Carmine Charr          | Elisabeth de Dragoness   | Phillipa Vurrinir       | Robyn Heyns          | Roderick                | Vimak Vaimei-Laga    |
-| ---------------------- | ------------------------ | ----------------------- | -------------------- | ----------------------- | -------------------- |
-| ![[Carmine1.png\|200]] | ![[Elisabeth2.jpg\|200]] | ![[Phillipa1.jpg\|200]] | ![[Robyn2.jpg\|200]] | ![[Roderick1.png\|200]] | ![[Vimak1.png\|200]] |
-## Previous members
-- [[Bulblin Wormbone]], a Goblin Beastmaster Ranger, with his buddy [[Bonehead]]
-- [[Kénos]], a Warforged holy Psi-Fighter
+**The Party** is an (as of yet nameless) adventuring party, originating from the harbor of [[Telack]]. They were pivotal in the freeing of the forgotten Baaneel Peoples from [[Sultan Baaneel]], and are currently fighting to stop the Civil War of [[Dragoness Barony]].
 # Journey
 *A session-by-session rundown is available [[Session Overview|here]].*
-## Chapter 1
+## Chapter 1 - The Sultan's Treasure
 >TODO: [[Keylin Ostver]] & exploring [[Bloeming Isles]]
-## Chapter 2
+## Chapter 2 - Finding Benjamin
 >TODO: Finding [[Benjamin de Dragoness]] & return to [[Dragoness Barony]] & [[Greyskil]].
+## Chapter 3 - Dragoness Burns
+> TODO: The [[Dragoness Barony]] Civil War
+# Members
+## Current members
+
+| Name                       | Race                | Class                   | Origin                                            |
+| -------------------------- | ------------------- | ----------------------- | ------------------------------------------------- |
+| [[Carmine Charr]]          | [[Genasi]] (Fire)   | [[Cleric]] (Light)      | Raised in [[Cape Rosa]] on the [[Bloeming Isles]] |
+| [[Elisabeth de Dragoness]] | [[Tiefling]]        | [[Sorcerer]] (Draconic) | [[Dragoness Barony]] in [[Greyskil]]              |
+| [[Phillipa Vurrinir]]      | [[Elf]] (Wood)      | [[Rogue]] (Thief)       | Unknown, but joined in [[Meqen]]                  |
+| [[Robyn Heyns]]            | [[Half-Orc]]        | [[Monk]] (Astral Self)  | [[Torpe]] in [[Uurogh]]                           |
+| [[Roderick]]               | [[Half-Elf]] (Wood) | [[Warlock]] (Fiend)     | The Wovens in [[Orphelica]]                       |
+| [[Vimak Vaimei-Laga]]      | [[Goliath]]         | [[Paladin]] (Devotion)  | Devostina Alps of [[Nizakun]]                     |
+![[PartyImage.png]]
+## Previous members
+- [[Bulblin Wormbone]], a [[Goblin]] Beastmaster [[Ranger]], with his buddy [[Bonehead]]
+- [[Kénos]], a [[Warforged]] holy Psi-[[Fighter]]

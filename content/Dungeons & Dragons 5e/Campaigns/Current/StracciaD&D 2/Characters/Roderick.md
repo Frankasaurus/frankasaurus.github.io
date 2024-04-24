@@ -35,7 +35,7 @@ publish: true
 ---
 > [!infobox]  
 > # Roderick
-> ![[Roderick1.png|cover hsmall]]  
+> ![[Roderick2.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -72,6 +72,8 @@ Roderick is a [[Half-Elf]] of shorter stature, with pointy ears and a very sligh
 As a [[Warlock]] doesn't wear armor, but does outfit himself with large boots, brown pants, and a loose fitting shirt most days, though he has shown signs of wanting to wear more official clothing when acting as First Mate on [[The Bonehead]].
 ## Personality
 Roderick is the most chipper and talkative member of the party, with him usually involved in every conversation there is. He likes to learn, and asks a lot of questions, which is partially caused by his relatively secluded upbringing. He also tends to get himself into trouble, both accidentally and and purpose, as is seen in his relationship with his Warlock [[Sargenet|Patron]].
+
+> ![[Roderick1.png|200]]
 # Biography
 ## Before the campaign
 When he grew up, Roderick lived alone for most of his life - with the exception of his parents - in the woods of Northern [[Orphelica]]; The Wovens. He did however encounter many strangers during his time there, mostly wanderers of lost souls who needed a hand getting to their destination. Most days, however, it was just him, his father, and his mother. 

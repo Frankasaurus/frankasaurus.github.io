@@ -35,7 +35,7 @@ publish: true
 ---
 > [!infobox]  
 > # Robyn
-> ![[Robyn2.jpg|cover hsmall]]  
+> ![[Robyn3.png|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -71,6 +71,8 @@ Robin is a muscular, relatively slender half-orc woman. Due to her heritage, her
 
 Thanks to her years in the circus, she wears colorful but practical clothing, mainly consisting out of loose striped pants, foot-wraps, and a short sleeveless top.
 Her neck and wrists are adorned with a smattering of custom-made jewelry, mostly consisting out of rope, leather, wood, shells, pearls, stones, and even teeth. Though not worn anymore, she used to have [[Medallion of Tijani's Hurt|Tijani's Medalion]] worn around her neck as well, before she snapped the cord.
+
+> ![[Robyn2.jpg|200]]
 ## Personality
 > TODO: [[Lise]] wants to re-write this
 # Biography
