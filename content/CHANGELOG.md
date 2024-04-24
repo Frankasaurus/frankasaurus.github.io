@@ -1,4 +1,4 @@
-##  (2024-04-05)
+##  (2024-04-24)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -147,5 +147,9 @@
 *  Published player pages *(Frankasaurus)*
 *  Update .gitignore *(Frankasaurus)*
 *  Update .gitignore *(Frankasaurus)*
+*  Edited magic items *(Frankasaurus)*
+*  Prepped Session 37 *(Frankasaurus)*
+*  Updated all plugins *(Frankasaurus)*
+*  random fixes *(Frankasaurus)*
 
 

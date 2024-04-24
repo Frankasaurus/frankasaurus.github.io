@@ -40,11 +40,9 @@ These cursed gauntlets, made of a thin, yet flexible metal and bone plating, are
 Once per long rest, the wielder can use a bonus action to charge the gloves with up to 5 of their own hit points. On the next strike against a creature, the amount of hit points the gauntlets have been charged with deal twice their amount in Force damage to it. In addition, the wielder gains the Siege effect of being able to deal double damage against objects and structures.  
   
 The only way to remove the gloves from the wielder, would be with the Dispel Curse spell.
-
->[!warning]- Spoiler
->## Resonant state
-> TODO
-> ## Surged state
-> TODO
+## Resonant state
+*To be discovered...*
+## Surged state
+*To be discovered...*
 
 
