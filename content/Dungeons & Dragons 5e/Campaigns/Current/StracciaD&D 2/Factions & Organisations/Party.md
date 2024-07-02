@@ -34,6 +34,7 @@ publish: true
 | [[Robyn Heyns]]            | [[Half-Orc]]        | [[Monk]] (Astral Self)  | [[Torpe]] in [[Uurogh]]                           |
 | [[Roderick]]               | [[Half-Elf]] (Wood) | [[Warlock]] (Fiend)     | The Wovens in [[Orphelica]]                       |
 | [[Vimak Vaimei-Laga]]      | [[Goliath]]         | [[Paladin]] (Devotion)  | Devostina Alps of [[Nizakun]]                     |
+
 ![[PartyImage.png]]
 ## Previous members
 - [[Bulblin Wormbone]], a [[Goblin]] Beastmaster [[Ranger]], with his buddy [[Bonehead]]

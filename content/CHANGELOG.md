@@ -1,4 +1,4 @@
-##  (2024-07-01)
+##  (2024-07-02)
 
 [View Release](https://github.com/Frankasaurus/My-Obsidian-Vault.git/commits/tag/)
 
@@ -153,5 +153,7 @@
 *  random fixes *(Frankasaurus)*
 *  Reset *(Frankasaurus)*
 *  Prep session 38 *(Frankasaurus)*
+*  Fixed Party and Session summary pages *(Frankasaurus)*
+*  Updated index *(Frankasaurus)*
 
 
