@@ -1,6 +1,6 @@
 ---
 publish: true
-tags: []
+tags:
 ---
 # StracciaD&D Campaign 2
 **Campaign 2** is the second StracciaD&D Campaign. It started on the 19e of Weledrus, 9963 on the continent of The [[Bloeming Isles]], and has since progressed into [[Greyskil]]. 

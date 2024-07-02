@@ -15,3 +15,4 @@ SORT file.name ASC
 ```
 https://www.dndbeyond.com/sources/xgte/awarding-magic-items
 https://www.kassoon.com/dnd/5e/magic-item-prices/
+

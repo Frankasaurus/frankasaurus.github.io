@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 ---
 
 > [!infobox]  
@@ -16,12 +16,12 @@ publish: false
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | Nobody, stored in [[Cirdorim's Lair]] |
-> | **Previous owners** | *Tergon the Protector* |
+> | **Current owner** | The [[Party]] (currently [[Robyn Heyns]]) |
+> | **Previous owners** | *Tergon the Protector*, stored in [[Cirdorim's Lair]] |
 
 The **Blue Dragon Scale Mail** is a magical set of armor. It imbues the wearer with a protection specfic to the dragon's hide that was used in creating the armor.
 # History
-The previous owner was Tergon the Protector, the Half-Dragon herald of [[Cirdorim's Lair|Fin Okaaz Hoffkin]], before perishing for unknown reasons and leaving the armor to rest in the lair in a secret room.
+The previous owner was Tergon the Protector, the Half-Dragon herald of [[Cirdorim's Lair|Fin Okaaz Hoffkin]], before perishing for unknown reasons and leaving the armor to rest in the lair in a secret trapped reading room.
 # Description
 Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them to humanoids. Other times, hunters carefully skin and preserve the hide of a dead dragon. In either case, dragon scale mail is highly valued.
 
