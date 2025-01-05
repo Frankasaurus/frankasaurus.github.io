@@ -1,3 +1,8 @@
+---
+publish: true
+tags:
+  - sukkelbergdnd-3
+---
 # Sessie 1
 Dit verhaal begint op het eiland Cogastr, een gevangeniseiland onder leiding van Dain Gerdruck. De meeste gevangenen op Cogastr komen uit Noord-Celiria. Deze gevangenen, vaak aangeduid als 'inwoners,' worden ingezet als mijnwerkers of voor andere arbeid op het eiland. De gevangenis is verdeeld in verschillende cellenblokken, waaronder een blok met isoleercellen. Recentelijk is de Paladin Orc genaamd Herman aan dit isolatieblok toegevoegd. Met begeleiding van twee wachters wordt Herman in een isoleercel geplaatst. Kort daarna ondergaan ook de andere avonturiers hetzelfde lot: Yerall, een Drow Elf Rogue; Nirin, een Drow Elf; Lenora, een Human Warlock Sorceress; Garrick, een Human Ranger; en Gallus, een Drow Elf Druid.
 Terwijl de avonturiers in hun cellen zitten, horen ze een vrouwelijke stem uit een van de andere isoleercellen vandaan komen. De stem stelt zichzelf voor als ‘M’, een Tiefling vrouw. M doet de groep een voorstel: als zij haar helpen ontsnappen en een celblok met gevangenen bevrijden, zal ze hen helpen hun vrijheid terug te winnen. Kort daarna bevrijdt Nirin zichzelf uit de isoleercel met behulp van Misty Step en helpt ze de rest van de groep uit hun cellen te komen. De avonturiers weten zich vervolgens ongezien door de gangen van het cellenblok te verplaatsen.
