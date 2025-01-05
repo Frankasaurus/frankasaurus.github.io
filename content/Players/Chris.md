@@ -1,5 +1,5 @@
 ---
-publish: true
+publish: false
 tags:
   - player
   - stracciadnd-2
