@@ -8,9 +8,13 @@ This site is for keeping track of this strange hobby I love.
 # Campaigns
 
 > [!cards|2]
+> [![[Campaign3LinkImage.png]]](<Campaign 3>)
+> 
 > [![[Campaign2LinkImage.png]]](<Campaign 2>)
 > 
-> [![[Campaign3LinkImage.png]]](<Campaign 3>)
+> [![[Campaign3Samenvattingen.png]]](<Campaign 3 Summaries>)
+> 
+> [![[CalifhenReborn.png]]](<Califhen>)
 
 ***
 ## Worldbuild with me!
