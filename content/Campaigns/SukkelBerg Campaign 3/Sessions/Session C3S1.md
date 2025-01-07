@@ -8,6 +8,7 @@ tags:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
 | Datum            | Zo 8 Dec                                                                                                                                   |
+| Titel            | Prison Break                                                                                                                               |
 **Dit is de allereerste sessie van de nieuwe campaign:**
 - Karakters moeten meteen een houvast aangeboden krijgen
 - Laat ruimte voor de spelers en hun karakter wanneer ze dit willen

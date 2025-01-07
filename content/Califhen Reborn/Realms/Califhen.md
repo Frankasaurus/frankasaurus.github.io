@@ -18,8 +18,6 @@ tags:
 > | **Denonym** | Califhenic |
 
 **Califhen** is the name of the most inhabited planet within the Material plane. It features as a focal point to the interest of most interplanar species, specifically Humanoids.
-
-![[Califhen Reborn Tuon Peninsula map.png|1000]]
 # History
 > TODO - later
 # Calendar
