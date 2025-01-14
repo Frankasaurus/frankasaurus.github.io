@@ -20,7 +20,7 @@ tags:
 > | **Creature Type** | Humanoid |
 > | **Species** | Human |  
 > | **Origin** | Noble |
-> | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
+> | **Class** | Warlock<br>Sorcerer |  
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
 > | **Languages** | Common, Elvish, Infernal |  
 > | **Status** | Alive |
@@ -34,7 +34,7 @@ tags:
 > | **Dex** | 14 | **Wis** | 12 |
 > | **Con** | 12 | **Cha** | 16 |
 
-**Lenora von Elsenburgh Doorne** is a Dhampiric Human Warlock & Sorcerer. She is played by [[Lise]]. 
+**Lenora von Elsenburgh Doorne** is a Human Warlock & Sorcerer. She is played by [[Lise]]. 
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Appearance|Appearance]]
