@@ -40,6 +40,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Garrick is a human male of light complexity, with an average build. From a somewhat aged face flows a short brown beard. His long hair is kept up with a messy ponytail. Garrick is most often seen in functional hunters attire, with plenty of leather armor.
@@ -49,4 +50,3 @@ Garrick is a human male of light complexity, with an average build. From a somew
 > This is currently spoiler city, and will only be made public after the player shares their story.
 ## During the campaign
 *To be written...*
-***

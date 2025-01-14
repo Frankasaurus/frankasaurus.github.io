@@ -42,6 +42,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Yerall is a Drow elven man, with short upturned silver-white hair, and staring careful eyes. Concious about his profile, his attire is flamboyant while allowing him to hide himself. As her brother, Yerall has similar features to [[Nyrin]].
@@ -54,4 +55,3 @@ Just before entering adulthood, internal bickering and turmoil within the Guilds
 Forced to survive by their own wit and cunning, and having had enough from the scraps they earned by playing streat games, they teamed up to do other peoples dirty work. As adventurers-for-hire, they hoped to make a name for themselves, only to be used as bait in a murder plot (along with a child from [[Herman|Herman's]] estate, one that he would end up taking the blame for). Their punishment was to become a prisoner in [[Cogastr]], although their cunning reputation would soon land them in an Isolation cell, plotting the island's revolt and escape. In the aftermath, the other souls from the isolation cells formed [[Party (C3)|an adventuring party]].
 ## During the campaign
 *To be written...*
-***

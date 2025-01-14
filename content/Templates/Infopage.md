@@ -13,6 +13,10 @@ tags:
 > | **Characters** | CHARS |
 
 NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+# Table of Contents
+- [[#Characters]]
+	- [[#Main campaigns]]
+***
 # Characters
 ## Main campaigns
 - Character, race class (campaign)

@@ -5,6 +5,19 @@ tags:
   - important-page
   - TODO
 ---
+
+> [!infobox]
+> # Campaign 3 Party
+> ![[Image.jpg|cover hsmall]]
+> ###### Base Info
+> | | |  
+> |---|---|  
+> | **Name** | Unkown |
+> | **Type** | Aventurers |
+> | **Origin** | [[Cogastr]] |
+> | **Home base** | Undetermined |
+
+**The Party** is the (as of yet) nameless group of adventuring individuals in [[Campaign 3]].
 # Current members
 
 | Player     | Character        | Species       | Origin      | Class                                                                 |
@@ -16,4 +29,6 @@ tags:
 | [[Kacper]] | [[Gallus]]       | Elf (Drow)    | Hermit      | Druid - Circle of Stars (lv 3)                                        |
 | [[Roy]]    | [[Yerall]]       | Elf (Drow)    | Wayfarer    | Rogue - Arcane Trickster (lv 3)                                       |
 | [[Kim]]    | [[Nyrin]]        | Elf (Drow)    | Scribe      | Bard - Glamour (lv 3)                                                 |
-![[C3PartyGroup.jpeg|900]]
+
+
+![[C3PartyGroup.jpeg]]

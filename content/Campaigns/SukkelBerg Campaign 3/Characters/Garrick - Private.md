@@ -41,6 +41,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Garrick is a human male of light complexity, with an average build. From a somewhat aged face flows a short brown beard. His long hair is kept up with a messy ponytail. Garrick is most often seen in functional hunters attire, with plenty of leather armor.
@@ -53,4 +54,3 @@ A night at a tavern like every other turned into a happy encounter with a Druid 
 Whether it was fate or just exaggeration from the warden, Garrick and Gallus would be sent off to [[Cogastr]] to work for minerals the city needed for their fabrication trading. When they were unceremoniously put into isolation cells, they met other unfortunate but talented individuals. Upon their escape, they formed [[Party (C3)|an adventuring party]].
 ## During the campaign
 *To be written...*
-***

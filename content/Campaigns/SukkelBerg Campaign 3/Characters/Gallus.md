@@ -40,6 +40,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Gallus is a Drow Elf of somewhat taller nature. He has undercut black long hair, often ending in messy ends and small dreads. His eyes are a light purple color. With the exception of dark purple accents, his attire mostly consists of dark black robes.
@@ -49,4 +50,3 @@ Gallus is a Drow Elf of somewhat taller nature. He has undercut black long hair,
 > This is currently spoiler city, and will only be made public after the player shares their story.
 ## During the campaign
 *To be written...*
-***

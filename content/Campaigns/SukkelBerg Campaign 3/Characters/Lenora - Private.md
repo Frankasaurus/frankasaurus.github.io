@@ -44,6 +44,7 @@ tags:
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
 - [[#Notable items|Notable items]]
+***
 # Description
 ## Appearance
 Lenora is a human female on the smaller side, with porcelain skin and penetrating emerald eyes. Her stringy ash blonde haires hang straight down her head and face, and she wears light dresses to somewhat conceal her thin stature. When possible, she addorns silver and pearled jewelry. Her destinctive long nails are filed to a sharp edge.
@@ -62,5 +63,3 @@ In her motivation, she found herself plotting to murder Kaurius, the person who 
 *To be written...*
 # Notable items
 - [[Tome of the Blooded]]
-
-***

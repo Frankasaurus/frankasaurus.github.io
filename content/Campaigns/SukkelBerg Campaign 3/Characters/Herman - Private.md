@@ -44,6 +44,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Herman is an elder Orcish male, with wrinkled yet soft features. His face has a white beard, longer hair, and a soft smile. Usually dressed in large plate armor, he's big, heavy and strong despite his age.
@@ -56,4 +57,3 @@ When his daughter became older, she also became more rebelious. Not just against
 After leaving the city, Herman used his remaining wealth to build out a farm, its purpose to house difficult kids and give them a second chance, besides shipping the produce to the city. These kids often came from violent and unstable backgrounds, and caused a lot of trouble - to the extent that Herman had to step in several times. On one such occassion, a fleeing kid from his farm would be framed for a murder he didn't commit (along with [[Yerall]] and [[Nyrin]]). Herman took the blame, and was sent out to [[Cogastr]] for this crime. Here, he got a chance meeting with several unique and powerful individuals. Upon their escape, they would form [[Party (C3)|an adventuring party]].
 ## During the campaign
 *To be written...*
-***

@@ -41,6 +41,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Herman is an elder Orcish male, with wrinkled yet soft features. His face has a white beard, longer hair, and a soft smile. Usually dressed in large plate armor, he's big, heavy and strong despite his age.
@@ -50,4 +51,3 @@ Herman is an elder Orcish male, with wrinkled yet soft features. His face has a 
 > This is currently spoiler city, and will only be made public after the player shares their story.
 ## During the campaign
 *To be written...*
-***

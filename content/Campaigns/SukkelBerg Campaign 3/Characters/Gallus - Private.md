@@ -42,6 +42,7 @@ tags:
 - [[#Biography|Biography]]
 	- [[#Before the campaign|Before the campaign]]
 	- [[#During the campaign|During the campaign]]
+***
 # Description
 ## Appearance
 Gallus is a Drow Elf of somewhat taller nature. He has undercut black long hair, often ending in messy ends and small dreads. His eyes are a light purple color. With the exception of dark purple accents, his attire mostly consists of dark black robes.
@@ -56,4 +57,3 @@ The disbandment came with banishments for those who opposed Circinus' core princ
 This went well for a while, but a catastrophic performance in Hanpr led to mass hysteria of the crowd, and their subsequent arrest. Whether by fate, a lack of luck, or overexeggaration, the pair were sent off to [[Cogastr]] as trade for minerals Hanpr needed. It was here where a spontanious trip to the isolation cells resulted in the meeting of talented individuals. After a daring escape of the island, they would form [[Party (C3)|an adventuring party]].
 ## During the campaign
 *To be written...
-***
