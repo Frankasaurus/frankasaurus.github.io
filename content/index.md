@@ -14,7 +14,7 @@ This site is for keeping track of this strange hobby I love.
 > 
 > [![[Campaign3Samenvattingen.png]]](<Campaign 3 Summaries>)
 > 
-> [![[CalifhenReborn.png]]](<Califhen>)
+> [![[CalifhenReborn.png]]](<Celiria>)
 
 You can find an overview of [[All Campaign 3 NPC's|Campaign 3 NPC's here]].
 

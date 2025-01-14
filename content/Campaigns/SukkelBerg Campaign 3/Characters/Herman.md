@@ -37,11 +37,10 @@ tags:
 **Herman** is a Orc Glory Paladin. He is played by [[Melle]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
-- [[#Notable items|Notable items]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 # Description
 ## Appearance
 Herman is an elder Orcish male, with wrinkled yet soft features. His face has a white beard, longer hair, and a soft smile. Usually dressed in large plate armor, he's big, heavy and strong despite his age.

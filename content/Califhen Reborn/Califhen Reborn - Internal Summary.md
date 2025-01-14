@@ -6,17 +6,17 @@ Most sections are split into three pieces;
 # Map / Locations
 **Must:**
 - [x] Create continental map in Wonderdraft, just in case
-- [ ] Create map of the immediate region
-- [ ] Create a handful of settlements
+- [x] Create map of the immediate region
+- [x] Create a handful of settlements
 - [ ] Create one or two local phenomena
 **Could:**
-- [ ] Give continents names
+- [x] Give continents names
 **Amend:**
 - [ ] Add settlements
 # Pantheon
 **Must:**
-- [ ] Create system - how does it work
-- [ ] Create current occupants
+- [x] Create system - how does it work
+- [x] Create current occupants
 **Could:**
 - [ ] D
 **Amend:**

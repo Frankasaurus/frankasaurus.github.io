@@ -37,11 +37,10 @@ tags:
 **Garrick Helix** is a Human Beast Master Ranger. He is played by [[Hanne]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
-- [[#Notable items|Notable items]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 # Description
 ## Appearance
 Garrick is a human male of light complexity, with an average build. From a somewhat aged face flows a short brown beard. His long hair is kept up with a messy ponytail. Garrick is most often seen in functional hunters attire, with plenty of leather armor.

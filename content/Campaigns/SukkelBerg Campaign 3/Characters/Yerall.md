@@ -37,10 +37,10 @@ tags:
 **Yerall** is a Drow Elven Arcane Trickster Rogue. He is played by [[Roy]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 # Description
 ## Appearance
 Yerall is a Drow elven man, with short upturned silver-white hair, and staring careful eyes. Concious about his profile, his attire is flamboyant while allowing him to hide himself. As her brother, Yerall has similar features to [[Nyrin]].

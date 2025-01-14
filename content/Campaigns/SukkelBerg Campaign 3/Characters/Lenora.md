@@ -37,10 +37,10 @@ tags:
 **Lenora von Elsenburgh Doorne** is a Dhampiric Human Warlock & Sorcerer. She is played by [[Lise]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 - [[#Notable items|Notable items]]
 # Description
 ## Appearance

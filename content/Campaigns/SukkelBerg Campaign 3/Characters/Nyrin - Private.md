@@ -38,11 +38,10 @@ tags:
 **Nyrin** is a Drow Elven Bard of the College of Glamour. She is played by [[Kim]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
-- [[#Notable items|Notable items]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 # Description
 ## Appearance
 Nyrin is a young Drow Elven woman. She is clothed in bright city attire, including a blue dress to accent her curling purple hair, dressed to impress. Her glamour is a weapon, as much as it is her personality, and she carries herself in high esteem. As his sister, Nyrin has similar features to [[Yerall]].

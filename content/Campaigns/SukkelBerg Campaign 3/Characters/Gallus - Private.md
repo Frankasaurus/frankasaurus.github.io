@@ -38,11 +38,10 @@ tags:
 **Gallus Solarn** is a Drow Star Circle Druid. He is played by [[Kacper]]. 
 # Table of Contents
 - [[#Description|Description]]
-	- [[#Description#Appearance|Appearance]]
+	- [[#Appearance|Appearance]]
 - [[#Biography|Biography]]
-	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#During the campaign|During the campaign]]
-- [[#Notable items|Notable items]]
+	- [[#Before the campaign|Before the campaign]]
+	- [[#During the campaign|During the campaign]]
 # Description
 ## Appearance
 Gallus is a Drow Elf of somewhat taller nature. He has undercut black long hair, often ending in messy ends and small dreads. His eyes are a light purple color. With the exception of dark purple accents, his attire mostly consists of dark black robes.
