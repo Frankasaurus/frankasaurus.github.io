@@ -1,13 +1,12 @@
 ---
-publish: false
+publish: true
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
-> # Gallus Solarn
-> ![[Gallus1.png|cover hsmall]]  
+> # Gallus
+> ![[Gallus2BG.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -16,15 +15,13 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Gallus Solarn |
+> | **Name** | Gallus |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Elf (Drow) |  
 > | **Origin** | Acolyte |
 > | **Class** | Druid (Circle of Stars) |  
-> | **Born** | Camp Aurora, 127 years ago |  
 > | **Languages** | Common, Druidic, Elvish, Gnomish |  
-> | **Connections** | - Circinus (member) |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -40,28 +37,17 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
+- [[#Notable items|Notable items]]
 # Description
 ## Appearance
-Description of appearance.
+Gallus is a Drow Elf of somewhat taller nature. He has undercut black long hair, often ending in messy ends and small dreads. His eyes are a light purple color. With the exception of dark purple accents, his attire mostly consists of dark black robes.
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-Details about the characters class and stuff
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+> [!info]+
+> This is currently spoiler city, and will only be made public after the player shares their story.
+## During the campaign
+*To be written...*
 ***

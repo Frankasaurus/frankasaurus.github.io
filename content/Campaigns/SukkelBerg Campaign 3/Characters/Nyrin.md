@@ -1,13 +1,12 @@
 ---
-publish: false
+publish: true
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
 > # Nyrin
-> ![[Image.jpg|cover hsmall]]  
+> ![[Nyrin1BG.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -22,9 +21,8 @@ tags:
 > | **Species** | Elf (Drow) |  
 > | **Origin** | Scribe |
 > | **Class** | Bard (Glamour) |  
-> | **Born** | (TBD), (TBD) years ago|  
-> | **Languages** | Common, Dwarvish, Elvish |  
-> | **Family** | - [[Yerall]] (sister) |
+> | **Languages** | Common, Undercommon, Elvish |  
+> | **Family** | - [[Yerall]] (brother) |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -40,28 +38,17 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
+- [[#Notable items|Notable items]]
 # Description
 ## Appearance
-Description of appearance.
+Nyrin is a young Drow Elven woman. She is clothed in bright city attire, including a blue dress to accent her curling purple hair, dressed to impress. Her glamour is a weapon, as much as it is her personality, and she carries herself in high esteem. As his sister, Nyrin has similar features to [[Yerall]].
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-*While Nyrin started the first campaign as Illusionist Wizard, this was changed to Bard before the 2nd session.* 
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+> [!info]+
+> This is currently spoiler city, and will only be made public after the player shares their story.
+## During the campaign
+*To be written...*
 ***

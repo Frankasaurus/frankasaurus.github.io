@@ -1,13 +1,12 @@
 ---
-publish: false
+publish: true
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
-> # Garrick Helix
-> ![[Garrick1.png|cover hsmall]]  
+> # Garrick
+> ![[Garrick2BG.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -16,14 +15,13 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Garrick Helix |
+> | **Name** | Garrick |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Human |  
 > | **Origin** | Entertainer |
 > | **Class** | Ranger (Beast Master) |  
-> | **Born** | Rhomea, 29 years ago|  
-> | **Languages** | Common, Common Sign Language, Goblin, Halfling, Orc | 
+> | **Languages** | Common, Goblin, Halfling, Orc | 
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -39,28 +37,17 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
+- [[#Notable items|Notable items]]
 # Description
 ## Appearance
-Description of appearance.
+Garrick is a human male of light complexity, with an average build. From a somewhat aged face flows a short brown beard. His long hair is kept up with a messy ponytail. Garrick is most often seen in functional hunters attire, with plenty of leather armor.
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-Details about the characters class and stuff
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+> [!info]+
+> This is currently spoiler city, and will only be made public after the player shares their story.
+## During the campaign
+*To be written...*
 ***

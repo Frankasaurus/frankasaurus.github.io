@@ -16,6 +16,8 @@ This site is for keeping track of this strange hobby I love.
 > 
 > [![[CalifhenReborn.png]]](<Califhen>)
 
+You can find an overview of [[All Campaign 3 NPC's|Campaign 3 NPC's here]].
+
 ***
 ## Worldbuild with me!
-On some pages you'll find a #TODO tag. Feel free to send me your ideas for content or pages!
+On some pages you'll find a TODO tag. Feel free to send me your ideas for content or pages!

@@ -1,13 +1,12 @@
 ---
-publish: false
+publish: true
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
-> # Name
-> ![[Herman1.png|cover hsmall]]  
+> # Herman
+> ![[Herman2BG.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -17,18 +16,15 @@ tags:
 > | | |  
 > |---|---|  
 > | **Name** | Herman |
-> | **Alias** | 'Silvertongue' |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Orc |  
 > | **Origin** | Farmer |
 > | **Class** | Paladin (Oath of Glory) |  
-> | **Born** | (TBD), (TIME) years ago|  
 > | **Languages** | Common, Halfling, Orc |  
-> | **Family** | - Unnamed wife<br>- Unnamed deceased daughter |
 > | **Connections** | - Unnamed orphanage (proprietor) |
 > | **Status** | Alive |
-> | **Sessions** | member |
+> | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
 > | | | | |
 > |---|---|---|---|
@@ -42,28 +38,17 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
+- [[#Notable items|Notable items]]
 # Description
 ## Appearance
-Description of appearance.
+Herman is an elder Orcish male, with wrinkled yet soft features. His face has a white beard, longer hair, and a soft smile. Usually dressed in large plate armor, he's big, heavy and strong despite his age.
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-Details about the characters class and stuff
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+> [!info]+
+> This is currently spoiler city, and will only be made public after the player shares their story.
+## During the campaign
+*To be written...*
 ***

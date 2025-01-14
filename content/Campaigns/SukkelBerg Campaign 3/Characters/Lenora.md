@@ -1,13 +1,12 @@
 ---
-publish: false
+publish: true
 tags:
   - sukkelbergdnd-3
   - dnd-playercharacter
-  - TODO
 ---
 > [!infobox]  
 > # Lenora von Elsenburgh Doorne
-> ![[Lenora1.jpg|cover hsmall]]  
+> ![[Lenora2BG.jpeg|cover hsmall]]  
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -19,13 +18,11 @@ tags:
 > | **Name** | Lenora von Elsenburgh Doorne |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
-> | **Species** | Dhampir (Human origin) |  
+> | **Species** | Human |  
 > | **Origin** | Noble |
 > | **Class** | Warlock (Pact of the Undead)<br>Sorcerer (Shadowmagic Origin) |  
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
 > | **Languages** | Common, Elvish, Infernal |  
-> | **Family** | - [[Wilmar von Elsenburgh-Doorne]] (father)<br>- Corinne & *Name TBD* (sisters) |
-> | **Connections** | - Kaurius Krone (Wilmar's rival)<br>- Unknown Warlock patron |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -41,29 +38,20 @@ tags:
 # Table of Contents
 - [[#Description|Description]]
 	- [[#Description#Appearance|Appearance]]
-	- [[#Description#Personality|Personality]]
 - [[#Biography|Biography]]
 	- [[#Biography#Before the campaign|Before the campaign]]
-	- [[#Biography#Adventures|Adventures]]
-- [[#Relationships|Relationships]]
-	- [[#Adventures#Persoon|Persoon]]
-- [[#Character information|Character information]]
-	- [[#Adventures#Quests|Quests]]
-	- [[#Adventures#Notable items|Notable items]]
-	- [[#Adventures#Magic items|Magic items]]
-- [[#Trivia|Trivia]]
+	- [[#Biography#During the campaign|During the campaign]]
+- [[#Notable items|Notable items]]
 # Description
 ## Appearance
-Description of appearance.
+Lenora is a human female on the smaller side, with porcelain skin and penetrating emerald eyes. Her stringy ash blonde haires hang straight down her head and face, and she wears light dresses to somewhat conceal her thin stature. When possible, she addorns silver and pearled jewelry. Her destinctive long nails are filed to a sharp edge.
 # Biography
 ## Before the campaign
-Story of before the adventuring party started.
-# Character information
-Details about the characters class and stuff
-## Quests
-Short listing of quests this character is after as an adventurer.
-## Notable items
-- List of items
-- List of items
+> [!info]+
+> This is currently spoiler city, and will only be made public after the player shares their story.
+## During the campaign
+*To be written...*
+# Notable items
+- [[Tome of the Blooded]]
 
 ***

@@ -28,3 +28,22 @@ Note that not every settlement within a nation answers to their ruler, and might
 
 Throughout the Tuon peninsula, many smaller nations exist, such as the mostly underground **Fyndon** and **Treadon** citadels, the **Yuv'nil** Fae council within the large forests, and the Ancient city of Tagrib high in the mountains. 
 In general, the East coast of the Tuon peninsula is better developed due to better climate.
+# First arc setup
+Currently looking like the party will have a LOT of connections to [[Kaurius Krone]], so Id have to work out everyone's relationship with him first.  Here's what I know from the players;
+- [[Lenora]] has a heavy connection; her father was/is his rival. He is (thought to) be the main cause of her affliction.
+- [[Yerall]] and [[Nyrin]] both have strong connections; their exile from Elivestr is due in part to his actions against their parents.
+- [[Herman]] has a weak tie; former prominent citizen turned enemy of the state, now under the thumb of the guilds.
+- (No ties for Gallus & Garrick, but perhaps we can score one)
+In general, we can consider the following beats, disregarding nuance or sidetracking for a moment;
+1. After reaching shore, getting equipment
+2. Moving to Elivestr Region
+3. Reacquianting with the surroundings - keep tension high and the players on their feet, there'll be time to relax later
+4. Meeting Kaurius, followed by a setback - let's do a short meeting prior as well, get eyes on ASAP
+5. Preparing for a confrontation
+6. Confrontation & climax
+7. Release & TWIST - Kaurius wasn't the head honcho after all. They've helped the city, but evil still roams
+
+Before any later steps can happen, it'd be smart to do the following first;
+- Individual character notes for developments - fill in their blank spaces. Important: make the party a requirement!
+- Think about a future arc that ties into the existing story (perhaps concerning Leeflin Brut?)
+- Work on Gallus & Garrick especially, to not make them feel left out
