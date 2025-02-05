@@ -7,7 +7,7 @@ tags:
 | Sessie no.       | 1                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
-| Datum            | Zo 8 Dec                                                                                                                                   |
+| Datum            | Zondag 8 December,  2024                                                                                                                   |
 | Titel            | Prison Break                                                                                                                               |
 **Dit is de allereerste sessie van de nieuwe campaign:**
 - Karakters moeten meteen een houvast aangeboden krijgen

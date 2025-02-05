@@ -30,7 +30,9 @@ Its government is run by intelectuals and guild leaders, who elect a Duke that d
 	- The Royal estate
 - **Guild District** 
 	- **Elsenburgh-Doorne Residency** - Home of [[Lenora]] and the rest of the Von Elsenburgh-Doorne family.
-	- Justice & Security Guild (*name TBD*) - Run by Wilmar von Elsenburgh. It takes care of the city's guards, crime, justice, and patrols.
+	- Guild of Justice & Security (*name TBD*) - Run by Wilmar von Elsenburgh. It takes care of the city's guards, crime, justice, and patrols.
+	- *"Pursuit of the Owl"* Guild of Interstate Commerce - Former employer of [[Herman]].
+	- *"Halfclock"* Guild of Arcana & Spellwriting - Former employer of [[Nyrin]] & [[Yerall]]'s parents.
 - **Hearthfather District (of Learning)**
 	- University of Law 
 	- University of Literature

@@ -1,0 +1,1 @@
+In deze sessie vragen wat iedereen's doel is

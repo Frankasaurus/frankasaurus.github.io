@@ -7,7 +7,8 @@ tags:
 | Sessie no.       | 2                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
-| Datum            | Zo 12 Januari                                                                                                                              |
+| Datum            | Zo 12 Januari, 2025                                                                                                                        |
+| Titel            | Door Klauw en Tanden                                                                                                                       |
 **Wat:** Vorige sessie is de party Cogastr ontvlucht op een boot, na een vluchtpoging aangestuurd door Leeflin Brut. Intentie van de party was om naar Elivestr af te reizen.
 **Wanneer:** Seizoen, tijdstip, feestperiodes, dat soort zaken
 **Waar:** Boot vol met vluchtelingen, Westkust Cogastr, in de Cohyn zee.

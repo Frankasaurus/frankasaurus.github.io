@@ -36,7 +36,6 @@ Though the titles do not differ in ranking, the titles of **Growth**, **Light** 
 | God of Corruption & the Mirror    | Jol                           | Wormduke Incarnate, The Wendigo of Origins         |
 | God of Myth & the Ancient         | *N.a.* [^2]                   | 'Tercir', Repositorant                             |
 | Godess of Might & the Flesh       | We'hnessa-falaghri Ixciturosa | The Exalted                                        |
-
 ## Redundant titles
 The following is in inexhaustive list of previous titles that were either merged, destroyed, or forgotten.
 
@@ -44,7 +43,12 @@ The following is in inexhaustive list of previous titles that were either merged
 | ----- | ---------------- | ------------------ | ---------------- |
 |       |                  |                    |                  |
 |       |                  |                    |                  |
+# Other Pantheonic ranks
+The following are an inexhaustive list of other ranks and states of being that occur within or due to the Pantheon's existance.
 
+**Avatar** - An Avatar is a physical manifestation of a higher being, such as a God, Demigod, or Titan. They are pieces of arcane energy severed from the being warped into a separate entity. The severed energy regrows over time, or can be restored by reabsorbing the Avatar.
+
+**Conduit** - A Conduit is a living organism, whose purpose to the Pantheon is to allow for a steady arcane bond between realms through which energy can flow. They are living, breathing, walking holy sites. A Conduit can be born as one, chosen by a high-ranking celestial, or trained to become one. It is also possible to become one due to exposure of raw energy, though this can also be very deadly. Those born as conduits may not realize it until they either incidentally reap benefits or become sick due to their affliction, as not sustaining the Conduit's bond will cause the organism to become ill.
 # The Everglow Ritual
 Within Califhen, the chant that is often regarded as the most infamous due to its frequent use in ceremonies and teachings, is the Everglow Ritual. The chant pronounces in full all current Gods and their respective titles, in a request for their overall favor and worship. It is said that it wards one from the Ire of a particular God, in acknowledging their prescence as one within the Pantheon of all.
 

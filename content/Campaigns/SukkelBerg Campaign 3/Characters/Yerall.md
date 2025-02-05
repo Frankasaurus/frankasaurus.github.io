@@ -18,7 +18,7 @@ tags:
 > | **Name** | Yerall |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Species** | Eld (Drow) |  
+> | **Species** | Elf (Drow) |  
 > | **Origin** | Wayfarer |
 > | **Class** | Rogue (Arcane Trickster) |  
 > | **Languages** | Common, Elvish, Halfling, Thieves' Cant, Undercommon |  

@@ -3,7 +3,6 @@
 | ---------------- | --- |
 | Spelers aanwezig |     |
 | Datum            |     |
-# Samenvatting
 **Wat:** Vorige sessie is de party ...
 **Wanneer:** Seizoen, tijdstip, feestperiodes, dat soort zaken
 **Waar:** Locatie

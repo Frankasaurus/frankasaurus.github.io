@@ -16,6 +16,22 @@ tags:
 > 
 > ![[C3S01Summary.pdf]]
 
-> [!quote]- Sessie 2 | 12 Januari 2025
-> Het verhaal vervolgt
+> [!quote]- Sessie 2 - Door Klauw en Tanden | 12 Januari 2025
+> Na een vermoeiende ontsnapping uit de gevangenis was het enige waar de avonturiers naar verlangden een moment van rust. Maar voordat dat moment kon aanbreken, werd de stilte wreed verbroken. De deur van het kapiteinskwartier werd met kracht opengegooid en een bemanningslid riep over een zeemonster genaamd Ylan'gashiim. Vanaf het dek zagen de avonturiers hoe het wezen, met een schrikwekkende kracht, een van de drie vluchtelingenschepen aanviel. Voordat zij konden ingrijpen, verdween het monster in de diepte. De zee kwam tot rust, alsof er niets was gebeurd. De groep besloot zich op te splitsen. Een deel ging naar het bovenste dek om te proberen het monster te overtuigen tot vrede, terwijl de anderen naar het onderste dek gingen om de kanonnen voor te bereiden. De spanning was voelbaar, en iedereen hield de adem in, luisterend naar ieder geluid dat de aanwezigheid van het monster kon verraden. Plots, toen het erop leek dat het gevaar verdwenen was, dook Ylan'gashiim onverwachts weer op vanuit de diepte.
+> 
+> **Gevaar op zee**
+> Dit was het gevreesde zeemonster, een goudgele draken aal, en bewaker van deze wateren tegen de vloot van de gevangenis van Cogastr. Dankzij de hulp van een aantal Dragonborns aan boord en een wijze aanpak wisten de avonturiers het wezen te overtuigen dat zij niet de vijandige vloot waren en dus geen bedreiging vormden. Na enige momenten van stilte trok het monster zich terug, waarmee het schip en zijn bemanning voorlopig gered waren.
+> 
+> Met alle spanningen achter de rug, leek het voor de groep vooralsnog niet mogelijk om een goede nachtrust te pakken. Dit betekende dat de avonturiers zich hebben besloten voor te bereiden om hun volgende plan uit te voeren: een schuilplaats vinden in de oude crèche van Daniil. Bij aankomst aan het vaste land bleek echter dat de ingang van de grot was ingestort. Gelukkig vond de groep al snel een alternatieve route via het water en wist zo de grot binnen te komen. 
+>
+> **Ondergronds vervloekt**
+> Daar ontdekten zij een oude smokkelaarshaven, maar deze leek niet geheel onbewoond. De grot, die door de groep “De Rave Cave” werd genoemd, was vol met ratten. Uit een aangrenzende kamer klonk een vreemd geluid. In die kamer troffen zij een klein, maar behoorlijk harig mensachtig wezen aan, dat raadselachtig sprak over een vloek. Maar voordat het gesprek voltooid kon worden, veranderde het wezen in een agressieve Wererat. In het gevecht dat volgde, raakten enkele avonturiers gewond en kregen zij te maken met koortsachtige symptomen.
+> 
+> Tijdens hun verdere verkenning ontdekte Yerall een geheime tekst. Hoewel het raadsel niet meteen door iedereen op correcte wijze geïnterpreteerd werd, lukte het de groep uiteindelijk om een geheime kamer te openen. Deze kamer was gevuld met wapens. Kort daarna klonken er zware voetstappen in de gang. De Rattenkeizer - een Hill Giant die van de Rave Cave zijn thuis had gemaakt - verscheen en een harde strijd volgde. Met magie, pijlen en een welgemikt kanonschot wist de groep dit gore wezen te verslaan.
+> 
+> Op weg naar de uitgang kwamen Lenora en Garrick een aantal mooie bloemen tegen, dat hen in een magische slaap bracht. Nadat Yerall voor enige lichte ongein had gezorgd, wist de groep een Fey te bevrijden - een Boggle, die hen als dank een beloning gunde naar raadsel, waar de Tome of the Blooded uit resulteerde. Kort na het vinden van een brief van de oude bewoners, maakten de avonturiers de schuilplaats veilig, zodat de vluchtelingen er zonder gevaar konden verblijven.
+>
+> ![[C3S02Summary.pdf]]
 
+> [!quote]- Sessie 3 - ... | 8 Februari 2025
+> *Dit verhaal wordt nog geschreven...*

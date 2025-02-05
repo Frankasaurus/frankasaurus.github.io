@@ -18,7 +18,7 @@ tags:
 > | **Name** | Yerall |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
-> | **Species** | Eld (Drow) |  
+> | **Species** | Elf (Drow) |  
 > | **Origin** | Wayfarer |
 > | **Class** | Rogue (Arcane Trickster) |  
 > | **Born** | (TBD), (TBD) years ago|  
