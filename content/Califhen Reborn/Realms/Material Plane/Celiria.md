@@ -3,7 +3,6 @@ publish: true
 tags:
   - califhen-reborn
   - important-page
-  - TODO
 ---
 > [!infobox]  
 > # Celiria
@@ -17,7 +16,6 @@ tags:
 
 **Celiria** is a Region in the northern hemisphere of [[Califhen]]. It is where [[Campaign 3]] takes place.
 # Geography
-> TODO later
 ### Tuon Peninsula
 North-Celiria's more populated region is the Tuon Peninsula. With its access to lots of oceans, mountains, minerals and forests, it has become the breeding ground for fledgeling societies big and small. Especially along the coast, major developments have taken place, and multiple civilizations have risen, crumbled, and arisen again here. Perpetual disputes have plunged the region into a constant war with each other though, with families being at each other's throaths and warlords wreaking slow but steady despair over the land. Its politics have resulted in blackmail and backstabbing, and the policies have resulted in many people feeling safer outside city walls than within. Despite this, it is a prosperous land with a cheritable culture, especially in the older Sovereign States.
 
@@ -37,3 +35,5 @@ North-Celiria's more populated region is the Tuon Peninsula. With its access to 
 	- The Knife accord: A loose collective of mountain states, defending the mountains from exploitation.
 
 ![[Califhen Reborn Tuon Peninsula map nogrid.png|800]]
+## Wider region
+> TODO much later

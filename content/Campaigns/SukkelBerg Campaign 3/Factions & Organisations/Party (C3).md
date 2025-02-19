@@ -3,12 +3,11 @@ publish: true
 tags:
   - sukkelbergdnd-3
   - important-page
-  - TODO
 ---
 
 > [!infobox]
 > # Campaign 3 Party
-> ![[Image.jpg|cover hsmall]]
+> ![[C3PartyGroup.jpeg|cover hsmall]]
 > ###### Base Info
 > | | |  
 > |---|---|  
@@ -29,6 +28,18 @@ tags:
 | [[Kacper]] | [[Gallus]]       | Elf (Drow)    | Hermit      | Druid - Circle of Stars (lv 3)                                        |
 | [[Roy]]    | [[Yerall]]       | Elf (Drow)    | Wayfarer    | Rogue - Arcane Trickster (lv 3)                                       |
 | [[Kim]]    | [[Nyrin]]        | Elf (Drow)    | Scribe      | Bard - Glamour (lv 3)                                                 |
+## Level Progression
 
+| Level | Session                  |
+| ----- | ------------------------ |
+| 3     | Session 1 - Prison Break |
+| 4     |                          |
 
-![[C3PartyGroup.jpeg]]
+# Allies and friends
+*For a full list of NPC's, see [[All Campaign 3 NPC's|here]].*
+
+- **Eileen 'M' Leeflin:** Helped the party escape from [[Cogastr]], and used their help in overthrowing the current ruling body.
+# Antagonists
+*For a full list of NPC's, see [[All Campaign 3 NPC's|here]].*
+
+- **Jawahr Mislav:** Initially offered transport through the Pentos Woods, but instead captured them for The Business for ransom money.

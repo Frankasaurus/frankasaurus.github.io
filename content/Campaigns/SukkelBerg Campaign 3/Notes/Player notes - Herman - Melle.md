@@ -16,6 +16,8 @@ tags:
 	- Their founding was based on the founding of the Guild District, which built walls within the city segragating the upper-classes from the working classes, where they disturbed building sites and organised rallies.
 - **How does the rest of the party impact his backstory?**
 	- D
+- **What happened at his farm while Herman was in Cogastr?**
+	- The Goldfield Guild, who kept an eye on Herman after the altercation, confiscated and sold the property to another proprietor after Herman was arrested. 
 # Backstory
 Yo Alex ik heb al aardig een concept. Ik ben een Ork, farmer background. Ik heb mijn boerderij opgericht om er een juveniele instelling van te maken. Als er kinderen zijn die voor een kleine misdaad betrapt worden komen ze bij mij op de boerderij om daar ritme en discipline te leren.
 

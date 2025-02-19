@@ -47,3 +47,12 @@ Before any later steps can happen, it'd be smart to do the following first;
 - Individual character notes for developments - fill in their blank spaces. Important: make the party a requirement!
 - Think about a future arc that ties into the existing story (perhaps concerning Leeflin Brut?)
 - Work on Gallus & Garrick especially, to not make them feel left out
+# First arc post-session 3
+Narrative line;
+Setup / Normal World -> Escaping Cogastr & getting to Elivestr.
+Inciting Incident -> Kaurius wants to cut ties with the Guilds to make the city a subordinate under House rule (specifically his), to appease his deity.
+Trial of Trials;
+- TODO
+- TODO
+- TODO
+Point of No Return -> Confrontation with Kaurius, exposing the true mastermind, the Shepherd.

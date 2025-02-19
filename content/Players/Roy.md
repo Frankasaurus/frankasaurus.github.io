@@ -8,7 +8,7 @@ tags:
 ---
 > [!infobox]  
 > # Roy
-> ![[Image.jpg|cover hsmall]]  
+> ![[Roy.png|cover hsmall]]  
 
 **Roy** is a member of [[Alex|Alex's]] Tabletop Games, and currently plays [[Yerall]] in [[Campaign 3]].
 # Characters
@@ -16,5 +16,5 @@ tags:
 - [[Campaign 1]] - ???
 - [[Campaign 2]] - [[Vimak Vaimei-Laga]], a Goliath Devotion Paladin
 - [[Campaign 3]] - [[Yerall]], a Drow Elven Arcane Trickster Rogue
-## One-Shots
+## One-Shots & other
 - StracciaD&D Kerstspecial - Edwyrd Adkalyn, a High Elven Assassin Rogye

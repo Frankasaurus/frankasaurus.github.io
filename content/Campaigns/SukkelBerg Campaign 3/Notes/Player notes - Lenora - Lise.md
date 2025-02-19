@@ -8,8 +8,9 @@ tags:
 - **Where does Lenora's sorcerous power come from (shadows)?**
 	- The Shadows within originate from Kaurius' patron (NAME TBD), a Shepherd of Olmari. Kaurius demanded him to kill her, to hopefuly have Wilmar withdraw out of concern - he did not expect Wilmar to out this publically.
 	- The Shepherd did not kill her, but tore her soul to the Shadow Realm to decay and be absorbed by him. She was pulled out in time and reinstated in her body. This is what causes the Dhampirism.
+	- The Shepherd is still able to track and leech off of Lenora, especially when she is weakened.
 - **Where does Lenora's warlock power come from (undead)?**
-	- Her father, Wilmar, who has become a lich to save her. Yet to decide how that happens, but the reveal will be in the manor.
+	- Her father, Wilmar, who became a lich to save her. Yet to decide how that happens, but the reveal will be in the manor.
 - **What is Kaurius doing now, and what are his goals?**
 	- He wasnt lying when he said eliminating folks was the solution - Kaurius is planning a mass-subjegation of the outer rings of society; local businesses will have to close, mandatory shifts in factory will be instated, and housing complexes near factories with assigned housing will become the new standard. Farms will be forcibly bought and managed as factories as well, and segragation will be introduced. 
 	- Kaurius wants to dehumanize as much as possible, and offer them to Olmari for his attention, as Kaurius wishes to ascend and serve.

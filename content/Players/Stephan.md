@@ -4,25 +4,12 @@ tags:
   - player
 ---
 > [!infobox]  
-> # NAMENAME
-> ![[Image.jpg|cover hsmall]]  
-> ###### Character Information  
-> | | |  
-> |---|---|  
-> | **Name** | NAMEFULL |
-> | **Campaigns** | CAMPS (SYSTEM) |
-> | **Characters** | CHARS |
+> # Stephan
+> ![[Stephan.jpg|cover hsmall]]  
 
-NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
+**Stephan** is not a member of [[Alex|Alex's]] Tabletop Games, needs to start being a part of [[Campaign 3]].
 # Characters
 ## Main campaigns
-- Character, race class (campaign)
-- Character, race class (campaign)
-- Character, race class (campaign)
-## One-Shots
-- Character, race class (campaign)
-- Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
+- Guest appearance in Vimak's dream as a Bear
+## One-Shots & other
+- 

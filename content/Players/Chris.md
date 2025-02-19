@@ -20,10 +20,6 @@ NAME is a member of [[Alex|Alex's]] Tabletop Games, and plays CHAR in CAMPAIGN.
 - Character, race class (campaign)
 - Character, race class (campaign)
 - Character, race class (campaign)
-## One-Shots
+## One-Shots & other
 - Character, race class (campaign)
 - Character, race class (campaign)
-# Trivia
-- List of trivia
-- List of trivia
-- List of trivia
