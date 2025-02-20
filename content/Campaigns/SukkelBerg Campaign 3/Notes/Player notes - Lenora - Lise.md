@@ -6,8 +6,8 @@ tags:
 ---
 # Factsheet
 - **Where does Lenora's sorcerous power come from (shadows)?**
-	- The Shadows within originate from Kaurius' patron (NAME TBD), a Shepherd of Olmari. Kaurius demanded him to kill her, to hopefuly have Wilmar withdraw out of concern - he did not expect Wilmar to out this publically.
-	- The Shepherd did not kill her, but tore her soul to the Shadow Realm to decay and be absorbed by him. She was pulled out in time and reinstated in her body. This is what causes the Dhampirism.
+	- The Shadows within originate from Kaurius' patron Maggoras, a Shepherd of Olmari. Kaurius demanded him to kill her, to hopefuly have Wilmar withdraw out of concern - he did not expect Wilmar to out this publically.
+	- The Shepherd Maggoras did not kill her, but tore her soul to the Shadow Realm to decay and be absorbed by him. She was pulled out in time and reinstated in her body. This is what causes the Dhampirism.
 	- The Shepherd is still able to track and leech off of Lenora, especially when she is weakened.
 - **Where does Lenora's warlock power come from (undead)?**
 	- Her father, Wilmar, who became a lich to save her. Yet to decide how that happens, but the reveal will be in the manor.
@@ -19,7 +19,7 @@ tags:
 	- Wilmar, as a lich, keeps the tendrils of shadows away. But this constant exertion at a very early stage of lichdom is demanding. This meaning, it is not Lenora sustaining herself - it his Lenora feeding her father energy to defend her. Her soul is still teetering between the Shadow and Life. 
 	- If this defense drops, The Shepherd will summon a rupture from the Shadowfell, either bringing it to the Material Plane (spawning shades and other Shadowfel creatures), or in later stages, pull them to the Shadowfel (future arc?).
 - **How does the rest of the party impact her backstory?**
-	- The Party will feel a shadowy gaze upon them every so often, without Lenora knowing. 
+	- The Party will feel a shadowy gaze upon them every so often, without Lenora knowing. This is the Shepherd leeching out when she isn't paying attention.
 	- Gallus will feel his connection to the stars blot out when close to Lenora.
 	- Herman will feel the Glorious need to face evil, like Liches, but Kaurius too.
 # Backstory

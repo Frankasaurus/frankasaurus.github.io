@@ -15,9 +15,9 @@ tags:
 | Unnamed parents of [[Yerall]] & [[Nyrin]] | Backstory of Yerall & Nyrin                                                                                                                 | Alive in (TBD)                                |                 |
 | Andries Stellard                          | Male Cyclops Wizard of legends, long lost in the Pentos Woods. Also known as 'Father Varrn'.                                                | Alive, in de depths of The Business' hideout. |                 |
 # List of minor NPC's
-| Name                                      | Description                                                          | State                   | First occurance |
-| ----------------------------------------- | -------------------------------------------------------------------- | ----------------------- | --------------- |
-| Unnamed parents of [[Yerall]] & [[Nyrin]] | Backstory of Yerall & Nyrin                                          | Alive in (TBD)          |                 |
-| Carina Majir, Archdruid of Circinus       | Backstory of [[Gallus]]. F elder Drow, white haires, hoarse voice    | Alive in Camp Aurora    |                 |
-| Unnamed Shepherd of Olmari                | Backstory of [[Lenora]]. Shadow entity working for [[Kaurius Krone]] | Alive in the Shadowfell |                 |
-| King Peldr II                             | King of Vreebis                                                      | Alive                   |                 |
+| Name                                      | Description                                                                                                                                                                          | State                   | First occurance |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | --------------- |
+| Unnamed parents of [[Yerall]] & [[Nyrin]] | in]] | Backstory of Yerall &                                                                                                                                                         | Alive in (TBD)          |                 |
+| Carina Majir, Archdruid of Circinus       | s       | Backstory of [[Gallus]]. F elder Drow, white haires, hoa                                                                                                                   | Alive in Camp Aurora    |                 |
+| Maggoras, Shepherd of Olmari              | Nightwalker. Backstory of [[Lenora]]. Shadow entity working for [[Kaurius Krone]], servant to Olmari<br>https://www.myminifactory.com/search#/?{%22searchString%22:%22nightwalker%22 | Alive in the Shadowfell |                 |
+| King Ingvar Peldr II                      | |                                                                                                                                                                                    | Alive                   |                 |

@@ -24,42 +24,43 @@ Though the titles do not differ in ranking, the titles of **Growth**, **Light** 
 | ------------------------------------- | -------------------- | -------------------------------------------------- | ------------ |
 | **Godess of Growth & the Journey**    | Aneon                | She Who Lost All, Everchild                        | Everchildren |
 | **God of Light & the Truth**          | Lito                 | Steelforged, Godray                                | Fellen       |
-| **Godess of Decay & the End**         | Ta'yen               | Plague Queen, Brewlord, the Tunnel                 |              |
-| **God of Matter & the Celestial**     | Vovodin              | Lord of Dust, Wavemaster                           |              |
-| **Godess of Nature & the Spirits**    | Juldynar             | Many-Horned, Fell Beast                            |              |
-| **God of Darkness & the Untruth**     | Olmari               | The Unexistant, Lying Prince                       |              |
-| **Godess of Elements & the Reaction** | Thil'ir              | Graviturgia Superior, Countess of the Frigid Flame |              |
-| **God of Sight & the Existance**      | Pelgostr             | Domainmaster, Host of the Lodge, Hearthfather      |              |
-| **Godess of Hope & the Ruination**    | Urygg                | Lady of Despair, the Last Resort, Mother Luck      |              |
-| **God of Emotion & the Fury**         | Eppa                 | The Penitent Host                                  |              |
-| **God of Corruption & the Mirror**    | Jol                  | Wormduke Incarnate, The Wendigo of Origins         |              |
-| **God of Myth & the Ancient**         | *N.a.* [^2]          | 'Tercir', Repositorant                             |              |
-| **Godess of Might & the Flesh**       | We'hnessa Ixciturosa | The Exalted                                        |              |
+| **Godess of Decay & the End**         | Ta'yen               | Plague Queen, Brewlord, the Tunnel                 | Faetid       |
+| **God of Matter & the Celestial**     | Vovodin              | Lord of Dust, Wavemaster                           | Dustborn     |
+| **Godess of Nature & the Spirits**    | Juldynar             | Many-Horned, Fell Beast                            | Barkhides    |
+| **God of Darkness & the Untruth**     | Olmari               | The Unexistant, Lying Prince                       | Unshades     |
+| **Godess of Elements & the Reaction** | Thil'ir              | Graviturgia Superior, Countess of the Frigid Flame | Aethista's   |
+| **God of Sight & the Existance**      | Pelgostr             | Domainmaster, Host of the Lodge, Hearthfather      | Kindling     |
+| **Godess of Hope & the Ruination**    | Urygg                | Lady of Despair, the Last Resort, Mother Luck      | Forsi        |
+| **God of Emotion & the Fury**         | Eppa                 | The Penitent Host                                  | Pentia's     |
+| **God of Corruption & the Mirror**    | Jol                  | Wormduke Incarnate, The Wendigo of Origins         | Cairnites    |
+| **God of Myth & the Ancient**         | *N.a.* [^2]          | 'Tercir', Repositorant                             | Lorcen's     |
+| **Godess of Might & the Flesh**       | We'hnessa Ixciturosa | The Exalted                                        | Untames      |
+*Note that there have been occurrences of Titles no publicly known.*
 ## Redundant titles
 The following is in inexhaustive list of previous titles that were either merged, destroyed, or forgotten.
 
-| Title                                | Reason for redundancy                             |
-| ------------------------------------ | ------------------------------------------------- |
-| God of Passion & the Laugh           | Tricked into destroying itself                    |
-| God of Seasons & the Journey         | Forgotten                                         |
-| God of Reaping & the Void            | Laid vacant for centuries, formally abandoned     |
-| God of Terror & the Reckoning        | Only existed briefly, then destroyed by the Lodge |
-| God of Speech & the Stars            | Dissapeared, never reinstated                     |
-| God of Trickery & the Dissapointment | Destroyed itself                                  |
-| God of Blooming & the Harvest        | Usurped / merged with other Titles                |
-| God of Order & the Forgotten         | Usurped / merged with other Titles                |
-| God of Direction & the Books         | Usurped / merged with other Titles                |
+| Title                                | Reason for redundancy                                         |
+| ------------------------------------ | ------------------------------------------------------------- |
+| God of Passion & the Laugh           | Tricked into destroying itself                                |
+| God of Seasons & the Journey         | Forgotten                                                     |
+| God of Reaping & the Void            | Laid vacant for centuries, formally abandoned                 |
+| God of Terror & the Reckoning        | Only existed briefly, then destroyed by the Lodge             |
+| God of Speech & the Stars            | Dissapeared, never reinstated                                 |
+| God of Trickery & the Dissapointment | Kept secret for ages. Upon its discovery, it destroyed itself |
+| God of Blooming & the Harvest        | Usurped / merged with other Titles                            |
+| God of Order & the Forgotten         | Usurped / merged with other Titles                            |
+| God of Direction & the Books         | Usurped / merged with other Titles                            |
 
 # Other Pantheonic ranks
 The following are an inexhaustive list of other ranks and states of being that occur within or due to the Pantheon's existance.
 
-**Avatar** - An Avatar is a physical manifestation of a higher being, such as a God, Demigod, or Titan. They are pieces of arcane energy severed from the being warped into a separate entity. The severed energy regrows over time, or can be restored by reabsorbing the Avatar.
+- **Avatar** - An Avatar is a physical manifestation of a higher being, such as a God, Demigod, or Titan. They are pieces of arcane energy severed from the being warped into a separate entity. The severed energy regrows over time, or can be restored by reabsorbing the Avatar.
 
-**Conduit** - A Conduit is a living organism, whose purpose to the Pantheon is to allow for a steady arcane bond between realms through which energy can flow. They are living, breathing, walking holy sites. A Conduit can be born as one, chosen by a high-ranking celestial, or trained to become one. It is also possible to become one due to exposure of raw energy, though this can also be very deadly. Those born as conduits may not realize it until they either incidentally reap benefits or become sick due to their affliction, as not sustaining the Conduit's bond will cause the organism to become ill.
+- **Conduit** - A Conduit is a living organism, whose purpose to the Pantheon is to allow for a steady arcane bond between realms through which energy can flow. They are living, breathing, walking holy sites. A Conduit can be born as one, chosen by a high-ranking celestial, or trained to become one. It is also possible to become one due to exposure of raw energy, though this can also be very deadly. Those born as conduits may not realize it until they either incidentally reap benefits or become sick due to their affliction, as not sustaining the Conduit's bond will cause the organism to become ill.
 
-**Shards** - Shards are creatures that are able to exist without complete Immateria, but not meant to be. In most species, a creature lacking Space, Time, Fate, or Blood will rapidly deteriorate them, but the accidental or purposful overcoming of this can lead to great powers. Some gods see them as mistakes, others bless them. For example, the God of Myth & Corruption is famous for allowing Shards lacking Time, while the Godess of Decay & the End often allows the lack of Blood.
+- **Shards** - Shards are creatures that are able to exist without complete Immateria, but not meant to be. In most species, a creature lacking Space, Time, Fate, or Blood will rapidly deteriorate them, but the accidental or purposful overcoming of this can lead to great powers. Some gods see them as mistakes, others bless them. For example, the God of Myth & Corruption is famous for allowing Shards lacking Time, while the Godess of Decay & the End often allows the lack of Blood.
 
-**Lumodin** - Paladin Generals that have been recruited by their respective God. They will often have their own titles and further ranks depending on the being they serve, with Lumodins being the highest tier among them.
+- **Lumodin** - Paladin Generals that have been recruited by their respective God. They will often have their own titles and further ranks depending on the being they serve, with Lumodins being the highest tier among them.
 # The Everglow Ritual
 Within Califhen, the chant that is often regarded as the most infamous due to its frequent use in ceremonies and teachings, is the Everglow Ritual. The chant pronounces in full all current Gods and their respective titles, in a request for their overall favor and worship. It is said that it wards one from the Ire of a particular God, in acknowledging their prescence as one within the Pantheon of all.
 
