@@ -61,6 +61,8 @@ The following are an inexhaustive list of other ranks and states of being that o
 - **Shards** - Shards are creatures that are able to exist without complete Immateria, but not meant to be. In most species, a creature lacking Space, Time, Fate, or Blood will rapidly deteriorate them, but the accidental or purposful overcoming of this can lead to great powers. Some gods see them as mistakes, others bless them. For example, the God of Myth & Corruption is famous for allowing Shards lacking Time, while the Godess of Decay & the End often allows the lack of Blood.
 
 - **Lumodin** - Paladin Generals that have been recruited by their respective God. They will often have their own titles and further ranks depending on the being they serve, with Lumodins being the highest tier among them.
+
+- **Primordials** - Most primordial beings are denizens of the Elemental Planes, from elementals to genasi. The largest of these are the Primordial Titans, who hold sparks of Elemental Essence in their form.
 # The Everglow Ritual
 Within Califhen, the chant that is often regarded as the most infamous due to its frequent use in ceremonies and teachings, is the Everglow Ritual. The chant pronounces in full all current Gods and their respective titles, in a request for their overall favor and worship. It is said that it wards one from the Ire of a particular God, in acknowledging their prescence as one within the Pantheon of all.
 

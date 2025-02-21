@@ -9,7 +9,7 @@ tags:
 > | | |  
 > |---|---|  
 > | **Type** | NPC |
-> | **Player** | [[Alex]] |
+> | **Player** | Someone |
 > ###### Character Information  
 > | | |  
 > |---|---|  
@@ -22,11 +22,11 @@ tags:
 > | **Location** | (CURRENT LOCATION) |
 > | **Age** | (CURRENT AGE OR AGE OF DEATH) |
 > | **Languages** | Common ... |  
-> | **Family** | - [[Name]] (relation)<br>- [[Name]] (relation) |
-> | **Connections** | - [[Name]] (relation)<br>- [[Name]] (relation |
+> | **Family** | - Name (relation)<br>- Name (relation) |
+> | **Connections** | - Name (relation)<br>- Name (relation |
 > | **Status** | (ALIVE OR SMTH) |
 
-**(NAME)** is a (RACE) (OCCUPATION). As an NPC, he/she is played by [[Alex]].
+**(NAME)** is a (RACE) (OCCUPATION). As an NPC, he/she is played by someone.
 # Description
 ## Appearance
 > TODO: Description of appearance.

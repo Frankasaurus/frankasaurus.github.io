@@ -3,7 +3,7 @@ tags:
   - stracciadnd-2
 ---
 Startsituatie: party is buiten de paleismuren van Dragoness Barony.
-## [[Session C2S40]]
+## [[Session C2S39]]
 1. Begeleiden naar de magisch afgesloten kamer van Willemijn de Dragoness, met daarin een Teleportation Circle.
 3. Teleportation Circle leidt naar een afgelegen tempel in Ayhwen Town **Tempel des Mythen**, waar het [[College of Myths|College van Mythen]] zich verzameld voor de kwestie-Dragoness.
 	1. Reunie met Willemijn *en* Bartos de la Rosa (zo wist hij van Benjamin af).
