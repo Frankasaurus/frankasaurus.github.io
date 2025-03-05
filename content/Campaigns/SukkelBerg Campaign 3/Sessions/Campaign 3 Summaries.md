@@ -33,5 +33,18 @@ tags:
 >
 > ![[C3S02Summary.pdf]]
 
-> [!quote]- Sessie 3 - ... | 8 Februari 2025
-> *Dit verhaal wordt nog geschreven...*
+> [!quote]- Sessie 3 - Tovenaar Gezocht, Tralies Gevonden | 8 Februari 2025
+> De ochtend brak traag aan in de veiliggestelde smokkelaarshaven, waar onze avonturiers ontwaakten uit een onrustige slaap. De lucht was doordrenkt met de geur van zout, het lichaam van de Rattenkeizer en avontuur, maar ook met een onheilspellende spanning. De nieuwsgierigheid naar de verdachte Tome of the Blooded heeft een toppunt bereikt. Naar Lenora fluisterden de pagina's een naam: Andries Stellart, een wijze en excentrieke tovenaar, een meester in de magie, maar een onkundige alchemist. Er werd gefluisterd dat hij zich zou schuilen in het zuiden van het Pentos Woud.
+> Tijdens de avondgebed genaamd de Eeuwengloed is de groep met behulp van Danill geïntroduceerd aan Virmeena; een oude mevrouw die de groep heeft genezen van de vervloeking die de ratten hen hadden gebracht. Daarnaast deelde zij verhalen over haar tijd in het Gilde in Elivstr, waar ze de geheimen van de magie had ontrafeld. Na de Eeuwengloed, waarin de goden en godinnen van Califihen werden vereerd, besloten de avonturiers hun reis naar het noorden voort te zetten. Hun eerste halte was een strand, waar ze genoten van een moment van rust en hun kleding verschoonden van hun afgelopen avonturen.
+> 
+> **Woudgrens en interessante families**
+> De reis zette zich voort richting de Woudgrens. Al gauw is de groep geïntroduceerd aan een interessant karakter genaamd boer Fritz. Deze welbespraakte man heeft de avonturiers verwezen naar zijn vader Ad die hen een welverdiende maaltijd en een bijzonder gesprek heeft aangeboden. Naast een uitgebreide weergave van de familieboom van Fritz, Ad en schijnbaar zijn twee partners, is de groep ook geïnformeerd van een aparte koerier genaamd Jawahr.
+> De avonturiers hebben een korte nacht doorbracht met Jawahr waarin is afgesproken om tegen een betaling met Jawahr naar het zuiden te reizen waarbij de groep vermomd als gevangen zou zijn. Wegens hun recentelijke ervaringen wist de groep deze rol heel makkelijk aan te nemen. 
+> 
+> **Onverwachte verraad**
+> De reis naar Rhomea, de woonplaats van Garrick, waar ze meer hoopten te weten te komen over Andries Stellart, nam een duistere wending. Jawahr bleek een verrader te zijn, die hen had ontvoerd om losgeld te eisen. Een gevecht brak uit, maar de avonturiers werden overmeesterd en belandden opnieuw in een cel. 
+> De stilte van de gevangenis werd verbroken door het rumoer van een naburige cel. Uit een gesprek tussen Jawahr en een gevangene bleek dat de groep de bende kon uitdagen tot een gevecht. Een overwinning zou hun vrijheid betekenen, maar nederlaag een nog grotere ellende.
+> 
+> Is dit de enige uitweg voor onze avonturiers? Zullen de avonturiers de strijd aangaan, en hun vrijheid terugwinnen?
+> 
+> ![[C3S03Summary.pdf]]

@@ -21,6 +21,7 @@ tags:
 > | **Species** | Human |  
 > | **Origin** | Entertainer |
 > | **Class** | Ranger (Beast Master) |  
+> | **Born** | Rhomea, 29 years ago |  
 > | **Languages** | Common, Goblin, Halfling, Orc | 
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |

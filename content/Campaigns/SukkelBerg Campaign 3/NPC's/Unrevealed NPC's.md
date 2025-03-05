@@ -4,7 +4,7 @@ tags:
   - sukkelbergdnd-3
   - important-page
 ---
-+> [!warning]
+> [!warning]
 > **THE FOLLOWING NPC'S ARE NOT YET PUBLIC, AS THEY ARE PART OF THE PLAYER'S BACKSTORY OR A FUTURE PLOT**
 # List of major NPC's
 
@@ -17,7 +17,7 @@ tags:
 # List of minor NPC's
 | Name                                      | Description                                                                                                                                                                          | State                   | First occurance |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | --------------- |
-| Unnamed parents of [[Yerall]] & [[Nyrin]] | in]] | Backstory of Yerall &                                                                                                                                                         | Alive in (TBD)          |                 |
-| Carina Majir, Archdruid of Circinus       | s       | Backstory of [[Gallus]]. F elder Drow, white haires, hoa                                                                                                                   | Alive in Camp Aurora    |                 |
+| Unnamed parents of [[Yerall]] & [[Nyrin]] | Backstory of Yerall & Nyrin                                                                                                                                                          | Alive in (TBD)          |                 |
+| Carina Majir, Archdruid of Circinus       | Backstory of [[Gallus]]. F elder Drow, white haires, hoarse voice.                                                                                                                   | Alive in Camp Aurora    |                 |
 | Maggoras, Shepherd of Olmari              | Nightwalker. Backstory of [[Lenora]]. Shadow entity working for [[Kaurius Krone]], servant to Olmari<br>https://www.myminifactory.com/search#/?{%22searchString%22:%22nightwalker%22 | Alive in the Shadowfell |                 |
-| King Ingvar Peldr II                      | |                                                                                                                                                                                    | Alive                   |                 |
+| King Ingvar Peldr II                      | Current ruler of Vreebis.                                                                                                                                                            | Alive                   |                 |

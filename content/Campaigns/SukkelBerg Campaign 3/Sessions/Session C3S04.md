@@ -64,3 +64,6 @@ Zal zoeken naar **Telinde:** een Void Elemental met wie Andries samenwerkt. Vraa
 - Telinde's Bracelet of Void Jumping
 # 4. Gevecht Jawahr
 ![[Session C3S03#Jawahr's gevecht]]
+# Rhomea
+TODO! Check notities Hanne: [[Player notes - Garrick - Hanne#Na sessie 3]] 
+Maak korte 
