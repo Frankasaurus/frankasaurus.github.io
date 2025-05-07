@@ -15,3 +15,6 @@ tags:
 	- D
 
 ![[Player notes - Nyrin - Kim#Backstory]]
+# Na sessie 4
+Papa nyrin/yerall: Grathgor
+Mama nyrin/yerall: Allisa

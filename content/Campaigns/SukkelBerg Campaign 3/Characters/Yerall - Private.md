@@ -15,7 +15,7 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Yerall |
+> | **Name** | Yerall Xilvyrez |
 > | **Gender** | Male | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Elf (Drow) |  

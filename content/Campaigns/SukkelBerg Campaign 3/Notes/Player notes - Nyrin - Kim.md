@@ -44,4 +44,6 @@ Kim wilt van Class wisselen, heeft gekozen voor Bard - College of Glamour (fey c
 	- Dus geen instrument o.d. - dan moeten we wat zaken omtolken.
 - Geupdate in D&D Beyond.
 - Spiegeltje als spellcasting focus.
-
+# Na sessie 4
+Papa nyrin/yerall: Grathgor
+Mama nyrin/yerall: Allisa

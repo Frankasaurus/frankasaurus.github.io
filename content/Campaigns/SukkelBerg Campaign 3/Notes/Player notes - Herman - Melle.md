@@ -34,3 +34,17 @@ Zijn dochter begon ouder te raken en slimmer. Ze had uiteindelijk door wat er in
 Mijn gedachte is dat dit al ver voor de huidige graaf is gebeurt.
 
 Herman kent Yerall en Nyrin omdat zij in de groep van het kind zaten waarvoor hij het opnam.
+# Na sessie 3
+Boerderij van Herman. 
+
+Herman zijn boerderij is geplaatst over rollende heuvels. Je kan de velden van een afstand zien deze gele sprieten van het graan mee golvend over de heuvels. Herman verbouwde hier voornamelijk graan. Dit deed hij omdat hier de meeste vraag naar was.  
+
+Naast zijn graanvelden had hij een stal met ossen om de ploegen voort te trekken, een schuur voor opslag en een huis voor de werknemers. 
+
+De Boerderij is bedoeld voor een jeugdcorrectie centrum voor kinderen uit de stad. De kinderen die in de stad alleen maar herrie schoppen en anders naar Cogaster moeten worden eerst naar de boerderij gestuurd. Als ze 18 jaar zijn geworden moeten de kinderen terug naar de stad en voor de gilde komen om te kijken of ze weer terug kunnen in de maatschappij. Mochten ze goed gedrag vertonen en goed rappoort krijgen van Herman dan kunnen ze bespreken welke gilde bij hen past. Mochten ze geen goed gedrag vertonen en gaf Herman geen goed rapport dan had Herman een keuze. Heeft het kind meer tijd nodig dan mocht hij/zij nog langer op de boerderij, was er geen toekomst dan gingen ze naar Cogaster. Gelukkig is dit nooit voorgekomen 
+
+Herman had 2 compagnons die de boerderij over kunnen nemen als hij er niet is. Het is een ouders stel die het leven in de stad zat waren en een meer rustig leven wilde. Jan en Esther. Jan een halfling van rond de 50 zwart haar met een cocosnootkapsel, altijd in voor een grapje met de kinderen en is altijd veel te lief voor ze. Esther deze langere tiefling dame, ook ronde 50 met zwart stijl haar is een wat norser type. Ze houdt van Jan en de kinderen alleen uit dat minder in woorden maar in daden. Ze zorgt dat de kinderen er netjes uit zien als ze buiten de boerderij moeten zijn, en als kleding stuk is dan maakt zij deze weer. 
+
+Er zijn bij Herman ongeveer 15 kinderen. Ze zijn allemaal verschillend rassen en klasse. 
+
+Bob: Thiefling  16 jaar is samen met Jerall en Nyrin erin geluisd. Heeft altijd zijn best gedaan en probeert de goedkeuring te krijgen van Herman, Jan en Esther.

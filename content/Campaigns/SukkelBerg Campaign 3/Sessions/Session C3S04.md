@@ -7,13 +7,15 @@ tags:
 | Sessie no.       | 4                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
-| Datum            | Za 8 Februari, 2025                                                                                                                        |
-| Titel            |                                                                                                                                            |
+| Datum            | Zo 9 Maart, 2025                                                                                                                           |
+| Titel            | De prijs van vrijheid                                                                                                                      |
 **Wat:** Vorige sessie is de party van de grot naar Woudgrens getrokken, en toen in de valstrik geluist door **Jawahr Mislav**, een prominent lid van De Onderneming.
 **Wanneer:** 2 dagen sinds aankomst op vasteland, nacht. Herfst
 **Waar:** Schuilplaats van De Onderneming. Pentos Woud tussen Gisat en Vreebis.
 **Doel sessie:** Geef de party opties! Hoe dan ook voor het einde van de sessie op weg naar Elivestr.
 **Onthouden:** 
+- Lenora's geestjes
+- Gallus' gebrek aan sterren
 # 1. Opties
 - Een bewaker en oud-leerling van [[Herman]] smokkelt bij het brengen van eten een lockpick met een briefje eraan; *"Gebruik in geval van nood. Dankjewel voor alle jaren, Zilvertong."*
 - Bij bekend maken [[Tome of the Blooded]]; Pappa Varnn wilt dit zien.
@@ -64,6 +66,7 @@ Zal zoeken naar **Telinde:** een Void Elemental met wie Andries samenwerkt. Vraa
 - Telinde's Bracelet of Void Jumping
 # 4. Gevecht Jawahr
 ![[Session C3S03#Jawahr's gevecht]]
+![[Session C3S03#Combat B - Arena]]
 # Rhomea
 TODO! Check notities Hanne: [[Player notes - Garrick - Hanne#Na sessie 3]] 
-Maak korte 
+Als ze hier aankomen en met Pacper ontmoeten; opmerking dat Garrick net als die valse ouders van hem beter weg kon blijven.

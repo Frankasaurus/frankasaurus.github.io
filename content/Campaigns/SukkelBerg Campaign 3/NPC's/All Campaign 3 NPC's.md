@@ -15,8 +15,9 @@ In [[Campaign 3]], all NPC's are played by [[Alex]], notwithstanding potential e
 # List of minor NPC's
 | Name                      | Description                                                                                  | Last know State                            | First occurance   |
 | ------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------ | ----------------- |
-| Daniil                    | Halfling imprompto captain of the prisoner exile ships from [[Cogastr]].                     | Alive, in the Cohyn Sea Smuggler's hideout | [[Session C3S02]] |
 | Piotr                     | Hulking Minotour Male, wielding a crude halbeld. Muscle of Leeflin Bruut                     | Alive, in Cogastr                          | [[Session C3S01]] |
 | Herr Dain Gerrdruck       | Ruler of [[Cogastr]]. Has a son, Alfrid, who is Warden of Cogastr's main prison.             | Killed by [[Herman]] on [[Cogastr]]        | [[Session C3S01]] |
+| Daniil                    | Halfling imprompto captain of the prisoner exile ships from [[Cogastr]].                     | Alive, in the Cohyn Sea Smuggler's hideout | [[Session C3S02]] |
 | Ad, Ton, Geraldine, Fritz | Three polyamorous adults with a farm and bakery, and Fritz, their son who helps on the farm. | Alive, in Woudgrens                        | [[Session C3S03]] |
 | Virmeena                  | Blind woman and experienced Chronomancer, rescued from [[Cogastr]].                          | Alive, in the Cohyn Sea Smuggler's hideout | [[Session C3S03]] |
+| Tobol & Byrna             | Noble human couple from Elivestr. Captured by The Business.                                  | Alive, in The Business' hideout            | [[Session C3S04]] |

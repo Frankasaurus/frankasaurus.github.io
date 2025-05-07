@@ -15,7 +15,7 @@ tags:
 > ###### Character Information  
 > | | |  
 > |---|---|  
-> | **Name** | Nyrin ??? |
+> | **Name** | Nyrin Xilvyrez |
 > | **Gender** | Female | 
 > | **Creature Type** | Humanoid |
 > | **Species** | Elf (Drow) |  

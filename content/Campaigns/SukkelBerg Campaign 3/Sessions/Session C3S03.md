@@ -8,7 +8,7 @@ tags:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
 | Datum            | Za 8 Februari, 2025                                                                                                                        |
-| Titel            |                                                                                                                                            |
+| Titel            | Tovenaar Gezocht, Tralies Gevonden                                                                                                         |
 **Wat:** Vorige sessie is de party aangekomen bij een smokkelaarsgrot om de verstekelingen van [[Cogastr]] onderdak te bieden. 
 **Wanneer:** De avond na aankomst.
 **Waar:** Cohyn Zee Smokkelaarsgrot.

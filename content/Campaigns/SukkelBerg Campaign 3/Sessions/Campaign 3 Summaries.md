@@ -48,3 +48,18 @@ tags:
 > Is dit de enige uitweg voor onze avonturiers? Zullen de avonturiers de strijd aangaan, en hun vrijheid terugwinnen?
 > 
 > ![[C3S03Summary.pdf]]
+
+> [!quote]- Sessie 4 - De prijs van vrijheid | 9 Maart 2025
+> Op deze dag hoorden de avonturiers iets wat ze niet hadden zien aankomen: vrijheid heeft een prijs – en een hoge ook. “De vrijheid van Lenora is kostbaar”, verteld Jawahr. Mogelijk kan ook de rest van de groep gekocht worden door een oude kennis van Lenora, maar slechts op voorwaarden dat hij hen persoonlijk zal komen ophalen. Ook voor Herman is er hoop. Herman kan worden vrijgelaten, mits zijn boerderij verkocht wordt om zijn vrijheid te kopen. Voor de rest van de groep echter, blijft het stil. Niemand heeft zich gemeld om voor hun vrijheid te betalen. 
+> 
+> Deze woorden vallen slecht bij de avonturiers. Ze besluiten hun oordeel uit te stellen en wachten eerst af tot zij meer informatie verkrijgen over de strijdkunsten van Jawahr tijdens de avondstrijd.
+> 
+> **Het Duel**
+> Het uur van het duel is aangebroken. Het is tijd voor de strijd tussen de gevangene genaamd Tobol en Jawahr. Bij het verlaten van zijn cel, ontvangt Tobol een opvallende Bardic Inspiration van Nirin. Het gevecht lijkt in eerste instantie goed te verlopen voor Tobol, maar onverwachts grijpt Jawahr naar magie. Door de toepassing van Misty Step draait het gevecht is zijn voordeel. Tobol valt en zijn lot tezamen met die van zijn celmaat, is bezegeld. Ze worden weggeleid naar iemand die slechts benoemd wordt met een geheimzinnige naam: Pappa Varrn Gedurende de strijd heeft Herman scherpzinnig als altijd, de sleutel van hun cel op de grond gevonden. Dat is gunstig!
+> 
+> Na lang beraad hebben de avonturiers besloten om morgen ook de strijd met Jawahr aan te gaan. Onze avonturiers staan plots tegenover zes strijders van de bende van Jawahr. Met de toepassing van hun variërende strijdkracht, bestaande uit magie, pijlen, wapens en het duwen van hun vijanden, weet de groep de strijd met de bende te winnen. De overwinning van de groep wordt aangekondigd en worden de volgende stappen als volgt uitgelegd: drink een slaappotion en de groep zal vrijgelaten worden in het bos zonder dat het voor hen duidelijk is waar de basis van de organisatie ligt. Met enkele twijfels stemt de groep hiermee in.
+> 
+> **Pappa Varrn**
+> De prijs van vrijheid is echter niet voor iedere persoon gelijk. Zo blijkt dat Jawahr nooit van plan was om de avonturiers vrij te laten. Met een laatste verbale steek in de rug laat hij aan Gallus weten dat ook zij onderweg zijn naar Pappa Varrn. Op dat moment worden de slapende lichamen van de avonturiers in een gat gegooid dat eindigt in een duik in het water. Bij het openen van hun ogen worden zij begroet door Pappa Varrn, een monsterlijke reus met één oog.
+> 
+> ![[C3S04Summary.pdf]]

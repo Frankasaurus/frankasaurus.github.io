@@ -13,6 +13,8 @@ tags:
 	- **Serpent** - Meant as an easy start; A circular constellation that bodes the flow of time, with all its significance and insignificance. They will require a show of awareness to the true passing of time, where change is only possible when submitting yourself to the passing of time and your relative unimportance in the universe (Get it twisted).
 - **How does the rest of the party impact his backstory?**
 	- D
+- **Ideas**
+	- Have Gallus confront star cults.
 # Backstory
 Vroeger dacht ik de toekomst in de sterren te kunnen zien. Ik zag kleine gebeurtenissen in de sterren die vervolgens uit zouden komen. Dit was volgend de Circle het teken dat je op de juiste pad was.
 
