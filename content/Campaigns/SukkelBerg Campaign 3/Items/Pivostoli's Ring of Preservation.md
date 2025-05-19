@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - dnd-magicitem
   - sukkelbergdnd-3
@@ -17,9 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | Andries Stellard |
+> | **Previous owners** | Dr. Pivostoli, Andries Stellard |
+> | **Current owners** | [[Nyrin]] |
 
-**Pivostoli's Ring of Preservation** is a magical ring currently attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
+**Pivostoli's Ring of Preservation** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. It is currently owned by [[Nyrin]].
 # Description
 While wearing this ring, you are immune to magic that allows other creatures to read your thoughts, determine whether you are lying, know your alignment, or know your creature type. Creatures can telepathically communicate with you only if you allow it.
 

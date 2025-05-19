@@ -1,10 +1,15 @@
+---
+tags:
+  - sukkelbergdnd-3
+  - dnd-session
+---
 In deze sessie vragen wat iedereen's doel is
 
 | Sessie no.       | 5                                                                                                                                          |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
 | Datum            | Zo 20 April, 2025                                                                                                                          |
-| Titel            |                                                                                                                                            |
+| Titel            | De Ringen der Macht                                                                                                                        |
 **Wat:** Vorige sessie is de party in gevecht gegaan met Jawahr. Hebben gewonnen, maar zijn voorgelogen, en gedumpt verder in de grot waar De Onderneming schuil neemt. Daar kwam een charmerende Cycloop hun tegemoet.
 **Wanneer:** 4 dagen na aankomst vasteland, late avond. Herfst.
 **Waar:** Diep in de grot van De Onderneming.

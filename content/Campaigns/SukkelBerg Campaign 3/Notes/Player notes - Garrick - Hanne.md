@@ -5,8 +5,8 @@ tags:
   - internal
 ---
 # Factsheet
-- **Question**
-	- Answer
+- **What happened to Garrick's parents?**
+	- Garrick's family were Gajau-Hunters; professional fighters taught in the art of felling mythical creatures of large proportions. Due to their age and newborn son, missions became sparse, and their technique was lost, resulting in frustration. After yet another argument, Pacper snapped, and left them behind during preparations on a mission near the Calndoorn Woods. Pacper never heard from them again, and laid down his weapon.
 - **How does the rest of the party impact his backstory?**
 	- D
 # Achtergrond

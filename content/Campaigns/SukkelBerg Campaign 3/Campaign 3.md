@@ -9,6 +9,6 @@ tags:
 
 **[[Campaign 3 Summaries|Click here for a summary per session]], courtesy of Kacper.**
 # Players
-*For the main article, go to [[Party (C3)]].*
+*For the main article, go to [[Hex Circulum]].*
 
-![[Party (C3)#Current members]]
+![[Hex Circulum#Current members]]

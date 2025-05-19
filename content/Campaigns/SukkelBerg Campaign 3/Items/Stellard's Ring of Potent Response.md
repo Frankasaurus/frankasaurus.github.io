@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - dnd-magicitem
   - sukkelbergdnd-3
@@ -17,9 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | Andries Stellard |
+> | **Former owner** | Andries Stellard |
+> | **Current owner** | [[Hex Circulum]] |
 
-**Stellard's Ring of Potent Response** is a magical ring currently attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
+**Stellard's Ring of Potent Response** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 − 1 levels of stored spells chosen by the DM.
 

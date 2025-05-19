@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - dnd-magicitem
   - sukkelbergdnd-3
@@ -17,9 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | Andries Stellard |
+> | **Former owner** | Andries Stellard |
+> | **Current owner** | [[Hex Circulum]] |
 
-**Adurel's Ring of Grant Praise** is a magical ring currently attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
+**Adurel's Ring of Grant Praise** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description
 This ring's emblem contains the symbol of a shattered arrow. 
 

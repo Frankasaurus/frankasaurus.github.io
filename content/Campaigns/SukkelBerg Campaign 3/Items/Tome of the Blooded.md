@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - dnd-magicitem
   - sukkelbergdnd-3
@@ -17,8 +17,8 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
+> | **Previous owners** | Andries Stellard, unknown Boggle |
 > | **Current owner** | [[Lenora]] |
-> | **Previous owners** | The Boggle hidden in the Cohyn Sea Smuggler's hideout |
 
 **Tome of the Blooded** is a magical book, currently in possession by [[Lenora]].
 # Description
@@ -38,4 +38,4 @@ The rings on the hand are the following;
 - Stellard's Ring
 - Telinde's Bracelet
 
-Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When the [[Party (C3)]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora.
+Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When the [[Hex Circulum]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora.

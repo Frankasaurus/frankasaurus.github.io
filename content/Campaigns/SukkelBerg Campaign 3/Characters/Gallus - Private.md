@@ -54,6 +54,6 @@ But this conviction, like the moon, waned with time. As he grew older, Gallus be
 
 The disbandment came with banishments for those who opposed Circinus' core principles, and Gallus was ceremoniously banished as a result too. For two years, Gallus had to integrate himself with the wider world, learn its practices, and struggle to earn a keep. Part of this introduction into society, was getting to know [[Garrick]], a traveling street performer with a Cat companion. Together, they would make a living by combining their skills to do magic tricks.
 
-This went well for a while, but a catastrophic performance in Hanpr led to mass hysteria of the crowd, and their subsequent arrest. Whether by fate, a lack of luck, or overexeggaration, the pair were sent off to [[Cogastr]] as trade for minerals Hanpr needed. It was here where a spontanious trip to the isolation cells resulted in the meeting of talented individuals. After a daring escape of the island, they would form [[Party (C3)|an adventuring party]].
+This went well for a while, but a catastrophic performance in Hanpr led to mass hysteria of the crowd, and their subsequent arrest. Whether by fate, a lack of luck, or overexeggaration, the pair were sent off to [[Cogastr]] as trade for minerals Hanpr needed. It was here where a spontanious trip to the isolation cells resulted in the meeting of talented individuals. After a daring escape of the island, they would form [[Hex Circulum|an adventuring party]].
 ## During the campaign
 *To be written...

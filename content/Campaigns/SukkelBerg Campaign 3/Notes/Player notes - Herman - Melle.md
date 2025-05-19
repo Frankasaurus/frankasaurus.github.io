@@ -8,7 +8,7 @@ tags:
 - **How does Herman's Oath work?**
 	- His Oath is to himself. He has unknowingly made himself a Conduit for the Celestial planes, and is using that energy to become holy. If he is ever to diverge from his Path as a Glory Oath'd Paladin, he will fall ill.
 - **What Guild was Herman part of?**
-	-  The Guild of Interstate Commerce, also known as the *Pursuit of the Owl* ('Gilde Uilstreven'). Here he was a 'Silver Tongued' dealmaker. This is the guild that also extradited him and the other [[Party (C3)]] members to [[Cogastr]].
+	-  The Guild of Interstate Commerce, also known as the *Pursuit of the Owl* ('Gilde Uilstreven'). Here he was a 'Silver Tongued' dealmaker. This is the guild that also extradited him and the other [[Hex Circulum]] members to [[Cogastr]].
 - **Which house killed his family?**
 	- *TBD - Leaving this up to Melle*
 - **What was his Daughter planning?**

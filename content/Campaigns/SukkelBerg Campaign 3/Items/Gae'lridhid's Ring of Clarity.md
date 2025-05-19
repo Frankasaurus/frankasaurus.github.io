@@ -1,5 +1,5 @@
 ---
-publish: 
+publish: true
 tags:
   - dnd-magicitem
   - sukkelbergdnd-3
@@ -17,9 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | Andries Stellard |
+> | **Former owner** | Andries Stellard |
+> | **Current owner** | [[Hex Circulum]] |
 
-**Gae'lridhid's Ring of Clarity** is a magical ring currently attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
+**Gae'lridhid's Ring of Clarity** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description
 While wearing this ring, you can take a Magic action to gain X-ray vision with a range of 30 feet for 1 minute. To you, solid objects within that radius appear transparent and don’t prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances or a thin sheet of lead block the vision.
 
