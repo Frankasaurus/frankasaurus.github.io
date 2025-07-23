@@ -64,7 +64,7 @@ tags:
 > 
 > ![[C3S04Summary.pdf]]
 
-> [!quote] Sessie 5 - De Ringen der Macht | 20 April 2025
+> [!quote]- Sessie 5 - De Ringen der Macht | 20 April 2025
 > 
 > De avonturiers ontwaken in een grimmige grot en worden direct begroet door een eenogige Goliath met een opvallend kenmerk; één van zijn handen ontbreekt. Hoewel de Goliath in eerste instantie intimiderend leek, lijkt hij vooralsnog drukker bezig te zijn met zijn werktafel. Naast de Goliath, treffen de avonturiers ook Tobol aan en iemand die lijkt op zijn partner, beiden gelukkig in relatief goede conditie. De groep leek nieuwsgierig te zijn vanwege het feit dat Pappa Varrn helemaal niet druk met hen bezig was. Bij een snelle blik op de werktafel is gebleken dat de Goliath druk bezig was met allerlei symbolen dat mogelijk een recept moest voorstellen of magisch van aard was. Pogingen tot communicatie blijven vruchteloos, totdat Garrick, spontaan besluit om gebarentaal in te zetten. Voor het eerst kijkt de Goliath op.
 > 
@@ -77,3 +77,13 @@ tags:
 > Om de nieuwe informatie te laten bezinken, besluit de groep een lang verdiende diepe slaap op te zoeken, zonder ervan op de hoogte te zijn dat bij hun ontwaking de krachten van de avonturiers lijken te zijn toegenomen. De groep wordt vervolgens nogmaals door Andries Stellard getoverd naar de rand van het bos, met Rhomea in zicht.
 > 
 > ![[C3S05Summary.pdf]]
+
+> [!quote]- Sessie 6 - De Oom en zijn Schacht | 17 Mei 2025
+> Na een vlotte teleportatiespreuk verschijnen de avonturiers plots op de rand van het Pentos Woud, met Rhomea in zicht. Dankzij een voorstel van Garrick wist de groep wat hun volgende bestemming zou zijn, namelijk zijn oom. Wat een eenvoudige tussenstop leek, bleek al snel ingewikkelder dan gedacht. Sinds de ontsnappingen uit de gevangenis van Cogastr gold in de regio een nieuwe maatregel: iedereen diende te allen tijde geldige documenten te kunnen tonen aan de koningsgarde die voorlopig aan de grens geplaatst is. Een probleem, aangezien de groep daar op dat moment niet over beschikte. Wanneer de koningsgarde ongeduldig begint te worden, horen de avonturiers plots een stem van achter hen komen. Bij het omdraaien stonden zij oog in oog met Pacper, de oom van Garrick. 
+> 
+> Pacper bleek een bekende figuur in deze streek en wist met een paar woorden de wachters gerust te stellen. Hij beloofde de groep te en heeft voorlopig hun probleem met de koningsgarde weten op te lossen door middel van een geheimzinnig drankje. Garrick en Pacper hebben veel te bespreken en doen dit ook, echter met een overgroot gedeelte van het gesprek afkomstig te zijn vanuit de kant van een boze en teleurgestelde oom Pacper. Misschien had Garrick toch een briefje met uitleg moeten achterlaten voordat hij besloten heeft om voor aantal jaar van de aardbodem te verdwijnen. Om dit goed te maken, hebben de avonturiers besloten om de tuin van Pacper op te knappen. Na dit gebaar valt er toch iets beter met Pacper te praten. Hij vertelt de waarheid aan de avonturiers: Pacper kan helemaal niet valse identiteitsdocumentatie creëren. Hierdoor moeten de avonturiers zorgen dat ze binnen twee dagen zijn vertrokken.
+> 
+> Tijdens hun nachtrust worden de avonturiers ineens verrast door een luid gebonk van de stadswachters bij de voordeur. Pacper waarschuwt de avonturiers en zij besluiten om te vluchten via een kelderluik samen met de oom van Garrick. De groep bevond zich ineens in een verlaten mijnschacht met bijzonder veel spinnenwebben en kleine spinnen. Gelukkig kunnen kleine spinnen geen kwaad, maar niemand wist wat zich verderop in het duister verschool…
+>
+> ![[C3S06Summary.pdf]]
+

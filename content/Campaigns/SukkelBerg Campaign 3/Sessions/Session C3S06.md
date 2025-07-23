@@ -8,7 +8,7 @@ tags:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
 | Datum            | Za 17 Mei, 2025                                                                                                                            |
-| Titel            |                                                                                                                                            |
+| Titel            | De Oom en zijn Schacht                                                                                                                     |
 **Wat:** Vorige sessie hebben ze Andries Stellard bevrijd, en met hem gevlucht naar het Hof van Thil'ir. Daar hebben ze hun rust gepakt, zijn ze geleveled, en veel te weten gekomen over zichzelf. Ze zijn afgedropt in de rand van het bos voor Rhomea.
 **Wanneer:** 6 dagen na aankomst op vasteland, herfst.
 **Waar:** Zuidergrens van het Pentos Woud, voor de grens van Vreebis, in zicht van Rhomea.
