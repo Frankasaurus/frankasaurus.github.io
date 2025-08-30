@@ -47,6 +47,14 @@ Pacper zal zijn vluchtplan uitschetsen (inclusief spin: **Olinde** "Ik ben benie
 - **Oude spullen (wapens, armor, etc) liggen in een moeras boven de Eli rivier.** Het is van hun als ze het willen vinden.
 	- ==TODO Bedenken wat dit is==
 # 2. Tocht
+
+## Tussenstop
+*Later toegevoegd aan document:*
+Tussenstop bij **Eli's bend** (moeras in een bocht van de Eli revier). Verlaten stad met een grote kerk in het midden. Locatie van Pacper's oude gereedschap.
+- Oud pantser (Chain Shirt) met een zwaar onderarmbeschermer. Niet magisch
+- Magisch zweihander: [[Last Godsent]].
+- Magisch MotorBalista 1: Een draagbare variant van MotorBalista 2 op de kar. Schiet reuzachtige kruisboogprojectielen semi-automatisch. Groot vaardigheidsniveau voor nodig. 
+[[Lenora]] kreeg hier alweer een schim te zien.
 ## Herman's boerderij
 Onthoudt dat deze door de stad is 'onderhouden'.
 ## Elivestr

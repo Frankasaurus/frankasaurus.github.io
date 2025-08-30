@@ -61,4 +61,5 @@ Though once an up-and-coming area, this has now become the new home for expelled
 
 **Rural region**
 The wider area that surrounds Elivestr is maintained quite a lot due to its relatively exposed position. Farms, military lookouts, sprawling settlements and obscure services are scattered throughout its domain.
-- **[[Herman]]'s farm**
+- **[[Herman]]'s farm:** Besides a semi-productive farm, it is a reception centre for troublesome kids that Elivestr doesn't want to deal with. It came about as a deal between the Goldfield guild and Herman.
+- **Eli's bend:** Formerly a village landinward of Elivestr, but the construction of the lucrative ports caused the water level to rise and subjected the village to frequent flooding. It lies abandoned in the middle of a bog since.

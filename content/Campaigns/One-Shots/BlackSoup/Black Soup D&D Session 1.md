@@ -73,3 +73,8 @@ Once they have descended into the halls; Kaurius will appear at the entrance of 
 ## Loot
 - Several crystals poking out of the walls. 
 - Other various gems worth (4 * 30gp).
+
+# End result:
+The party traversed the old mines succesfully uncovering explosives and deadly rocks, but were in the end deceived by Kaurius. He exposed them as bait to either lure or distract the cavern's inhabitants. As they were no trapped on the collapsed floor of the mines, they spotted a way up towards the creature's lair, prepared themselves, and slew three Illinum Dragons. With each death, the ore pulsed heavily, and when the last one fell, they could feel the gems around the sigh a breath of relief, as their light released from their cores.
+
+They confronted Kaurius upstairs again - to everyone's surprise - and though threathened to take his life, were paid handsomely in compensation. They were boarded unto a cart to be rolled back towards the city, to new adventures, now a little more wary of the figures that would hire them...

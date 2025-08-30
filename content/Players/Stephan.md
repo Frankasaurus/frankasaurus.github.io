@@ -11,5 +11,3 @@ tags:
 # Characters
 ## Main campaigns
 - Guest appearance in Vimak's dream as a Bear
-## One-Shots & other
-- 
