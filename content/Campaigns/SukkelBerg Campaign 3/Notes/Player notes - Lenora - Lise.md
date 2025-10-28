@@ -17,7 +17,7 @@ tags:
 	- **Kaurius does not know Lenora is alive.** She was to be hanged, but a guard and former classmate had pitty and made a 'mistake'.
 - **What happens to Lenora if she doesn't sustain herself?**
 	- Wilmar, as a lich, keeps the tendrils of shadows away. But this constant exertion at a very early stage of lichdom is demanding. This meaning, it is not Lenora sustaining herself - it his Lenora feeding her father energy to defend her. Her soul is still teetering between the Shadow and Life. 
-	- If this defense drops, The Shepherd will summon a rupture from the Shadowfell, either bringing it to the Material Plane (spawning shades and other Shadowfel creatures), or in later stages, pull them to the Shadowfel (future arc?).
+	- If this defense drops, The Shepherd will summon a rupture from the Shadowfell (also known as a **Shadow Crossing**), either bringing it to the Material Plane (spawning shades and other Shadowfel creatures), or in later stages, pull them to the Shadowfel (future arc?).
 - **How does the rest of the party impact her backstory?**
 	- The Party will feel a shadowy gaze upon them every so often, without Lenora knowing. This is the Shepherd leeching out when she isn't paying attention.
 	- Gallus will feel his connection to the stars blot out when close to Lenora.

@@ -8,7 +8,7 @@ tags:
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Spelers aanwezig | [[Hanne]] ([[Garrick]]) [[Kacper]] ([[Gallus]]), [[Kim]] ([[Nyrin]]), [[Lise]] ([[Lenora]]), [[Melle]] ([[Herman]]),  [[Roy]] ([[Yerall]]) |
 | Datum            | Zo 26 Juli, 2025                                                                                                                           |
-| Titel            |                                                                                                                                            |
+| Titel            | Buit, en nog meer Buit                                                                                                                     |
 **Wat:** Vorige sessie zijn ze Rhomea ingelopen, en ondanks een korte stop bij de Koningsgarde, door Pacper de regio in gesmokkeld. Na wat vriendelijker te worden, en de nacht toe te keren, zijn ze ontwaakt door de Stadsgarde van Elivestr, met [[Kaurius Krone]] op de loer. Ze zijn een voorbereide ontsnappingstunnel in gevlucht.
 **Wanneer:** 7 dagen na aankomst op vasteland, herfst. Nacht.
 **Waar:** Zuidergrens van het Pentos Woud, in Rhomea.

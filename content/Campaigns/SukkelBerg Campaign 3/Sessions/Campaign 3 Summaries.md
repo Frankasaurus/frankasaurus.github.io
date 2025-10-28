@@ -87,3 +87,17 @@ tags:
 >
 > ![[C3S06Summary.pdf]]
 
+> [!quote]- Sessie 7 - Buit, en nog meer Buit | 24 Juli 2025
+> In de duisternis van de mijn kwam het tot een confrontatie tussen de avonturiers en een grote spin. Dit keer heeft de groep niet slechts te maken met een grote vijand, maar ook een zwerm aan kleine spinnetjes. Terwijl de groep zich verdedigde, verspreidden deze talloze kleine spinnen zich over de muren en vloer Gelukkig zijn onze avonturiers zoals gewoonlijk voorbereid om hun magie te gebruiken, met name spreuken die spinnen in de fik kunnen steken. 
+> 
+> Na een moeizame strijd kwam er een einde aan het gevecht toen Yerall de laatste beslissende slag toebracht. De spin zakte in elkaar. De spanning was echter nog niet voorbij aangezien de avonturiers vooralsnog op de vlucht zijn. In een snelle reactie besluit Yerall zijn uil kompaan Hoot Hoot in te schakelen om de vluchtroute te verkennen. De uil van Yerall vliegt snel uit de put om de bovengrond te verkennen.
+> 
+> **De grote ontsnapping**
+> Hoot Hoot de verkenner ziet al gauw dat er weinig kans voor ontsnapping is. De omgeving boven de mijn bleek doorzocht te worden door wachters die op zoek waren naar de gevluchte avonturiers. De schuur van de buurman blijkt echter voorlopig een goede schuilplaats te zijn voor de groep. Niet veel later verscheen de buurman zelf. Wat blijkt is dat Pacper en de buurman eerder al een afspraak hebben gemaakt, mocht een situatie als deze zich voordoen. De buurman weet snel een kar voor de avonturiers tevoorschijn halen die al gereed staat voor vertrek. Op deze manier weten de avonturiers zich op een snelle manier uit de omgeving te verwijderen. Tijdens de rit vertelt Pacper aan de avonturiers dat hij een mogelijke tussenstop met de groep wenst te delen.
+> 
+> **Het dorp in het moeras**
+> Onderweg naar de volgende bestemming van de avonturiers vertelt Pacper over zijn tijden als avonturier. Hij deelt tevens aan de groep mee dat hij lang terug zijn voorraad heeft verstopt in een dorp vlak bij een moeras. Na een stevige onderhandeling besluit de groep om een tussenstop te maken bij het dorp in het moeras met als doel om de verloren voorraad van Pacper te vinden. Het dorp in kwestie blijkt Steengroet te heten, of eerder, te hebben geheten. Het dorp blijkt al jaren achtergelaten te zijn en is zelfs half onderwater. 
+> 
+> De avonturiers onderzoeken een aantal gebouwen, ieder treft het een en ander interessants aan. Uiteindelijk treft ook Pacper zijn oude voorraad aan. De buit wordt verdeeld onder de avonturiers, onder andere een grote zwaar en een hand canon, en vervolgens maken de avonturiers zich klaar om te vertrekken naar hun volgende bestemming; de boerderij van Hermann.
+>
+> ![[C3S07Summary.pdf]]

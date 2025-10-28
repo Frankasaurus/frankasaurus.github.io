@@ -10,7 +10,8 @@ tags:
 	- Constellations are made up of both distant stars and these Gateways, but it is not the sign itself, but the cluster of Gateways that are the source of their might.
 - **What can Gallus do on his journey in uncovering the magic in the Stars?**
 	- Gallus, now freed from the teachings of the Circle, threads his own path, beckoning the Stars to answer to him. One by one, the constellations will ask him to present himself, before granting him their wisdom - a wisdom long forgotten by his original Circle. 
-	- **Serpent** - Meant as an easy start; A circular constellation that bodes the flow of time, with all its significance and insignificance. They will require a show of awareness to the true passing of time, where change is only possible when submitting yourself to the passing of time and your relative unimportance in the universe (Get it twisted).
+	- Looking past what one can see in the night sky, will reveal clear gateways to other planes. Temporary vision paths into other realms, sharing wisdom with the observer. This manifests in Gallus observing two constelations: The Material constellations, and the Ethereal constellations. The ethereal constellations are shaded in purple - like his eyes - underneath the main constellation on his map.
+	- Unlocking parts of the constellation will allow Gallus to becon other planes for truths, or reference the stars for guidance and wisdom in a very real sense. Further unlocks will give him powers.
 - **How does the rest of the party impact his backstory?**
 	- D
 - **Ideas**
@@ -38,3 +39,11 @@ Ik begin ongeduldig te raken. Al enkele maanden zijn voorbijgegaan en ik zie het
 - Star Charts maken heeft een focus nodig? A: Nee.
 - Starry form aannemen in wildshape? A: Ja, dat kan, maar spellcasting kan niet tijdens wildshape.
 - Faerie Fire Area of Effect blijft ook wanneer affected creatures hieruit bewegen? A: Ja. De 20ft Cube wordt gebruikt bij toepassing, maar is verder niet relevant.
+
+# Constelations
+- **Serpent** - Meant as an easy start; A circular constellation that bodes the flow of time, with all its significance and insignificance. They will require a show of awareness to the true passing of time, where change is only possible when submitting yourself to the passing of time and your relative unimportance in the universe (Get it twisted). Simple Wisdom save.
+- **Tree** - This Represents 
+- **Valley** - 
+- **Skull** - 
+- **Chains** - 
+- **Tornado** - 

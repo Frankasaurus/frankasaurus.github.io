@@ -2,6 +2,7 @@
 publish: true
 tags:
   - califhen-reborn
+  - dnd-location
 ---
 > [!infobox]  
 > # Free State of Cogastr

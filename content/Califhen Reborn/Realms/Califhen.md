@@ -3,6 +3,7 @@ publish: false
 tags:
   - califhen-reborn
   - expand
+  - dnd-location
 ---
 > [!warning] Internal note
 > Let's keep this page close to the vest, as to not lock ourselves within our worldbuilding. 
