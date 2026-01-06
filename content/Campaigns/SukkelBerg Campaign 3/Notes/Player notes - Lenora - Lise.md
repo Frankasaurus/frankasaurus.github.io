@@ -61,4 +61,39 @@ Wilmar von Elsenburgh - Father
 Josephine Doorne - Mother, deceased
 Corinne - Oldest sister
 ??? - Middle sister
-Dushi & Niffo - Dogs
+
+**NPC's** - **Lenora heeft ofc. geen idee wat er in de tusentijd met deze mensen gebeurt is, dit is hoe ze haar connecties heeft achtergelaten.**
+- 2 oudere zussen: Matilde (25) en Corine (27). beide heel zelfstandig, doen hun eigen ding. De hechte zussenbanden zijn veranderd nadat hun moeder overleed. 
+- Haar vader Wilmar. Sloot zich na de hele toestand op in kantoor zonder veel gedaan te krijgen. At en dronk te weinig en mompelde wat wanneer hij werd aangesproken. 
+- De huismeid, 'iets met een L'. Lenora neemt niet de moeite om haar naam te leren en doet nep vriendelijk tegen haar, zoals bij wel meer mensen. 
+	- Lena
+- De twee grote dobermann honden genaamd Klaus en Maus. Waakhonden. 
+- 2 besties: Katryna en Sofia. Lenora was soort van de 'leider' van dit meidengroepje. ze trokken zich veel aan van lenora haar mening. 
+- Leraren aan de universiteit. respecteren haar harde werk en ambitie, en maakte zich zorgen om haar afwezigheid. Na de 'verbannning' is ze niet meer naar school geweest. 
+- Bibliothecaresse. Oudere dame. Met haar besprak Lenora meer dan alleen de koetjes en kalfjes. Van haar kreeg Lenora altijd special treatment: bijzondere boekaanbevelingen, lekkernijen en een afzonderlijke leeshoek. 
+- Wijnhandelaar. Jonge elf van buiten de stad die wekelijks een wijn assortiment bij Lenora thuis afleverde en vaak bleef voor een glaasje en een praatje.  
+- Boetiekeigenaar waar Lenora vaak shopte. Gezellige, flamboyante elf man die haar vaak fashion advies gaf en kleding op maat maakte.
+
+**NEW VERSION BACKSTORY**
+Lenora is vierentwintig en ziet eruit alsof ze uit porselein gemaakt is: mooi, maar breekbaar. Haar smaragdgroene ogen lijken altijd net iets te veel te zien, alsof ze door mensen heen kijkt. Haar asblonde haar droeg ze vroeger vaak in vlechten, met linten en sjaaltjes erin. Tegenwoordig hangt het los, slordig, omdat ze ver van haar thuis en daarom ver van haar imago is. Ze draagt lange jurken van dure stoffen en zilveren sieraden. Buiten, in het gure noorden van Celiria, draagt ze een zware bordeauxrode jas met bontkraag en hoge veterschoenen. Haar lange, spitse nagels geven haar een elegant, maar gevaarlijk uiterlijk.
+
+Ze woont haar hele leven al in het Gilde-district van Elivestr, samen met haar vader Wilmar en haar oudere zussen, Matilde en Corine en de twee enge dobermanns: Klaus en Maus. Hun huis is groot en gevuld met boeken, tikkende klokken, en de laatste tijd vooral stilte.
+
+Wilmar von Elsenburgh Doorne was ooit een gerespecteerd man: hoofd van de stadswacht, lid van de raad, en zelfs kandidaat voor het hertogdom. Een idealist met een visie voor een rechtvaardige stad. Maar zijn rivaal, Kaurius Krone, dacht daar anders over.  
+Kaurius, wist de massa te bespelen door angst voor chaos te zaaien, en valse beloftes voor orde te doen. Terwijl de stad kampte met criminaliteit, voedseltekorten en onrust, bood hij eenvoudige oplossingen: registratie, gesloten stadsringen, herstructurering van ‘overbodige bevolkingsgroepen’. Hard, maar effectief. Tenminste, zo klonk het. Wilmar probeerde hem tegen te houden, maar begon te beseffen dat er iets diepers, iets duisters achter Kaurius schuilging. 
+
+Maar waar Wilmar een tegengewicht probeert te bieden, begint hij ook te vermoeden dat Kaurius niet alleen immoreel is, maar gevaarlijk. De vete tussen de twee mannen wordt persoonlijker, feller. Tot op een dag Lenora, de jongste dochter van Wilmar, verdwijnt.
+
+Wilmar weet iets. Misschien is hij ooit in contact gekomen met deze krachten, of misschien ontdekte hij documenten of artefacten die in verband staan met de opkomst van Kaurius. Maar durft dit publiekelijk uit te spreken. Dus zwijgt hij. Hij weet dat Kaurius gevaarlijk is, maar kan niets bewijzen zonder zichzelf of zijn familie op te geven. Zijn dochter, die hem als groot voorbeeld ziet, wordt zijn zwakke plek. Kaurius weet dat, en gebruikt het.
+
+Lenora’s ziel dwaalt tussen de schaduwen. Een onbekende, onaardse plek die haar ziel corrumpeert, haar energie uitput, haar langzaam transformeert. Ze weet niet waar, en ze wist niet hoelang ze daar was. Uren? Dagen? jaren? Tot ze plots wakker wordt in een donkere kamer, zonder enige herinnering aan wat eraan de verbanning tevoren ging. Wilmar is bij haar, hij omhelst haar. Maar is merkbaar compleet verslagen: zijn armen hangen slap om haar heen, en zijn ogen hebben een lege blik.
+
+Lenora’s geest is niet meer helemaal van haarzelf. Er is iets in haar achtergebleven. Een stukje van die schaduwwereld. Magie, kracht… en honger. Ze probeert haar nieuwe krachten te begrijpen, maar hoe meer ze leert, hoe minder ze zichzelf herkent. Ze eet, ze slaapt, maar het helpt niet. Haar huid wordt bleek, haar haar dof, haar adem koud. Wat ze echt nodig blijkt te hebben, durft ze niet onder ogen te komen. 
+
+Kaurius heeft het lichaam van Lenora teruggebracht, na overgave van Wilmar zijn macht. De man die ooit vuur sprak in de raadzaal, sluit zich nu op in zijn werkkamer. Hij eet nauwelijks, praat zelden, en komt amper nog naar buiten. Elivestr verloor zijn stem van rede. En Lenora weet dat zij er iets mee te maken heeft. 
+
+Nog geen maand geleden was ze gewoon een rechtenstudent aan de universiteit, competitief en sterk in wat ze deed. Ze hield van opvallen en deed er alles aan om haar familienaam hoog te houden. Op straat wordt ze gevolgd door velen, waaronder de twee jonge vrouwen die ze haar beste vriendinnen zou noemen. Ze genoot van een goede roddel met een glas wijn, bezocht graag de boetiek en las lectuur bij kaarslicht. Ze leefde onbezorgd en gelukkig. Ze zag haar toekomst voor zich, in de voetsporen van haar vader met een groot hart voor de stad. 
+
+Dit alles leek ineens zo onbelangrijk. Haar leven is overgenomen door wraakzucht. Kaurius moet ten onder gaan. Desnoods moet hij sterven. Niet om gerechtigheid, niet voor eerherstel. Maar omdat ze voelt dat er geen andere weg meer is. Ze probeerde te praten, te begrijpen, maar haar vader is gebroken, en de stad staat op het randje van de afgrond. De man die haar lichaam roofde en haar ziel ‘vervloekte’, mag geen hertog worden. Maar de drang in haar om hem, of überhaupt iemand,  te vernietigen, waar komt dat vandaan? is die van haar? 
+
+Elke dag wordt ze zwakker, maar tegelijk sterker. Elke keer dat ze haar magie gebruikt, voelt ze zich meer in controle maar ook minder mens. Ze staat op de rand van iets donkers.

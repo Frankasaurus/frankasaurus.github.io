@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Previous owners** | Andries Stellard, unknown Boggle |
-> | **Current owner** | [[Lenora]] |
+> | **Previous owners** | Andries Stellard, unknown Boggle, [[Lenora]] |
+> | **Current owner** | Andries Stellard |
 
-**Tome of the Blooded** is a magical book, currently in possession by [[Lenora]].
+**Tome of the Blooded** is a magical book, currently in possession of it's author, Andries Stellard.
 # Description
 This large tome has a red leatherbound cover, with red infernal markings addorning the face of the book. A large Silver alloy clasp is afixed to the book along the opening side, with no physical way to open it. It perpetually drips blood. If you attempt to clean the book through any means, physical or magical, the blood will re-emerge seeping from the cover and pages.
 
@@ -38,4 +38,4 @@ The rings on the hand are the following;
 - Stellard's Ring
 - Telinde's Bracelet
 
-Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When the [[Hex Circulum]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora.
+Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When [[Hex Circulum]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora. After the party met Andries, he recognized his book, and instructed to open it. After defeating the hand, Andries brought it to his home.

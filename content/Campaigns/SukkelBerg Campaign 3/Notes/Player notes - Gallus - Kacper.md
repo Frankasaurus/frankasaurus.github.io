@@ -6,7 +6,7 @@ tags:
 ---
 # Factsheet
 - **What is the truth that the stars hold?**
-	- The stars do not predict events, nor do they reflect lessons from the past. The true magic in stars lies within differentiating far-distant stars from Astral Gateways. These Astral Gateways peer into the Material Plane, and through it 'leek' Astral projections and beings onto the Material world. The power lies within finding which Gateway channels what, and channeling that force. By channeling different Gateways, you get different dreamlike results.
+	- The stars do not predict events, nor do they reflect lessons from the past. The true magic in stars lies within differentiating far-distant stars from Astral Gateways. These Astral Gateways peer into the Material Plane, and through it 'leak' Astral projections and beings onto the Material world. The power lies within finding which Gateway channels what, and channeling that force. By channeling different Gateways, you get different dreamlike results.
 	- Constellations are made up of both distant stars and these Gateways, but it is not the sign itself, but the cluster of Gateways that are the source of their might.
 - **What can Gallus do on his journey in uncovering the magic in the Stars?**
 	- Gallus, now freed from the teachings of the Circle, threads his own path, beckoning the Stars to answer to him. One by one, the constellations will ask him to present himself, before granting him their wisdom - a wisdom long forgotten by his original Circle. 

@@ -37,6 +37,7 @@ Over centuries, Elivestr rarely chose sides as an intellectual hub, but often su
 Built relatively late in Elivestr's history, this windy cliffside is the most developed area of the city. The most important buildings are often housed here, scattered inbetween places of worship and accomodations for bigger estates, such as some of the houses.
 - **The Royal Estate:** One of the homes to King Peldr and the Vreebis' Royal family.
 - **The Waxen Court:** Home to the governance of Elivestr.
+- **House Valkier:** A mansion housing the bloodline of Elivestr's most succesful administrators, bookkeepers, and record takers. Known for holding a grudge.
 
 **Guild District**
 When Elivestr's Guilds started coming to life, most settled around each other to improve communication. Though modestly maintained, it is a varied area, from wide bustling streets to narrow dusty alleys.
@@ -48,14 +49,17 @@ When Elivestr's Guilds started coming to life, most settled around each other to
 
 **Hearthfather District (of Learning)**
 The Hearthfather District is where Elivestr was founded, and maintains its original purpose - to focus and study. Some of the oldest buildings in the city are the university buildings of this are, though little of the living quarters remain today.
-- **University of Law** 
-- **University of Literature**
-- **University of Geography** 
+- **University of Law.** 
+- **University of Literature.**
+- **University of Geography.** 
 - **Minor universities.**
 - **Kederfire Square:** the origin of Elivestr's founding.
+- **Library.**
+- **Jan & Esther's residence.**
 
 **Craft & Trade District**
 Housing Elivestr's port, this area is centered on the final stretch of the river Eli, where it cuts the cliffside in two before exiting in the Cohyn Sea. The cranes and scaffolding that move cargo from the docks to the inner city fills the skyline, and blocks out a lot of light to the port. The remainder of this area is full of warehouses and big blocks of living spaces.
+- [[Tonguerippers]] HQ in the catacombs, alongside Tobol & Byrna's shop.
 
 **Edge District**
 Though once an up-and-coming area, this has now become the new home for expelled citizens during [[Kaurius Krone|Kaurius Krone's]] reign. 

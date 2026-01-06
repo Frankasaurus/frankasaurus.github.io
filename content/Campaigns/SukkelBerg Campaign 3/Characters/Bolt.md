@@ -46,6 +46,6 @@ tags:
 Description of appearance.
 # Biography
 ## Before the campaign
-Story of before the adventuring party coalesced in Telack.
+Story of before joining [[Hex Circulum]].
 ## During the campaign
 Story of after meeting the gang.

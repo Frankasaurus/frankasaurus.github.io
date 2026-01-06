@@ -10,7 +10,7 @@ tags:
 - **What Guild was Herman part of?**
 	-  The Guild of Interstate Commerce, also known as the *Pursuit of the Owl* ('Gilde Uilstreven'). Here he was a 'Silver Tongued' dealmaker. This is the guild that also extradited him and the other [[Hex Circulum]] members to [[Cogastr]].
 - **Which house killed his family?**
-	- *TBD - Leaving this up to Melle*
+	- House Valkier, known for holding a grudge, but also some of the most powerful people in [[Elivestr]]. Their bloodline has supplied the city with the most famed and well-respected bookkeepers and lawmakers.
 - **What was his Daughter planning?**
 	- Herman's daughter (*Name TBD*) was part of an underground criminal organisation (*De Tongscheurder*) with only a few members, that routinely disturbes the ventures of nobles and politicians. They continue to do so to this day, and have only become more radicalized in their work, though they have been met with decades of supression.
 	- Their founding was based on the founding of the Guild District, which built walls within the city segragating the upper-classes from the working classes, where they disturbed building sites and organised rallies.
