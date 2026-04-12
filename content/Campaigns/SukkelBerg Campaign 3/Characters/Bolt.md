@@ -46,6 +46,6 @@ tags:
 Description of appearance.
 # Biography
 ## Before the campaign
-Story of before joining [[Hex Circulum]].
+Story of before joining [[Sept Circulum]].
 ## During the campaign
 Story of after meeting the gang.

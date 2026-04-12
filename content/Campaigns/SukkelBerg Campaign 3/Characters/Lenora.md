@@ -24,7 +24,7 @@ tags:
 > | **Born** | [[Elivestr]] (Noord-[[Celiria]]), 24 years ago |  
 > | **Languages** | Common, Elvish, Infernal |  
 > | **Family** | - [[Wilmar von Elsenburgh Doorne]] (father)<br>- Corinne & Matilde (sisters) |
-> | **Connections** | - [[Hex Circulum]] (member) <br>- [[Kaurius Krone]] (Wilmar's rival)<br>- Unknown Warlock patron |
+> | **Connections** | - [[Sept Circulum]] (member) <br>- [[Kaurius Krone]] (Wilmar's rival)<br>- Unknown Warlock patron |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -58,6 +58,6 @@ As a liberal member of the city's Corporatocracy, Wilmar's rivalry with the ruth
 
 During her time in the shadowy realm, Lenora's soul became infused with it, and drained much of her energy. From that point onward, she began to feel empty, like a husk. After a short, unknown duration, she spontaniously returned to her own body in her father's embrace, though he felt a lot colder than before. Wilmar becomes quiet, retreated, refuses to talk and stops attending his meetings. Through her worries and questions, combined with the strange new powers the realm of shadows and another unknown origin has given her, Lenora becomes motivated to take action.
 
-In her motivation, she found herself plotting to murder Kaurius, the person who has ruined her and her family, and intends on bringing the entire city down. Mere weeks into her plotting however, a combination of becoming ever weaker and feeling more and more empty, caused her to be caught in the act. Thought Kaurius personally signed her death sentence, for unknown reasons she was sent to [[Cogastr]] instead, where she happened upon a chance meeting with unique and powerful individuals. Upon their escape, they formed [[Hex Circulum|an adventuring party]].
+In her motivation, she found herself plotting to murder Kaurius, the person who has ruined her and her family, and intends on bringing the entire city down. Mere weeks into her plotting however, a combination of becoming ever weaker and feeling more and more empty, caused her to be caught in the act. Thought Kaurius personally signed her death sentence, for unknown reasons she was sent to [[Cogastr]] instead, where she happened upon a chance meeting with unique and powerful individuals. Upon their escape, they formed [[Sept Circulum|an adventuring party]].
 ## During the campaign
 *To be written...*

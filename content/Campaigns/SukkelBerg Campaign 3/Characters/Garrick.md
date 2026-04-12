@@ -23,7 +23,7 @@ tags:
 > | **Class** | Ranger (Beast Master) |  
 > | **Born** | Rhomea, 29 years ago |  
 > | **Languages** | Common, Common Sign Language, Goblin, Halfling, Orc | 
-> | **Connections** | - [[Hex Circulum]] (member) |
+> | **Connections** | - [[Sept Circulum]] (member) |
 > | **Status** | Alive |
 > | **Sessions** | All of [[Campaign 3]] |
 > ###### Stats
@@ -52,6 +52,6 @@ Growing up in the small town of Rhomea to the south of the Pentos Woods, Garrick
 
 A night at a tavern like every other turned into a happy encounter with a Druid from further away, [[Gallus]]. Their companionship sparked ideas for earning a bit of money to sustain themselfs, and they would do tricks in neighboring towns and villages, their magnum opusbeing a switcharoo; Garrick's cat would wander out of sight, and Gallus, wildshaped as a panther, would emerge. Though this earned steady cash several times, their performance in the city of Hanpr caused mass hysteria on the street. This, combined with unpaid dues to government officials for street performances, put them in jail.
 
-Whether it was fate or just exaggeration from the warden, Garrick and Gallus would be sent off to [[Cogastr]] to work for minerals the city needed for their fabrication trading. When they were unceremoniously put into isolation cells, they met other unfortunate but talented individuals. Upon their escape, they formed [[Hex Circulum|an adventuring party]].
+Whether it was fate or just exaggeration from the warden, Garrick and Gallus would be sent off to [[Cogastr]] to work for minerals the city needed for their fabrication trading. When they were unceremoniously put into isolation cells, they met other unfortunate but talented individuals. Upon their escape, they formed [[Sept Circulum|an adventuring party]].
 ## During the campaign
 *To be written...*

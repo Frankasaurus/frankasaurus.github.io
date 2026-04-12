@@ -12,12 +12,13 @@ tags:
 > ###### Base Info
 > | | |  
 > |---|---|  
-> | **Name** | Hex Circulum |
+> | **Name** | Sept Circulum |
+> | **A.k.a.** | Hex Circulum (before [[Bolt]] joined) |
 > | **Type** | Aventurers |
 > | **Origin** | [[Cogastr]] |
-> | **Home base** | Undetermined, likely Herman's Homestead |
+> | **Home base** | Undetermined, likely [[Herman's Farm]] |
 
-**Hex Circulum** is the group of adventuring individuals in [[Campaign 3]].
+**Sept Circulum** is the group of adventuring individuals in [[Campaign 3]].
 # Current members
 
 | Player     | Character        | Species               | Origin      | Class                                                                 |
@@ -36,7 +37,7 @@ tags:
 | ----- | ------------------------------ |
 | 3     | Session 1 - Prison Break       |
 | 4     | Session 5 - The Rings of Power |
-| 5     |                                |
+| 5     | Session 9 - Crock Block        |
 # Allies and friends
 ***For a full list of NPC's, see [[All Campaign 3 NPC's|here]].***
 

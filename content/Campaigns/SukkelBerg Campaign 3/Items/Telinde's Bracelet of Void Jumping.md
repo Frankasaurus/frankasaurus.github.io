@@ -18,7 +18,7 @@ tags:
 > | | |
 > |---|---|
 > | **Former owner** | Andries Stellard |
-> | **Current owner** | [[Hex Circulum]] |
+> | **Current owner** | [[Sept Circulum]] |
 
 **Telinde's Bracelet of Void Jumping** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description

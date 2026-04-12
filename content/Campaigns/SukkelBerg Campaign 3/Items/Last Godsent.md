@@ -17,10 +17,10 @@ tags:
 > ###### Historical Information
 > | | |
 > |---|---|
-> | **Current owner** | [[Hex Circulum]] |
+> | **Current owner** | [[Sept Circulum]] |
 > | **Previous owners** | Pacper, a former Gajau-hunter |
 
-The **Last Godsent** (*NED: 'Laatste Godengericht'*) is a massive Magical Greatsword and Vambrace pairing currently owned by [[Hex Circulum]]. It formerly belonged to former Gajau-hunter and  [[Garrick]]'s uncle, Pacper. It was left in Stonemorn - a bog village Southwest of [[Elivestr]] - after Pacper's final mission as a hunter.
+The **Last Godsent** (*NED: 'Laatste Godengericht'*) is a massive Magical Greatsword and Vambrace pairing currently owned by [[Sept Circulum]]. It formerly belonged to former Gajau-hunter and  [[Garrick]]'s uncle, Pacper. It was left in Stonemorn - a bog village Southwest of [[Elivestr]] - after Pacper's final mission as a hunter.
 # Description
 This weapon does not deal standard Greatsword damage, though it does retain its properties and mastery. Instead, this weapon deals damage according to the size of the target creature, and the amount of consecutive hits the wielder scores. The base damage die can be consulted in the table below. The amount of dice is then multiplied for every consecutive successful attack on the same creature, up to a maximum of three. This is reset whenever the wielder receives any damage, the target creature changes in size, or attacks a different creature, even if that attack doesn't result in damage.
 

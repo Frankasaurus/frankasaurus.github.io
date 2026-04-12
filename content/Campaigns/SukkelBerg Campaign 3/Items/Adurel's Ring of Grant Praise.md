@@ -18,7 +18,7 @@ tags:
 > | | |
 > |---|---|
 > | **Former owner** | Andries Stellard |
-> | **Current owner** | [[Hex Circulum]] |
+> | **Current owner** | [[Sept Circulum]] |
 
 **Adurel's Ring of Grant Praise** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description

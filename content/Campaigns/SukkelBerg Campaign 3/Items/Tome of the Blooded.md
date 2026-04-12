@@ -38,4 +38,4 @@ The rings on the hand are the following;
 - Stellard's Ring
 - Telinde's Bracelet
 
-Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When [[Hex Circulum]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora. After the party met Andries, he recognized his book, and instructed to open it. After defeating the hand, Andries brought it to his home.
+Andries had a Boggle store it for him, but it escaped and later got captured by smugglers. It was hidden in a chest, and then abbandoned for 50 years. When [[Sept Circulum]] arrived with refugees from [[Cogastr]], they discovered the chest and release the Boggle. The book was chosen as a reward, concealed by a riddle, and given to Lenora. After the party met Andries, he recognized his book, and instructed to open it. After defeating the hand, Andries brought it to his home.

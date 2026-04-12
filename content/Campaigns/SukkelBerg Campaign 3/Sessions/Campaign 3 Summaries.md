@@ -3,6 +3,7 @@ publish: true
 tags:
   - sukkelbergdnd-3
 ---
+# Arc 1 - Cogastr's vluchtelingen
 > [!quote]- Sessie 1 - Prison Break | 8 December 2024
 > Dit verhaal begint op het eiland Cogastr, een gevangeniseiland onder leiding van Dain Gerdruck. De meeste gevangenen op Cogastr komen uit Noord-Celiria. Deze gevangenen, vaak aangeduid als 'inwoners,' worden ingezet als mijnwerkers of voor andere arbeid op het eiland. De gevangenis is verdeeld in verschillende cellenblokken, waaronder een blok met isoleercellen. Recentelijk is de Paladin Orc genaamd Herman aan dit isolatieblok toegevoegd. Met begeleiding van twee wachters wordt Herman in een isoleercel geplaatst. Kort daarna ondergaan ook de andere avonturiers hetzelfde lot: Yerall, een Drow Elf Rogue; Nyrin, een Drow Elf Bard; Lenora, een Human Warlock Sorceress; Garrick, een Human Ranger; en Gallus, een Drow Elf Druid.
 > 
@@ -112,3 +113,46 @@ tags:
 > Met de kinderen en de boerderij eenmaal veiliggesteld, moest het echte werk nog beginnen. De avonturiers en de kinderen hielpen elkaar bij het opschonen van de boerderij, met hier en daar wat interessante gesprekken over het verleden van Herman, Bob, Yerall en Nyrin. Sneller dan verwacht, verscheen Raadslid van Maalveld bij de boerderij van Herman. Tinka was niet tevreden, maar wist zelf ook dat haar zoon en zijn vriendjes ook verkeerde daden hebben verricht. Herman en Tinka weten hun wederzijdse problematiek voorlopig op te lossen en delen met elkaar enkele persoonlijke bevindingen. Bij de aankomst van Tinka voelde Lenora onmiddellijk een vreemd, koud gevoel, die maar niet wilde verdwijnen. Na een ogenblik lijkt Lenora zich in een andere wereld te bevinden. Een wereld vol met geesten en skeletten. Ook wordt zij aangestaard en aangesproken door een groot boom-achtige wezen, waarna plots een portaal lijkt te openen uit de torso van Lenora. Uit deze opening komen een aantal geesten en dode wezens tevoorschijn, die niet een bepaalt vriendelijke uitstraling hebben. De avonturiers overwinnen gauw en worden achtergelaten met veel vragen en weinig antwoorden. Hierna wist Lenora dat zij haar achtergrond niet meer verborgen kon houden en deelde zij haar verleden met de avonturiers. Zij vertelde over haar vader en over Kaurius. Deze bevindingen werden op hun beurt vervolgens besproken met Pivostoli, de geest in de ring van Nyrin. Pivostoli wist een link te leggen met een andere dimensie, de Shadowfel, en de ingangen daarnaartoe, genaamd Shadow Crossings. Ten slotte wist Garrick een verband te leggen met het bestaan van jagers die wezens opsporen die niet uit de materiele dimensie komen en deze verdrijven naar hun oorspronkelijke wereld. Met al deze nieuw opgedane kennis, is het nu aan de groep om te besluiten over hun vervolgstappen.
 >
 > ![[C3S08Summary.pdf]]
+
+> [!quote]- Sessie 9 - Crock Block | 14 December 2025
+> Bij het aanbreken van het eerste licht besloot Herman dat het tijd was om voorlopig afscheid te nemen van de kinderen van boerderij Het Leermoment. Nu Herman met zekerheid kan zeggen dat de kinderen veilig waren, besluit de groep hun reis naar Elivestr voort te zetten. De reis duurde slechts een halve dag, maar al gauw kon de groep een uitzicht zien dat voor een aantal van de avonturiers heel bekend was. De diverse wijken van Elivestr, waaronder het handelsdistrict, zijn direct te onderscheiden. Wat echter meteen opviel, was de grote menigte mensen die zich voor de stadspoorten had verzameld. Zij stonden in lange rijen te wachten, hopend op toegang tot de stad. De bewaking was streng en slechts zelden werd iemand binnengelaten. Tussen de mensenmassa door viel tevens één specifieke figuur op, maar helaas wist deze persoon snel tussen de mensen te verdwijnen. De avonturiers zagen een kans voor een mogelijke ingang bij een lokale begraafplaats, waar een tijd geleden Nyrin en Yerall een uitweg vanuit de stad wisten te vinden. Ook is dit de rustplaats van de vrouw en het kind van Herman. Hij nam een moment om daarbij stil te staan, terwijl de rest van de groep de omgeving verkende. 
+> 
+> **Goden Quiz**
+> Tijdens hun onderzoek betraden de avonturiers een mausoleum. Binnen stonden dertien standbeelden en langs de muren ontdekte Yerall een geheimzinnige tekst. Na een poosje denken werd duidelijk dat de beelden verbonden waren aan de Witte Loge, oftewel de gedeelde zetel van de goden. Door de standbeelden in de juiste positie te draaien, werd een verborgen doorgang geopend. Het was geen korte doorgang, maar een zeer ingewikkelde set van gangen die zich onder Elivestr bevonden. Met gebruik van de kennis van Yerall wist de groep zich in de juiste richting te navigeren, maar belandde zij uiteindelijk alsnog in een slijmerig gevecht met een gespierde krokodil en een Groper. Eenmaal overwonnen komt de groep een groter obstakel tegen, namelijk een muur. Dit gevecht kunnen de avonturiers helaas niet winnen, dus in plaats daarvan zochten zij naar een uitweg. Deze weg leidde hen uiteindelijk naar een klein winkeltje, vermoedelijk gelegen in het handelsdistrict. De groep besloot om ’s nachts stilletjes door het gebouw naar buiten te sluipen en kwam erachter dat dit winkeltje van niemand anders is dan van Tobol een Byrna. Twee figuren die de groep al eens eerder hebben geholpen.
+>
+> ![[C3S09Summary.pdf]]
+
+> [!quote]- Sessie 10 - Tijd en Vuur | 4 Januari 2026
+> Ineens bevonden de avonturiers zich op een laat tijdstip eenzaam middenin Elivestr. Opzoek naar een verblijfplaats, is de groep helaas door Tobol en Byrna afgewezen. Wel hebben zij een aantal interessante plekken kunnen aanwijzen, waaronder een slaapplek. Eenmaal de ochtend aangebroken, heeft de groep gebruik gemaakt van de vele plaatselijk winkeltjes, waarvan sommige meer verborgen dan de andere. Materiële goederen waren echter niet het enige waar de avonturiers naar op zoek waren; ook hun honger naar kennis was groot. Zo belandden zij uiteindelijk bij een oude kennis genaamd Virmeena die een boel informatie met de groep heeft gedeeld. Zij sprak over hun potentie, de Lesmoeder en zelfs over Shadowfel.
+> 
+> **Jan, Esther en Elivestr**
+> Volgende punt op de agenda van de avonturiers was het redden van Jan en Esther. Bij het infiltreren van de woning waar Jan en Esther verbleven, is de groep er snel achter gekomen dat zij helemaal niet gered hoefden te worden. Wel hadden zij behoefte aan informatie over de nieuwe ontwikkelen op de boerderij Het Leermoment. Nadat zij hierover zijn geïnformeerd, was het voor Jan en Esther duidelijk: Zij gaan onmiddellijk terug naar de boerderij om de goede orde te waarborgen. In ruil voor deze informatie, hebben zij de avonturiers op de hoogte gesteld van de recente ontwikkelingen in Elivstr, waaronder de creatie van een nieuw district genaamd het Randdistrict.
+>
+> De avonturiers stonden vervolgens voor een moeilijke keuze. Hoe begint men aan het ontmantelen van corruptie binnen de politieke kringen van Elivestr? Voorlopig bleef deze vraag onbeantwoord, want op dat moment is de groep aan de slag gegaan met hun volgende agendapunt. Vermomd als huismeid die op een vacature reageert, betreed Lenora samen met Yerall, voor het eerst in een lange tijd, haar familiehuis binnen. 
+>
+> **Huize Von Elsenburgh Doorne**
+> Lenora werd snel herkend door de huidige huismeid van de huize Von Elsenburgh Doorne. Zonder aarzeling besloot Lenora om haar zusje en haar vader te spreken. Bij het openen van de slaapkamerdeur waar Wilmar verblijft, was het gelijk duidelijk dat er iets gruwelijk mis was. De vader van Lenora leek amper in het leven en zijn lichaam vertoonde tekenen van langdurige verval. Deze ontdekking werd onderbroken door de aankomst van Kaurius en Jawahr die een aanbod voor de avonturiers hadden. Drie moorden in ruil voor 150 platina per moord en 250 platina als een ‘eindbonus’. De groep heeft geen toezeggingen gedaan en hebben de twee heren de deur gewezen.
+> 
+> Op zoek naar antwoorden, heeft de groep besloten het huis van Lenora te doorzoeken. Door slimme inzet van de vaardigheden van Bolt, wist zij met de hond van Lenora te communiceren en een verborgen ruimte te ontdekken. Daar troffen de avonturiers een verdacht object aan bestaande uit organische massa en gesloten in een doorzichtig omhulsel geplaatst om een tripod. De groep wist onmiddellijk dit verdacht object te ontrafelen, maar wisten zij geen raad met de dissonante stem die uit dit object leek te komen. Pivostoli erkende geen oplossing te kunnen bieden vanuit de ring van Nyrin, maar heeft hij haar wel een boodschappenlijstje gegeven met materiaal voor de ‘Pivostoli’s Breinpaleis’.
+> 
+> Deze avontuurlijke dag wordt niet afgesloten met een rust vol nacht, maar werden de avonturiers midden in de nacht ontwaakt door een brandlucht.
+>
+> ![[C3S10Summary.pdf]]
+
+> [!quote]- Sessie 11 - For whom the bell tolls | 7 Februari 2026
+> Binnen een ogenblik moesten de avonturiers vluchten uit Huize von Elsenburgh Doorne, nadat deze vermoedelijk in brand was gestoken. Na een heldhaftige daad van Lenora en Herman, waarbij zij de familiejuwelen van de familie von Elsenburgh Doorne uit de woning wisten te redden, was het voor Lenora tijd om afscheid te nemen van het huis waar zij is opgegroeid.
+> 
+> De groep zette hun reis voort richting Hermans boerderij. Eenmaal bijgekomen, wist de groep een doorbraak te maken in het mysterie rondom de vloek van Wilmar en de verdachte vleesachtige massa. Lenora besloot haar krachten niet op haar vijanden te richten, maar op haar eigen vader. Op het eerste gezicht leek dit geen effect te hebben, maar uiteindelijk wist Lenora zich beter te focussen op haar intentie, waardoor Wilmar vermoedelijk gedeeltelijk van zijn aandoening werd genezen.
+> 
+> Eenmaal bijgekomen, kon Wilmar veel informatie delen over Lenora’s verleden. Zo vertelde hij over haar ontvoering door Kaurius, hoe haar lichaam in twee delen is opgesplitst, en over zijn heldhaftige poging om Lenora te redden, waarbij Wilmar zelf veranderde in een Lich. Daarnaast vertelde hij over Kaurius en diens kwade plannen, en onthulde hij dat Lenora zichzelf in leven houdt door Wilmar te voeden met haar krachten.
+> 
+> De rest van de dag vloog voorbij terwijl de avonturiers elkaar beter leerden kennen door onderlinge gesprekken. Ook vond er een uitwisseling van informatie plaats tussen Garrick en Wilmar over de Gloom Stalker Rangers en de Nacht van de Lange Maan; de nacht waarin de ouders van Nyrin en Yerall uit Elivestr zijn verdreven.
+> 
+> Met deze nieuwe informatie nog vers in het geheugen, was het aan de groep om te besluiten waar zij hun avontuur zouden voortzetten.
+> 
+> ![[C3S11Summary.pdf]]
+# Arc 2 - De Tongscheurders
+> [!quote]- Sessie 12 - ??? | 12 April 2026
+> 
+> 
+> ![[C3S12Summary.pdf]]

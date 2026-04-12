@@ -18,7 +18,7 @@ tags:
 > | | |
 > |---|---|
 > | **Former owner** | Andries Stellard |
-> | **Current owner** | [[Hex Circulum]] |
+> | **Current owner** | [[Sept Circulum]] |
 
 **Fedor's Ring of Stable Presence** is a magical ring formerly attached to the severed hand of Andries Stellard, bound in the [[Tome of the Blooded]]. 
 # Description
